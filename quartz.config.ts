@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "graciasoberana.github.io/gso",
+    baseUrl: "notaspastorales.org",
     ignorePatterns: [
       ".obsidian",
       ".claude",
@@ -33,7 +33,7 @@ const config: QuartzConfig = {
       "Obsidian",
       "Programas y ministerios/Equipo de intercesión/Vente a 20",
       "Sermones/Compromisos de Gracia",
-      "Sermones/Mensajes especiales/Matrimonio 2024a",
+      "Sermones/Mensajes especiales/Matrimonio 2024a"
     ],
     defaultDateType: "modified",
     theme: {
