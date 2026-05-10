@@ -1,0 +1,39 @@
+---
+publish: true
+type: chapter
+title: Prólogo
+author: "[[Benjamín Keach]]"
+parent: "[[La gloria de una verdadera iglesia]]"
+publisher: "[[Chapel Library]]"
+tags:
+  - resources/Chapel
+link: https://www.chapellibrary.org/spanish
+---
+
+Prólogo
+
+Benjamin Keach nació el 29 de febrero de 1640 en Stoke Hammond Buckinghamshire, Inglaterra. Encontró la paz por medio de Cristo cuando tenía quince años y al no poder descubrir el bautismo de infantes o el bautismo por aspersión en la Biblia, y estando plenamente convencido de que cada creyente debía ser sumergido, fue bautizado siguiendo el ejemplo de John Russell, ministro de una iglesia bautista en Chesham, Buckinghamshire. Se unió luego, a una iglesia bautista, donde percibieron sus notables talentos, por lo cual, cuando tenía dieciocho años, fue animado a ejercer sus dones como ministro.
+
+Al principio, era un arminiano acerca de la extensión de la expiación y el libre albedrío, pero la lectura de las Escrituras y la conversación con aquellos que conocían la voluntad de Dios, lo aliviaron, perfectamente, de ambos errores. En 1668, a los veintiocho años de edad, fue ordenado pastor de la iglesia de Horsleydown, Southwark, Londres. La congregación creció tan rápidamente después de que el sr. Keach se convirtió en pastor, que tuvieron que ampliar, repetidamente, el lugar de adoración.
+
+El sr. Keach, siendo un teólogo bautista, pronto se convirtió en un famoso contendiente de Richard Baxter, quien era presbiteriano, y además de ser bastante mordaz con el obispo de Kidderminster (es decir, Richard Baxter), también, otros sufrieron sus fuertes golpes.
+
+Después de una disputa acerca del bautismo, el sr. Burkitt, quien estaba a favor del bautismo de infantes, publicó su discurso con el cual había atropellado al rev. John Tredwell, de Lavingham, amigo del sr. Keach, y a su congregación sin darles oportunidad de exponer sus argumentos. El sr. Keach, como valiente defensor de la fe, fue invitado a responder a los argumentos del sr. Burkitt, lo que hizo efectivamente en el artículo “El rector rectificado y corregido”. El sr. Burkitt era el rector de Dedham.
+
+Luego, fue desafiado por algunos ministros episcopales, a discutir el bautismo en Gravesend, cerca de Londres. Cuando se dirigía a ese lugar en una barca con unos amigos, incidentalmente, él aludió a la reunión propuesta, de tal manera que permitió que un extraño, un ministro episcopal, supiera que él era el sr. Keach. Esta persona lo atacó defendiendo el bautismo de infantes y recibió tal derrota que, tan pronto como la barca tocó tierra, se dirigió a sus hermanos episcopales y les informó de los argumentos que el sr. Keach usaría y de su método para ponerlos en práctica. El resultado de la entrevista entre los compañeros de viaje del sr. Keach en el barco a Gravesend y los episcopales fue tal que estos últimos se fueron lo más rápido posible, dejando al sr. Keach sin contendores.
+
+El sr. Keach estuvo, a menudo, en prisión por predicar y su vida estuvo, frecuentemente, en peligro. Un pelotón de caballería enviado a Buckinghamshire para suprimir las reuniones religiosas de los disidentes, encontró al sr. Keach predicando y juró que lo matarían. Lo agarraron, lo ataron y lo echaron en tierra, y cuatro de los soldados estaban dispuestos a pisotearlo con sus caballos; pero justo cuando iban a poner espuelas a sus caballos, un oficial que percibió su objetivo, cabalgando hacia ellos, los detuvo. Fue llevado a la cárcel, de la que obtuvo la libertad después de sufrir grandes penurias.
+
+En 1664, Keach fue arrestado y acusado de publicar un catecismo infantil llamado El instructor del niño (The Child's Instructor). De este catecismo, no se conserva ningún ejemplar, pues era considerado, supuestamente, cismático. En octubre, fue juzgado en Aylesbury ante sir Robert Hyde y fue condenado a dos semanas de prisión, multado con veinte libras y, en dos días, fue puesto en la picota[^1] pública durante varias horas en Aylesbury y Winslow. El juez Hyde abusó, escandalosamente, del sr. Keach, amenazó al jurado y, evidentemente, quería que ejecutaran al sr. Keach si lograba aterrorizarlo para que hiciera algunas declaraciones imprudentes. El jurado dictaminó que el sr. Keach era culpable en parte. Y cuando se le pidió que explicara su veredicto, el secretario dijo: “En la acusación, se le acusa de estas palabras: ‘Cuando hayan expirado los mil años, entonces todos los demás demonios se sublevarán’; pero en el libro dice: ‘Entonces resucitarán los demás muertos’”. El juez informó al jurado de que podían acusarlo de todos los cargos, menos de esa frase. Ellos trajeron el veredicto. E inmediatamente, el juez dijo:
+
+“Benjamin Keach, usted está aquí condenado por escribir, imprimir y publicar un libro sedicioso y cismático, por lo que la sentencia de la corte es que usted va a la cárcel por una quincena sin fianza y, el próximo sábado, se le colocara en la picota pública en Aylesbury, en el mercado abierto por espacio de dos horas, con un papel sobre la cabeza con esta inscripción: ‘Por escribir, imprimir y publicar un libro cismático titulado El instructor del niño o Un nuevo y fácil manual primario’, y el siguiente jueves, estará de pie de la misma manera y por el mismo tiempo, en el mercado de Winslow y entonces, su libro será quemado, abiertamente ante su rostro por el verdugo común para desgracia suya y de su doctrina. Y le será quitado para su majestad el Rey, la suma de veinte libras; y permanecerá en la cárcel hasta que encuentre fianzas por su buen comportamiento y su aparición en las próximas reuniones, será para renunciar a sus doctrinas y hacer la sumisión pública que se le ordene”.
+
+El oficial fue tan riguroso en la ejecución de esta infame sentencia como el juez fue insolente en pronunciarla.
+
+En la picota de Aylesbury, el sr. Keach se defendió a sí mismo y a la verdad con gran audacia. El carcelero lo interrumpió con frecuencia y, finalmente, el propio oficial amenazó con amordazarlo. El pueblo, contrariamente a la costumbre, no tenía palabras de burla para el fiel y perseguido ministro, y no se le lanzó ningún objeto ofensivo. Un ministro episcopal que se atrevió a atacar al sr. Keach en la picota, fue inmediatamente reprochado por el pueblo por la impiedad de su propia vida y su voz fue ahogada en risas. En Winslow, donde vivía, sufrió el mismo castigo vergonzoso y una copia de su pequeño libro fue quemada.
+
+El sr. Keach era un bautista celoso; ayudaba a los ministros que venían a él de todas partes de su país, hacía construir muchas casas de reunión y sus obras en defensa de los principios bautistas eran leídas en todo el reino. Antes de su muerte, los hombres hablaban de él como el “famoso” sr. Keach y los escritores todavía lo describen como un hombre de gran celebridad. Sus dos obras más populares son Tropología o una llave para abrir las metáforas de las Escrituras y Misterios evangélicos revelados o una exposición de todas las parábolas. Esta última obra se pone a la venta con mayor frecuencia en los catálogos de las grandes librerías londinenses de segunda mano que cualquier producción de Richard Baxter, John Howe o Jeremy Taylor. El sr. Keach fue autor de cuarenta y tres obras. Murió el 18 de julio de 1704, a los sesenta y cuatro años. Fue un cristiano devoto que llevó una vida sin mancha y murió en los triunfos de la fe.
+
+Tomado y adaptado del texto de William Cathcart (1881).
+
+[^1]: La picota –Dispositivo hecho de un armazón de madera o metal erigido sobre un poste con agujeros para sujetar la cabeza y las manos, utilizado durante los períodos medieval y renacentista para castigar mediante humillación pública y, a menudo, más abuso físico.

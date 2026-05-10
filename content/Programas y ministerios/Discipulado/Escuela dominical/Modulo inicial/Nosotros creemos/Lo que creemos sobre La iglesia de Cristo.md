@@ -1,0 +1,18 @@
+---
+publish: true
+type: enseñanza
+series: "[[Nosotros creemos (serie)]]"
+sequence: 11
+date: 2024-11-03
+audience: "[[Centro de formación cristiana]]"
+related:
+  - "[[La iglesia de Cristo (Edward Drapes)]]"
+  - "[[Iglesia]]"
+  - "[[Nosotros creemos]]"
+banner: Ministerial/Discipulado/Escuela dominical/Modulo inicial/Nosotros creemos/images/nosotros creemos - banner.jpg
+sticker: lucide//book-plus
+tags:
+  - Ministerial/Discipulado
+---
+
+## Conversación bíblica:

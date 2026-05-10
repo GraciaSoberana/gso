@@ -1,0 +1,56 @@
+---
+publish: true
+type: article
+title: La sabiduría de Dios en la derrota de Satanás
+author: "[[Jonathan Edwards]]"
+parent: "[[Vuestro adversario]]"
+journal: "[[Portavoz de la gracia]]"
+related:
+  - "[[Vuestro adversario]]"
+  - "[[Vida cristiana]]"
+---
+
+La sabiduría de Dios en la derrota de Satanás
+
+Jonathan Edwards (1703-1758)
+
+La sabiduría de Dios aparece, grande y notablemente, al desconcertar y confundir de manera tan extraordinaria, toda la astucia de la serpiente antigua. El poder nunca aparece tan visible como cuando se opone y vence a la oposición. Lo mismo puede decirse de la sabiduría; nunca aparece tan brillantemente y con tanta ventaja como cuando se le opone la astucia de algún enemigo muy hábil, y al desconcertar y confundir esa astucia.
+
+El diablo es sumamente astuto. La astucia de la serpiente es emblemática de él (Gn. 3:1). Una vez fue una de las inteligencias más brillantes del cielo y [no sólo] una de las más brillantes, si no la más brillante, de todas. Y todos los demonios fueron una vez estrellas matutinas de un glorioso resplandor de entendimiento. Todavía tienen las mismas facultades, aunque dejaron de ser influenciados y guiados por el Espíritu Santo de Dios; y así, su sabiduría celestial se tornó en astucia y sutileza[^36] infernales. En la obra de la redención, Dios ha frustrado, maravillosamente, la mayor astucia de los demonios, y aunque todos ellos se combinan para frustrar los designios divinos de gloria para Sí mismo y de bondad para los hombres, la sabiduría de Dios aparece aquí muy gloriosa. Pues,…
+
+1. Considera los débiles y aparentemente despreciables medios y armas que Dios emplea para derrotar a Satanás. Cristo derramó el mayor desprecio sobre Satanás en la victoria que obtuvo sobre él, en razón de los medios con que se preparó para ello y de las armas que empleó. Cristo escogió encontrarse con Satanás en la naturaleza humana, en un estado pobre, frágil y afligido. Hizo como David. David, al ir contra el filisteo, rechazó la armadura de Saúl: Un yelmo de bronce, una cota de malla y su espada. No, se las quitó todas. Goliat viene poderosamente armado contra David, con un yelmo de bronce en la cabeza, una cota de malla que pesaba cinco mil siclos de bronce, grebas[^37] de bronce en las piernas y una diana de bronce entre los hombros; una lanza, cuya asta era como un haz de telar, y la punta de la lanza pesaba seiscientos siclos de hierro. Y además de todo esto, llevaba un escudo delante de él. Pero David no lleva más que un cayado en la mano, un zurrón[^38] de pastor y una honda; y va contra el filisteo. Así, las armas de las que Cristo hizo uso fueron su pobreza, aflicciones y afrentas, sufrimientos y muerte. Su arma principal fue su cruz: El instrumento de su propia muerte reprobatoria. Estos eran instrumentos aparentemente débiles y despreciables para blandirlos contra un gigante como Satanás. Y sin duda, el diablo los despreció tanto como Goliat despreció el cayado y la honda de David. Pero con armas como éstas, Cristo, en su naturaleza humana, débil y mortal, derrotó y frustró todas las artimañas del infierno.
+
+Tal deshonra y desprecio ha derramado Cristo sobre Satanás. David tuvo una victoria más gloriosa sobre Goliat por haberlo vencido con instrumentos tan inferiores y Sansón sobre los filisteos, por matar a tantos de ellos con un arma tan despreciable como la quijada de un asno.
+
+En la Escritura se habla de un glorioso triunfo de Cristo sobre el diablo —que lo venciera con un arma tan despreciable como su cruz—. “Anulando el acta de los decretos que había contra nosotros, que nos era contraria, quitándola de en medio y clavándola en la cruz, y despojando a los principados y a las potestades, los exhibió públicamente, triunfando sobre ellos en la cruz” (Col. 2:14-15). Dios muestra su gran e infinita sabiduría, al usar este método para confundir la sabiduría y la astucia de sus enemigos. Muestra así, cuán fácilmente puede hacerlo y que es infinitamente más sabio que ellos. “Sino que lo necio del mundo escogió Dios, para avergonzar a los sabios; y lo débil del mundo escogió Dios, para avergonzar a lo fuerte; y lo vil del mundo y lo menospreciado escogió Dios, y lo que no es, para deshacer lo que es” (1 Co. 1:27-28).
+
+**2. Dios ha confundido a Satanás así, con sus propias armas.**En la obra de la redención se ha dispuesto que nuestro gran enemigo se convierta en un medio de su propia confusión. Por las mismas cosas por las cuales procura robar a Dios su gloria y destruir a la humanidad, él es convertido en instrumento para frustrar sus propios designios. Sus esfuerzos más astutos y poderosos para lograr sus designios, se convierten en un medio para confundirlos y promover lo contrario. De esto, sólo mencionaré dos ejemplos.
+
+Primero**, el procurar la caída del hombre se convierte en ocasión de lo contrario a lo que él planeó.**En efecto, por este medio, él ha procurado la ruina de multitudes de la humanidad, que era lo que pretendía. Pero en esto, no frustra el designio de Dios desde la eternidad de glorificarse a Sí mismo y la miseria de multitudes de la humanidad no le proporcionará ninguna satisfacción, sino que aumentará su propia miseria...
+
+Lo que Satanás hizo al tentar al hombre para que cayera, se convierte en ocasión de lo contrario de lo que él pretendía, en el sentido de que dio ocasión a Dios para glorificarse a Sí mismo, mucho más y dio ocasión a los elegidos para ser llevados a una felicidad superior.
+
+Satanás envidiaba el estado feliz del hombre. Su orgullo no podía soportar que el hombre de origen terrenal fuera elevado a tales honores, mientras que él que originalmente era de naturaleza mucho más noble, fuera arrojado a tal desgracia. ¡Cómo triunfaría entonces Satanás, cuando hubiera hecho caer [al hombre]!
+
+El diablo tentó a nuestros primeros padres con esto: Si comían del fruto prohibido, serían como dioses (Gn. 3:5). Era una mentira en boca de Satanás; pues no pretendía otra cosa sino engañar al hombre para que perdiera su felicidad, y convertirlo en su propio esclavo y vasallo con la ciega expectativa de ser como un dios. Pero poco pensó Satanás que Dios convertiría la caída del hombre en una ocasión para que Dios se convirtiera en hombre —y así, en una ocasión para que nuestra naturaleza avanzara a un estado de unión más estrecha con Dios—.
+
+Por este medio, sucede que uno en la naturaleza del hombre se sienta ahora a la diestra de Dios, investido con el poder y la gloria divinos, y reina sobre el cielo y la tierra con un poder y dominio semejantes a los de Dios. Así queda Satanás defraudado en su astucia. Como pretendía aquel dicho: “Seréis como Dios” (Gn. 3:5), era una mentira para engañar y embaucar al hombre. Poco pensó que sería comprobado de tal manera por la encarnación del Hijo de Dios. Y ésta es también la ocasión de que todos los elegidos se unan a esta Persona divina, de modo que lleguen a ser uno con Cristo. Los creyentes son miembros y partes de Cristo... No se imaginó Satanás que el haber dicho aquella mentira a nuestros primeros padres: “Seréis como Dios”, sería la ocasión de que ellos fueran miembros de Cristo, el Hijo de Dios.
+
+Una vez más, Satanás se convierte en un medio de su propia confusión en esto: El designio de Satanás al tentar al hombre a pecar, era hacer del hombre su cautivo y esclavo para siempre —atormentándolo y triunfando sobre él—. Y esto mismo es un medio para lograrlo: que el hombre, en vez de ser su vasallo, sea su juez. ¡Los elegidos, en lugar de ser sus cautivos para ser eternamente atormentados por él, se sentarán como jueces para sentenciarlo al tormento eterno! Éste ha sido el medio en que, uno en la naturaleza del hombre, sea su Juez supremo. Era la naturaleza del hombre la que Satanás tanto envidió y de la que tanto trató de aprovecharse. Pero Jesucristo vendrá en el día postrero, en la naturaleza del hombre, y todos los demonios serán llevados temblando ante su Tribunal. Él los juzgará, los condenará y ejecutará sobre ellos la ira de Dios. Y no sólo Cristo en la naturaleza humana juzgará a los demonios, sino que todos los santos los juzgarán con Cristo como asesores con Él en el juicio. “¿O no sabéis que hemos de juzgar a los ángeles?” (1 Co. 6:3).
+
+Segundo, **en otro caso, Satanás se convierte en un medio de su propia confusión, es decir, al procurar la muerte de Cristo.** Satanás se opuso a Cristo tan pronto como apareció. Intentó, por todos los medios, de procurar su ruina. Puso a los judíos en contra de Él. Llenó la mente de los escribas y fariseos de persecución y de la malicia más amarga contra Cristo. Trató por todos los medios de procurar su muerte y de que sufriera la muerte más ignominiosa. Leemos que “entró Satanás en Judas” y lo tentó para que lo traicionara (Lc. 22:3). Y Cristo habla de sus sufrimientos como efectos de la potestad[^39] de las tinieblas: “Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; mas esta es vuestra hora, y la potestad de las tinieblas” (Lc. 22:53). Pero Satanás derriba así, su propio reino. Cristo vino al mundo para destruir las obras del diablo. Y esto fue, precisamente, lo que hizo, es decir, con la sangre y la muerte de Cristo. La cruz era el arma propia del diablo, y con esta arma fue derrotado como David cortó la cabeza de Goliat con su propia espada.
+
+Cristo, haciendo así de Satanás un medio para su propia confusión, fue tipificado antiguamente por Sansón cuando sacó miel del cadáver del león. Hay más implícito en el enigma de Sansón: “Del devorador salió comida, y del fuerte salió dulzura” (Jue. 14:14), que lo que jamás explicaron los filisteos. Cristo lo verificó de una manera mucho más gloriosa. Los enemigos de Dios y los nuestros son cogidos en el hoyo que ellos mismos han cavado y su propia alma es cogida en la red que ellos han tendido. Así, hemos mostrado, en alguna medida, la sabiduría de este camino de salvación por Jesucristo.
+
+Tomado de Las obras de Jonathan Edwards (The Works of Jonathan Edwards), Vol. 2 (Banner of Truth Trust, 1974), 151-152; www.banneroftruth.org.
+
+_______________________
+
+Jonathan Edwards (1703-1758): Predicador y teólogo congregacionalista estadounidense. Nació en East Windsor, Colonia de Connecticut, Estados Unidos.
+
+Un cazador tiene muchas artimañas y astutas estratagemas para atrapar la presa que persigue: Así, el diablo tiene muchas trampas y astutas artimañas para atrapar y destruir las almas de los hombres. De ahí que se le compare con una serpiente: “No ignoramos”, dice Pablo, “sus maquinaciones” (2 Co. 2:11); y en otro lugar, exhorta a los santos: “Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo” (Ef. 6:11). La palabra griega significa las trampas que se tienden para atrapar al hombre: “Él te librará”, dice el salmista, “del lazo del [cazador]” (Sal. 91:3), es decir,... del diablo. Satanás tiene muchas artimañas y trampas para atraer a los hombres al pecado. —Benjamin Keach
+
+[^36]: Sutileza – No fácil de detectar; organizado de una manera inteligente y compleja; ingenioso.
+[^37]: Grebas – Piezas de armadura que protegen las piernas debajo de la rodilla.
+[^38]: Zurrón – Bolso grande de cuero que, regularmente, usan los pastores.
+[^39]: Potestad – Poder, autoridad.

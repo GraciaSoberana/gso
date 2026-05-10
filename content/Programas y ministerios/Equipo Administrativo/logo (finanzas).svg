@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo abierto -->
+  <path d="M100,20 A80,80 0 1,1 180,100" stroke="#888" stroke-width="4" fill="none" />
+
+  <!-- Mano estilizada (simplificada como palma abierta) -->
+  <path d="M90,100 Q95,85 100,100 Q105,85 110,100 Q115,115 100,120 Q85,115 90,100"
+        fill="#ccc" stroke="#666" stroke-width="2" />
+
+  <!-- Balanza -->
+  <line x1="100" y1="80" x2="100" y2="60" stroke="#DAA520" stroke-width="2" />
+  <line x1="85" y1="60" x2="115" y2="60" stroke="#DAA520" stroke-width="2" />
+  <!-- Platillos -->
+  <circle cx="85" cy="60" r="6" fill="#DAA520" />
+  <circle cx="115" cy="60" r="6" fill="#DAA520" />
+
+  <!-- Texto -->
+  <text x="100" y="160" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#444">
+    Gracia Soberana Orizaba
+  </text>
+  <text x="100" y="175" font-family="sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Administración y Finanzas
+  </text>
+</svg>

@@ -1,0 +1,132 @@
+---
+publish: true
+---
+# 1 Kings 3
+
+[[1 Kings 2|← 1 Kings 2]] | [[1 Kings]] | [[1 Kings 4|1 Kings 4 →]]
+***
+
+
+# 1 Reyes 3 (Nueva Biblia de las Américas)
+##### Chapter 3
+
+
+###### 1 
+Entonces Salomón se emparentó con Faraón, rey de Egipto, pues tomó _por esposa a_ la hija de Faraón y la trajo a la ciudad de David mientras acababa de edificar su casa, la casa del Señor y la muralla alrededor de Jerusalén. 
+
+
+###### 2 
+Solo que el pueblo sacrificaba en los lugares altos, porque en aquellos días aún no se había edificado casa al nombre del Señor.
+
+
+
+###### 3 
+Salomón amaba al Señor, andando en los estatutos de su padre David, aunque sacrificaba y quemaba incienso en los lugares altos. 
+
+
+###### 4 
+El rey fue a Gabaón a sacrificar allí, porque ese era el lugar alto principal. Salomón ofreció mil holocaustos sobre ese altar. 
+
+
+###### 5 
+Y en Gabaón el Señor se apareció a Salomón de noche en sueños, y Dios _le_ dijo: «Pide lo que _quieras que_ Yo te dé».
+
+
+
+###### 6 
+Entonces Salomón le respondió: «Tú has mostrado gran misericordia a Tu siervo David mi padre, según él anduvo delante de Ti con fidelidad, justicia y rectitud de corazón hacia Ti; y has guardado para él esta gran misericordia, en que le has dado un hijo que se siente en su trono, como _sucede_ hoy. 
+
+
+###### 7 
+Ahora, Señor Dios mío, has hecho a Tu siervo rey en lugar de mi padre David, aunque soy un muchacho y no sé cómo salir ni entrar. 
+
+
+###### 8 
+Tu siervo está en medio de Tu pueblo al cual escogiste, un pueblo inmenso que no se puede numerar ni contar por _su_ multitud. 
+
+
+###### 9 
+Da, pues, a Tu siervo un corazón con entendimiento para juzgar a Tu pueblo _y_ para discernir entre el bien y el mal. Pues ¿quién será capaz de juzgar a este pueblo Tuyo tan grande?».
+
+
+
+###### 10 
+Fue del agrado a los ojos del Señor que Salomón pidiera esto. 
+
+
+###### 11 
+Y Dios le dijo: «Porque has pedido esto y no has pedido para ti larga vida, ni has pedido para ti riquezas, ni has pedido la vida de tus enemigos, sino que has pedido para ti inteligencia para administrar justicia, 
+
+
+###### 12 
+he hecho, pues, conforme a tus palabras. Te he dado un corazón sabio y entendido, de modo que no ha habido ninguno como tú antes de ti, ni se levantará ninguno como tú después de ti. 
+
+
+###### 13 
+También te he dado lo que no has pedido, tanto riquezas como gloria, de modo que no habrá entre los reyes ninguno como tú en todos tus días. 
+
+
+###### 14 
+Y si andas en Mis caminos, guardando Mis estatutos y Mis mandamientos como tu padre David anduvo, entonces prolongaré tus días».
+
+
+
+###### 15 
+Salomón se despertó y vio que había sido un sueño. Entró en Jerusalén y se puso delante del arca del pacto del Señor. Ofreció holocaustos e hizo ofrendas de paz y también dio un banquete para todos sus siervos.
+
+
+
+###### 16 
+Por ese tiempo dos mujeres _que eran_ rameras, vinieron al rey y se presentaron delante de él. 
+
+
+###### 17 
+Y una de las mujeres dijo: «Oh, mi señor, yo y esta mujer vivimos en la misma casa; y yo di a luz _estando_ con ella en la casa. 
+
+
+###### 18 
+Y sucedió que al tercer día después de dar yo a luz, esta mujer también dio a luz; estábamos juntas, nadie de fuera estaba con nosotras en la casa, solamente nosotras dos. 
+
+
+###### 19 
+Y el hijo de esta mujer murió durante la noche, porque ella se durmió sobre él. 
+
+
+###### 20 
+Entonces ella se levantó a medianoche, tomó a mi hijo de mi lado mientras su sierva estaba dormida y lo puso en su regazo, y a su hijo muerto lo puso en mi regazo. 
+
+
+###### 21 
+Cuando me levanté al amanecer para dar el pecho a mi hijo, vi que estaba muerto; pero cuando lo observé con cuidado por la mañana, vi que no era mi hijo, el que yo había dado a luz». 
+
+
+###### 22 
+Entonces la otra mujer dijo: «No, pues mi hijo es el que vive y tu hijo es el muerto». Pero la primera mujer dijo: «No, tu hijo es el muerto y mi hijo es el que vive». Así hablaban ellas delante del rey.
+
+
+
+###### 23 
+Entonces el rey dijo: «Esta dice: "Este es mi hijo que está vivo y tu hijo es el muerto"; y la otra dice: "No, porque tu hijo es el muerto y mi hijo es el que vive"». 
+
+
+###### 24 
+Y el rey dijo: «Tráiganme una espada». Y trajeron una espada al rey. 
+
+
+###### 25 
+Entonces el rey dijo: «Partan al niño vivo en dos, y den la mitad a una y la otra mitad a la otra». 
+
+
+###### 26 
+Entonces la mujer de quien _era_ el niño vivo habló al rey, pues estaba profundamente conmovida por su hijo, y dijo: «Oh, mi señor, déle a ella el niño vivo, y de ninguna manera lo mate». Pero la otra decía: «No será ni mío ni tuyo; pártan_lo».
+
+
+###### 27 
+Entonces el rey respondió: «Den el niño vivo a la primera mujer, y de ninguna manera lo maten. Ella es la madre». 
+
+
+###### 28 
+Cuando todo Israel oyó del juicio que el rey había pronunciado, temieron al rey, porque vieron que la sabiduría de Dios estaba en él para administrar justicia.
+
+***
+[[1 Kings 2|← 1 Kings 2]] | [[1 Kings]] | [[1 Kings 4|1 Kings 4 →]]

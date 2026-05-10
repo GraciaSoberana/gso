@@ -1,0 +1,160 @@
+---
+publish: true
+---
+# Numbers 35
+
+[[Num 34|← Numbers 34]] | [[Numbers]] | [[Num 36|Numbers 36 →]]
+***
+
+
+# Números 35 (Nueva Biblia de las Américas)
+Ciudades para los levitas y ciudades de refugio
+
+##### Chapter 35
+
+
+###### 1 
+El Señor habló a Moisés en las llanuras de Moab, junto al Jordán, _frente a_ Jericó y le dijo: 
+
+
+###### 2 
+«Manda a los israelitas que de la herencia de su posesión den a los levitas ciudades en que puedan habitar; también darán a los levitas tierras de pasto alrededor de las ciudades. 
+
+
+###### 3 
+Las ciudades serán suyas para habitar; y sus tierras de pasto serán para sus animales, para sus ganados y para todas sus bestias.
+
+
+
+###### 4 
+»Las tierras de pasto de las ciudades que darán a los levitas _se extenderán_ desde la muralla de la ciudad hacia afuera 1,000 codos (450 metros) alrededor. 
+
+
+###### 5 
+Medirán también afuera de la ciudad, al lado oriental 2,000 codos (900 metros), al lado sur 2,000 codos, al lado occidental 2,000 codos, y al lado norte 2,000 codos, con la ciudad en el centro. Esto será de ellos para tierras de pasto en las ciudades.
+
+
+
+###### 6 
+»De las ciudades que ustedes darán a los levitas, seis _serán_ ciudades de refugio. Darán estas ciudades para que el que haya matado a alguien huya a ellas. Además de estas, _les_ darán cuarenta y dos ciudades. 
+
+
+###### 7 
+Todas las ciudades que ustedes darán a los levitas _serán_ cuarenta y ocho ciudades, junto con sus tierras de pasto. 
+
+
+###### 8 
+En cuanto a las ciudades que darán de la posesión de los israelitas, tomarán más del más grande y tomarán menos del más pequeño; cada uno dará algunas de sus ciudades a los levitas en proporción a la posesión que herede».
+
+
+
+###### 9 
+Luego el Señor dijo a Moisés: 
+
+
+###### 10 
+«Habla a los israelitas, y diles: "Cuando crucen el Jordán a la tierra de Canaán, 
+
+
+###### 11 
+escogerán para ustedes ciudades para que sean sus ciudades de refugio, a fin de que pueda huir allí el que haya matado a alguna persona sin intención. 
+
+
+###### 12 
+Las ciudades serán para ustedes como refugio contra el vengador, para que el que haya matado a alguien no muera hasta que comparezca delante de la congregación para juicio.
+
+
+
+###### 13 
+"Las ciudades que darán serán sus seis ciudades de refugio. 
+
+
+###### 14 
+Darán tres ciudades al otro lado del Jordán y tres ciudades en la tierra de Canaán; serán ciudades de refugio. 
+
+
+###### 15 
+Estas seis ciudades serán por refugio para los israelitas, y para el extranjero y para el peregrino entre ellos, para que huya allí cualquiera que sin intención mate a una persona.
+
+
+
+###### 16 
+"Pero si lo hirió con un objeto de hierro, y murió, es un asesino; al asesino ciertamente se le dará muerte. 
+
+
+###### 17 
+Y si lo hirió con una piedra en la mano, por la cual pueda morir, y muere, es un asesino; al asesino ciertamente se le dará muerte. 
+
+
+###### 18 
+O si lo golpeó con un objeto de madera en la mano, por lo cual pueda morir, y muere, es un asesino; al asesino ciertamente se le dará muerte. 
+
+
+###### 19 
+El vengador de sangre, él mismo dará muerte al asesino; le dará muerte cuando se encuentre con él. 
+
+
+###### 20 
+Y si lo empujó con odio, o le arrojó algo _mientras_ lo acechaba, y murió, 
+
+
+###### 21 
+o si lo hirió con la mano en enemistad, y murió, al que lo hirió ciertamente se le dará muerte; es un asesino. El vengador de sangre dará muerte al asesino cuando se encuentre con él.
+
+
+
+###### 22 
+"Pero si lo empujó súbitamente sin enemistad, o le arrojó algo sin acecharlo, 
+
+
+###### 23 
+o _tiró_ cualquier piedra que pudo matarlo, y sin ver que le cayó encima, murió, no siendo su enemigo ni procurando herirlo, 
+
+
+###### 24 
+entonces la congregación juzgará entre el que mató y el vengador de la sangre conforme a estas ordenanzas. 
+
+
+###### 25 
+La congregación librará al acusado de la mano del vengador de sangre, y la congregación lo restaurará a la ciudad de refugio a la cual huyó; y vivirá en ella hasta la muerte del sumo sacerdote que fue ungido con óleo santo.
+
+
+
+###### 26 
+"Pero si el que causó la muerte del otro sale alguna vez de los límites de la ciudad de refugio a la cual pudo huir, 
+
+
+###### 27 
+y el vengador de sangre lo encuentra fuera de los límites de la ciudad de refugio, y el vengador de sangre mata al acusado, no será culpable de sangre. 
+
+
+###### 28 
+Porque _el acusado_ debió haber permanecido en la ciudad de refugio hasta la muerte del sumo sacerdote. Pero después de la muerte del sumo sacerdote, el que mató a otro volverá a su tierra.
+
+
+
+###### 29 
+"Estas cosas serán por norma de derecho para ustedes por sus generaciones en todas sus moradas. 
+
+
+###### 30 
+Si alguien mata a una persona, al asesino se le dará muerte ante la evidencia de testigos, pero a ninguna persona se le dará muerte por el testimonio de un solo testigo. 
+
+
+###### 31 
+Además, ustedes no tomarán rescate por la vida de un asesino que es culpable de muerte, sino que de cierto se le dará muerte; 
+
+
+###### 32 
+y no tomarán rescate por el que ha huido a la ciudad de refugio para que vuelva y habite en la tierra antes de la muerte del sacerdote. 
+
+
+###### 33 
+Así que no contaminarán la tierra en que están; porque la sangre contamina la tierra, y no se puede hacer expiación por la tierra, por la sangre derramada en ella, excepto mediante la sangre del que la derramó. 
+
+
+###### 34 
+Y no contaminarán la tierra en que ustedes viven, en medio de la cual Yo habito, pues Yo, el Señor, habito en medio de los israelitas"».
+
+***
+[[Num 34|← Numbers 34]] | [[Numbers]] | [[Num 36|Numbers 36 →]]

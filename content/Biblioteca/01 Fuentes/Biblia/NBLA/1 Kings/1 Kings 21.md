@@ -1,0 +1,139 @@
+---
+publish: true
+---
+# 1 Kings 21
+
+[[1 Kings 20|← 1 Kings 20]] | [[1 Kings]] | [[1 Kings 22|1 Kings 22 →]]
+***
+
+
+# 1 Reyes 21 (Nueva Biblia de las Américas)
+La viña de Nabot
+
+##### Chapter 21
+
+
+###### 1 
+Después de estas cosas aconteció que Nabot de Jezreel tenía una viña que _estaba_ en Jezreel, junto al palacio de Acab, rey de Samaria, 
+
+
+###### 2 
+y Acab le dijo a Nabot: «Dame tu viña para que me sirva de huerta para hortaliza porque está cerca, al lado de mi casa, y en su lugar yo te daré una viña mejor; si prefieres, te daré su precio en dinero». 
+
+
+###### 3 
+Pero Nabot le dijo a Acab: «No permita el Señor que le dé la herencia de mis padres». 
+
+
+###### 4 
+Acab entonces se fue a su casa disgustado y molesto a causa de la palabra que Nabot de Jezreel le había dicho; pues dijo: «No le daré la herencia de mis padres». Acab se acostó en su cama, volvió su rostro y no comió.
+
+
+
+###### 5 
+Pero Jezabel su mujer se acercó a él, y le preguntó: «¿Por qué está tu espíritu tan decaído que no comes?». 
+
+
+###### 6 
+Entonces Acab le respondió: «Porque le hablé a Nabot de Jezreel, y le dije: "Dame tu viña por dinero; o, si prefieres, te daré una viña en su lugar". Pero él dijo: "No te daré mi viña"». 
+
+
+###### 7 
+Su mujer Jezabel le dijo: «¿No reinas ahora sobre Israel? Levántate, come, y alégrese tu corazón. Yo te daré la viña de Nabot de Jezreel». 
+
+
+###### 8 
+Y ella escribió cartas en nombre de Acab, las selló con su sello y envió las cartas a los ancianos y a los nobles que vivían en la ciudad con Nabot. 
+
+
+###### 9 
+Y escribió en las cartas: «Proclamen ayuno y sienten a Nabot a la cabeza del pueblo. 
+
+
+###### 10 
+Sienten a dos hombres malvados delante de él que testifiquen contra él, diciendo: "Tú has blasfemado a Dios y al rey". Entonces sáquenlo y apedréenlo para que muera».
+
+
+
+###### 11 
+Los hombres de su ciudad, los ancianos y los nobles que vivían en su ciudad, hicieron como Jezabel les había mandado, tal como estaba escrito en las cartas que ella les había enviado. 
+
+
+###### 12 
+Proclamaron ayuno y sentaron a Nabot a la cabeza del pueblo. 
+
+
+###### 13 
+Entonces entraron los dos hombres malvados y se sentaron delante de él; y los dos hombres malvados testificaron contra él, es decir, contra Nabot delante del pueblo, diciendo: «Nabot ha blasfemado a Dios y al rey». Y lo llevaron fuera de la ciudad, lo apedrearon y murió. 
+
+
+###### 14 
+Después enviaron _un mensaje_ a Jezabel, diciendo: «Nabot ha sido apedreado y ha muerto».
+
+
+
+###### 15 
+Cuando Jezabel oyó que Nabot había sido apedreado y había muerto, Jezabel dijo a Acab: «Levántate, toma posesión de la viña de Nabot de Jezreel, la cual él se negó a dártela por dinero, porque Nabot no está vivo, sino muerto». 
+
+
+###### 16 
+Así que cuando Acab oyó que Nabot había muerto, se levantó para descender a la viña de Nabot de Jezreel, para tomar posesión de ella.
+
+
+
+###### 17 
+Entonces vino la palabra del Señor a Elías el tisbita, diciendo: 
+
+
+###### 18 
+«Levántate, desciende al encuentro de Acab, rey de Israel, que está en Samaria; ahora él está en la viña de Nabot, adonde ha descendido a tomar posesión de ella. 
+
+
+###### 19 
+Le hablarás: "Así dice el Señor: '¿Has asesinado, y además has tomado posesión _de la viña_?'". También le hablarás: "Así dice el Señor: 'En el lugar donde los perros lamieron la sangre de Nabot, los perros lamerán tu sangre, tu misma _sangre_'"».
+
+
+
+###### 20 
+Y Acab dijo a Elías: «¿Me has encontrado, enemigo mío?». Y él respondió: «_Te_ he encontrado, porque te has vendido para hacer el mal ante los ojos del Señor. 
+
+
+###### 21 
+Por tanto, traeré mal sobre ti, te barreré completamente y cortaré de Acab todo varón, tanto siervo como libre en Israel. 
+
+
+###### 22 
+Haré tu casa como la casa de Jeroboam, hijo de Nabat, y como la casa de Baasa, hijo de Ahías, por la provocación con la que _me_ has provocado a ira y _porque_ has hecho pecar a Israel. 
+
+
+###### 23 
+También de Jezabel ha hablado el Señor: "Los perros comerán a Jezabel en la parcela de Jezreel". 
+
+
+###### 24 
+Cualquiera de Acab que muera en la ciudad, lo comerán los perros, y el que muera en el campo, lo comerán las aves del cielo».
+
+
+
+###### 25 
+Ciertamente no hubo nadie como Acab que se vendiera para hacer lo malo ante los ojos del Señor, porque Jezabel su mujer lo había convencido. 
+
+
+###### 26 
+Su conducta fue muy abominable, _pues_ fue tras los ídolos conforme a todo lo que habían hecho los amorreos, a los que el Señor había echado de delante de los israelitas.
+
+
+
+###### 27 
+Cuando Acab oyó estas palabras, rasgó sus vestidos, puso cilicio sobre sí y ayunó, se acostó con el cilicio y andaba abatido. 
+
+
+###### 28 
+Entonces la palabra del Señor vino a Elías el tisbita, diciendo: 
+
+
+###### 29 
+«¿Ves como Acab se ha humillado delante de Mí? Porque se ha humillado delante de Mí, no traeré el mal en sus días; pero en los días de su hijo traeré el mal sobre su casa».
+
+***
+[[1 Kings 20|← 1 Kings 20]] | [[1 Kings]] | [[1 Kings 22|1 Kings 22 →]]

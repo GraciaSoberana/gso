@@ -1,0 +1,551 @@
+---
+publish: true
+---
+- [[καί]]: y, entonces, también
+- [[λύω]]: desatar, poner en libertad
+- [[λέγω]]: decir 
+ - [[ἔχω]]: poseer, tener, aferrar 
+ - [[ἀκούω]]: oír, ser capaz de oír, recibir noticias, prestar atención a 
+ - [[λαμβάνω]]: tomar, recibir, sujetar 
+ - [[πιστεύω]]: confiar, creer 
+ - [[γινώσκω]]: saber, aprender, entender, reconocer 
+ - [[θέλω]]: desear, querer 
+ - [[γράφω]]: escribir, anotar 
+ - [[εὑρίσκω]]: hallar, descubrir 
+ - [[ἐσθίω]]: comer, consumir 
+ - [[ἐγείρω]]: hacer despertar, restaurar, ponerse de pie, resucitar 
+ - [[βλέπω]]: ver, mirar 
+ - [[ἀποστέλλω]]: enviar, enviar a alguien 
+ - [[βάλλω]]: arrojar, dejar caer, derramar, descender precipitadamente 
+ - [[μένω]]: quedar, permanecer, residir 
+ - [[οὐ 1|οὐ]]: No
+- [[θεός]]: Dios, dios, 
+- [[Ἰησοῦς]]: Jesús
+- [[κύριος]]: Señor, señor, dueño
+- [[ἄνθρωπος]]: hombre, ser humano
+- [[Χριστός]]: Cristo
+- [[υἱός]]: hijo
+- [[ἀδελφός]]: hermano
+- [[λόγος]]: palabra
+- [[οὐρανός]]: cielo 
+- [[Ἰουδαῖος]]: judío, 
+- [[νόμος]]: ley 
+- [[κόσμος]]: mundo, adorno 
+- [[ἄγγελος]]: ángel, mensajero 
+- [[ὄχλος]]: muchedumbre, multitud, gente 
+- [[ἔργον]]: obra, acción
+- [[τέκνον]]: hijo, niño 
+- [[θηρίον]]: bestia, animal, fiera
+- [[γίνομαι]]: suceder, ser, ser hecho
+- [[ἔρχομαι]]: ir, venir, llegar
+- [[ἀποκρίνομαι]]: responder
+- [[ἐξέρχομαι]]: salir, ir afuera
+- [[δύναμαι]]: ser apto, poder
+- [[εἰσέρχομαι]]: entrar
+- [[πορεύομαι]]: ir, venir
+- [[ἀπέρχομαι]]: irse, partir
+- [[κάθημαι]]: sentarse, montar (a caballo), residir
+- [[προσέρχομαι]]: acercarse, llegar
+- [[προσεύχομαι]]: orar
+- [[ἀσπάζομαι]]: saludar, dar la bienvenida
+- [[δέχομαι]]: Recibir, aceptar
+- [[διέρχομαι]]: Pasar, atravesar, 
+- [[λογίζομαι]]: considerar, pensar
+- [[ἐν]] + dativo: en
+- [[εἰς 1|εἰς]] + acusativo: a, hacia
+- [[ἐκ]] + genitivo: de, fuera de
+- [[ἐπί]] + genitivo: sobre
+- [[ἐπί]] + dativo: encima de
+- [[ἐπί]] + acusativo: en, contra, por
+- [[πρός]] + acusativo: hacia
+- [[διά]] + genitivo: a través de
+- [[διά]] + acusativo: a causa de
+- [[ἀπό 1|ἀπό]] + genitivo: de, desde
+- [[κατά]] + genitivo: contra
+- [[κατά]] + acusativo: según.
+- [[μετά]] + acusativo: después de, 
+- [[μετά]] + genitivo: en, contra, por
+- [[περί]] + genitivo: acerca de
+- [[περί]] + acusativo: alrededor de
+- [[ὑπό]] + genitivo: por, bajo, debajo, 
+- [[ὑπό]] + genitivo: por, por medio de, 
+- [[ὑπό]] + acusativo: debajo de
+- [[παρά]] + genitivo: De, de parte de, por
+- [[παρά]] + dativo: con
+- [[παρά]] + acusativo: Junto a, a lo largo de
+- [[ὑπέρ]] + genitivo: Por, en nombre de, en favor de, 
+- [[ὑπέρ]] + acusativo: Más allá de, más que, por encima de
+- [[σύν]] + dativo: con, junto con
+- [[ἐνώπιον]] + gen: ante, delante de
+- [[ἀναβαίνω]]: subir, ascender
+- [[καταβαίνω]]: descender, bajar
+- [[ἐκβάλλω]]: expulsar, sacar, arrojar
+- [[ἀνοίγω]]: abrir, 
+- [[ἀποκτείνω]]: matar
+- [[ἀπολύω]]: Soltar, divorciarse, repudiar, despedir, perdonar
+- [[συνάγω]]: reunirse, recoger, juntar, recibir
+- [[παραλαμβάνω]]: tomar, recibir, llevar
+- [[ἄχρι]] + gen: hasta
+- [[ἔμπροσθεν]] + gen: delante de, al frente de, delante
+- [[πρό]] + gen: Ante de, delante de
+- [[ἡμέρα]]: día
+- [[μαθητής]]: discípulo, 
+- [[γῆ]]: tierra
+- [[ἁμαρτία]]: pecado, 
+- [[δόξα]]: gloria, esplendor, majestad
+- [[βασιλεία]]: reino
+- [[καρδία]]: corazón
+- [[προφήτης]]: profeta
+- [[φωνή]]: voz, sonido, 
+- [[ζωή]]: vida
+- [[ἀγάπη]]: amor
+- [[ἐκκλησία]]: iglesia, 
+- [[ἀλήθεια]]: verdad
+- [[ὥρα]]: hora, 
+- [[ἐξουσία]]: autoridad, poder, 
+- [[ἀρχή]]: principio, comienzo, principado, gobernante
+- ἡ [[ὁδός]]: Camino
+- [[εἰμί]]: ser, estar, haber
+- [[ἐγώ]]: yo, 
+- [[σύ]]: tú, 
+- [[αὐτός]]: él
+- [[ἐγώ|ἡμεῖς]]: Nosotros
+- [[σύ|ὑμεῖς]]: Vosotros, ustedes
+- [[οὗτος]]: este, 
+- [[δὲ]]: pero, y, entonces
+- [[ὅτι]]: que, porque, : “”
+- [[γάρ]]: porque, pues
+- [[ἀλλά]]: Sino, pero, sin embargo
+- [[ἐκεῖνος]]: ese, aquel, ese, Él
+- [[προσφέρω]]: ofrecer, presentar, traer, 
+- [[ἀπαγγέλλω]]: informar, contar, comunicar, avisar
+- [[ἐπιγινώσκω]]: conocer, reconocer, saber
+- [[ἅγιος]]: santo, 
+- [[πρῶτος]]: primero
+- [[ἄλλος]]: otro, 
+- [[νεκρός]]: muerte, 
+- [[μόνος]]: solo, solamente
+- [[ἴδιος]]: propio, suyo, su propio
+- [[ὅλος]]: todo, entero, completo
+- [[ἀγαθός]]: bueno (ético)
+- [[καλός]]: bueno (estético)
+- [[ἕτερος]]: otro, 
+- [[δίκαιος]]: justo, inocente
+- [[πονηρός]]: Mal, maligno, perverso, 
+- [[αἰώνιος]]: eterno
+- [[πιστός]]: fiel, creyente
+- [[ἀγαπητός]]: amado, querido
+- [[ποιέω]]: hacer, practicar
+- [[λαλέω]]: hablar
+- [[καλέω]]: llamar, invitar
+- [[ἀγαπάω]]: amar
+- [[ζάω]]: vivir
+- [[ζητέω]]: buscar, desear, tratar de obtener, procurar
+- [[ὁράω]]: ver
+- [[παρακαλέω]]: Rogar, exhortar, consolar
+- [[γεννάω]]: nacer, engendrar, dar a luz
+- [[περιπατέω]]: andar, caminar
+- [[φοβέω]]: temer, tener miedo, miedo
+- [[ἀκολουθέω]]: seguir
+- [[πληρόω]]: cumplir, llenar, completar
+- [[μαρτυρέω]]: testificar, ser testigo de
+- [[αἰτέω]]: pedir
+- [[κρίνω]]: juzgar, decidir, condenar
+- [[ἀποθνῄσκω]]: morir, perecer
+- [[μέλλω]]: ir a, estar a punto de
+- [[σῴζω]]: salvar, sanar
+- [[αἴρω]]: tomar, quitar, llevar
+- [[ὀφθαλμός]]: ojo, vista
+- [[ὑπάγω]]: venir, ir, quitar
+- [[χαίρω]]: regocijar, alegrarse
+- [[πίνω]]: beber
+- [[ἄγω]]: llevar, traer
+- [[φέρω]]: llevar, traer
+- [[ἁμαρτάνω]]: pecar
+- [[πάσχω]]: sufrir, padecer
+- [[ἐργάζομαι]]: trabajar, hacer, obrar
+- [[βούλομαι]]: querer, ser su voluntad
+- [[καυχάομαι]]: gloriarse, jactarse
+- [[ἀναγινώσκω]]: leer
+- [[οὐδείς]]: nadie, nada, ninguno, no
+- [[τότε]]: entonces, luego, en aquel tiempo
+- [[νῦν]]: ahora
+- [[πάλιν]]: otra vez, de nuevo, también
+- [[πῶς]]: ¿cómo?, que, qué, por qué
+- [[ὡς]]: como, cómo, Cuando
+- [[οὖν]]: Entonces, Por tanto, Pues, así que
+- [[ἤ 1|ἤ]]: o, que
+- [[μέν]]: ciertamente, verdad, uno (distributivo)
+- [[τέ]]: y, tanto, también
+- [[καθώς]]: como, cómo, tal como, así como
+- [[ὅτε]]: cuando
+- [[ἀμήν]]: En verdad, Amén, verdad, De cierto
+- [[ψυχή]]: vida, alma, persona
+- [[ἄρτος]]: pan
+- [[ὅς 1]|ὅς] : que, quien, cual
+- [[ὅστις]]: que, cual, cualquiera
+- [[τίς]]: ¿quién?, ¿qué?
+- [[τὶς]]: alguien, alguno, algo
+- [[ἑαυτοῦ]]: sí mismo, sí misma, de él, de ella
+- [[οὐδέ]]: y no, ni, tampoco
+- [[ὅταν]]: cuando
+- [[δει|δεῖ]]: deber, es necesario, tener
+- [[ἀλλήλων]]: unos a otros
+- [[διδάσκω]]: enseñar
+- [[πίπτω]]: caer, postrarse
+- [[οὔτε]]: ni, no, tampoco
+- [[ἄρχω]]: comenzar, regir
+- [[κἀγώ]]: y yo, yo también
+- [[ἐμός]]: mi, mío
+- [[σεαυτοῦ]]: tú mismo
+- [[ἐμαυτοῦ]]: Yo mismo, me
+- [[σός]]: tu, tus
+- [[δύο]]: dos
+- [[ἑπτά]]: siete
+- [[οὕτως]]: así, de esta manera
+- [[ἐκεῖ]]: allá, allí
+- [[ἔτι 1|ἔτι]]: todavía, aún
+- [[ἵνα]]: para que, a fin de
+- [[εἰ]]: si, si es que
+- [[ἰδού]]: ¡mira!, ¡miren!, ¡he aquí!
+- [[ὅσος]]: todo, cuánto
+- [[οἰκία]]: casa
+- [[δικαιοσύνη]]: justicia
+- [[εἰρήνη]]: paz
+- [[θάλασσα]]: mar
+- [[Παῦλος]]: Pablo 
+- [[Πέτρος]]: Pedro
+- [[λαός]]: pueblo, gente
+- [[Ἰωάννης]]: Juan
+- [[δοῦλος]]: siervo, esclavo
+- [[θάνατος]]: muerte
+- [[οἶκος]]: casa
+- [[Φαρισαῖος]]: fariseo
+- [[τόπος]]: lugar
+- [[καιρός]]: tiempo, debido tiempo, oportunidad
+- [[Μωϋσῆς]]: Moisés
+- [[οἶδα]] (εἰδήσω): saber, conocer
+- [[ἕκαστος]]: cada, cada uno
+- [[δώδεκα]]: doce
+- [[τρεῖς]]: tres
+- [[μᾶλλον]]: más, más que, más bien
+- [[ἕως]]: hasta, hasta que, mientras
+- [[ὥστε]]: Así, a tal punto, de tal manera que
+- [[ὅπου]]: donde
+- [[κεφαλή]]: cabeza
+- [[ἐντολή]]: mandamiento, orden
+- [[ἀπόστολος]]: apóstol, mensajero
+- [[Σίμων]]: Simón
+- [[καρπός]]: fruto, cosecha
+- [[πρεσβύτερος]]: anciano
+- [[σημεῖον]]: señal
+- [[εὐαγγέλιον]]: evangelio
+- [[πρόσωπον]]: rostro, presencia
+- [[ἱερόν]]: templo
+- [[σάββατον]]: Día de reposo, reposo, semana
+- [[πλοῖον]]: barco, barca
+- [[Ἰερουσαλήμ]]: Jerusalén
+- [[Ἀβραάμ]]: Abraham
+- [[Ἰσραήλ]]: Israel
+- [[τηρέω]]: guardar, custodiar
+- [[πέμπω]]: enviar, mandar
+- [[βαπτίζω]]: bautizar
+- [[πᾶς 1|πᾶς]]/παντός, πᾶσα, πᾶν: todo
+- [[εἷς]], μία, ἕν: uno, una
+- o̔ [[πατήρ]], πατρός: padre
+- ὁ [[ἀνήρ]], ἀνδρός: 
+- ἡ [[γυνή]], γυναικός: Mujer
+- ἡ [[χείρ]], χειρός: mano
+- ἡ [[χάρις]], χαριτός: gracia, favor
+- ἡ [[σάρξ]], σαρκός: Carne
+- ὁ [[αἰών]], αἰῶνος: siglo
+- ὁ [[πούς]], ποδός: pie
+- ἡ [[μήτηρ]], μητρός: madre
+- τό [[πῦρ]], πυρός: fuego, hoguera
+- ἡ [[ἐλπίς]], ἐλπίδος: Esperanza
+- ὁ [[μάρτυς]], μαρτυρός: testigo
+- ὁ [[Καῖσαρ]], Καίσαρος: César
+- ἡ [[θυγάτηρ]], θυγατρός: hija
+- ὁ [[σωτήρ]], σωτῆρος: salvador
+- ὁ [[ἀστήρ]], ἀστέρος: estrella, lucero
+- ἡ [[εἰκών]], εἰκονός: imagen, forma
+- ἡ [[νύξ]], νυκτὁς: Noche
+- ὁ [[Ἕλλην]], Ἕλληνος: griego.
+- τό [[φῶς]], φωτός: luz
+- τό **πνεῦμα**, πνεῦματος: Espíritu, aliento, viento
+- ἡ **πίστις**, πίστεως: fe, confiar
+- ἡ **πόλις**, πόλεως: ciudad
+- ἡ **δύναμις**, δύναμεως: poder, milagro
+- ἡ **κρίσις**, κρίσεως: juicio, justicia
+- ἡ **θλῖψις**, θλῖψεως: aflicción, tribulación, 
+- ὁ **ἀρχιερεύς**, ἀρχιερέως: sumo sacerdote
+- ὁ **βασιλεύς**, βασιλέως: rey
+- ὁ **ἱερεύς**, ἱερέως: sacerdote
+- τό **ὄνομα**, όνόματος: nombre, por nombre
+- τό **ἔθνος**, ἔθνους: gentil, nación, pueblo
+- τό **σῶμα**, σῶματος: cuerpo
+- τό **αἷμα**, αἷματος: sangre
+- τό **στόμα**, στόματος: boca
+- τό **ὄρος**, ὄρους: monte, montaña
+- τό **ἔτος**, ἔτους: año
+- τό **μέρος**, μέρους: parte, región
+- τό **τέλος**, τέλους: fin, cumplimiento, tributo
+- [[πολύς]], πολλή, πολύ: mucho, mucha
+- [[μέγας]], μεγάλη, μέγα: Gran, grande
+- [[μή]]: no
+- [[μηδείς]]: nadie, nada
+- [[μηδέ]]: ni, no
+- [[ἐάν]]: si, si en verdad
+- [[ἄν 1|ἄν]]: (no se traduce pero comunica posibilidad)
+- [[εἴτε]]: ser, si, ya sea, o
+- [[ἤδη]]: ya, ahora
+- [[ὧδε]]: aquí
+- τό [[ὕδωρ]], ὕδατος: agua
+- τό **[[ῥῆμα]]**, ῥῆματος: palabra
+- ὁ [[γραμματεύς]], γραμματέως: escriba
+- [[δαιμόνιον]]: demonio
+- [[ἐρωτάω]]: preguntar, rogar, pedir
+- ἡ [[θέλημα]],θέληματος : voluntad, deseo
+- [[Ἱεροσόλυμα]]: Jerusalén
+- [[Γαλιλαία]]: Galilea
+- [[προσκυνέω]]: adorar, postrarse
+- [[Δαυίδ]]: David
+- [[συναγωγή]]: sinagoga, congregación
+- [[τρίτος]]: tercero
+- [[ἐπερωτάω]]: preguntar, pedir
+- [[λοιπός]]: demás, resto
+- [[Πιλᾶτος]]: Pilato
+- [[δεξιός]]: derecha, diestra
+- [[εὐαγγελίζω]]: anunciar el evangelio, predicar
+- [[χρόνος]]: tiempo
+- [[ἔξω]]: fuera, afuera
+- [[δοκέω]]: pensar, creer, parecer
+- [[θρόνος]]: trono
+- [[δοξάζω]]: glorificar
+- [[κηρύσσω]]: predicar, proclamar
+- [[ἱμάτιον]]: manto, ropa, vestido
+- [[ὑπάρχω]]: ser, poseer
+- [[διδάσκαλος]]: maestro
+- [[εὐθύς]]: enseguida, al instante, inmediatamente
+- [[λίθος]]: piedra
+- [[χαρά]]: gozo, alegría
+- [[θεωρέω]]: ver, mirar
+- [[μέσος]]: en medio
+- [[τοιοῦτος]]: tal
+- [[κράζω]]: gritar, clamar,
+- [[διό]]: por tanto, por lo cual
+- [[παιδίον]]: niño, hijo
+- [[ὅπως]]: para que, cómo
+- [[πείθω]]: persuadir, confiar, convencer
+- [[σπείρω]]: sembrar
+- [[ἐπαγγελία]]: promesa
+- [[ἔσχατος]]: último, final
+- [[σοφία]]: sabiduría
+- [[γλῶσσα]]: lengua
+- [[γραφή]]: escritura
+- [[κακός]]: mal, malo
+- [[μακάριος]]: bienaventurado, dichoso
+- [[παραβολή]]: parábola
+- [[τυφλός]]: ciego
+- [[φανερόω]]: manifestar, aparecer
+- [[χρεία]]: necesidad, 
+- [[ἔρημος]]: desierto, solitario
+- [[κρατέω]]: prender, tomar, arrestar
+- [[οὐκέτι]]: no más, ya no
+- [[φόβος]]: temor, miedo
+- [[φυλακή]]: cárcel, vigilia
+- [[ἁμαρτωλός]]: pecador
+- [[καθίζω]]: sentarse, hacer sentar, permanecer
+- [[μικρός]]: poco, pequeño
+- [[οὐαί]]: ay
+- [[σταυρόω]]: crucificar
+- [[σωτηρία]]: salvación
+- [[διώκω]]: perseguir, procurar
+- [[ναός]]: templo
+- [[ποῦ]]: dónde, a dónde
+- [[ὅμοιος]]: semejante
+- [[κατοικέω]]: habitar, vivir, morar
+- [[γενεά]]: generación
+- [[δέω]]: atar, apresar
+- [[δεύτερος]]: segundo
+- [[θαυμάζω]]: maravillar, asombrarse, admirar
+- τό [[σπέρμα]], σπέρματος: descendencia, descendiente, semilla
+- [[φωνέω]]: llamar, cantar, clamar
+- [[καινός]]: nuevo
+- τό [[ἀνάστασις]], ἀνάστασεως: resurrección
+- [[ἐγγίζω]]: acercarse
+- [[εὐλογέω]]: bendecir
+- [[πάντοτε]]: siempre
+- [[σήμερον]]: hoy
+- [[τέσσαρες]]: cuatro
+- [[τιμή]]: honor, honra, precio
+- [[χωρίς]]: sin
+- [[ἄξιος]]: digno
+- [[κλαίω]]: llorar
+- [[μισέω]]: odiar, aborrecer
+- [[θεραπεύω]]: sanar, curar
+- [[Ἰούδας]]: Judá, Judas
+- [[Ἡρῴδης]]_ Herodes
+- [[Ἰουδαία]]: Judea
+- [[Ἰάκωβος]]: Jabobo
+- [[μνημεῖον]]: sepulcro
+- [[οἰκοδομέω]]: edificar, construir
+- [[ἑτοιμάζω]]: preparar, disponer
+- [[ὀλίγος]]: poco, pequeño
+- [[δικαιόω]]: justificar
+- [[θύρα]]: puerta, entrada
+- [[περισσεύω]]: abundar, sobrar, sobreabundar
+- [[πλανάω]]: engañar, extraviar
+- [[πράσσω]]: practicar, hacer
+- [[πρόβατον]]: oveja
+- [[ἅπτω]]: encender, tocar
+- [[ἱκανός]]: muchos, suficiente, adecuado
+- [[εὐχαριστέω]]: dar gracias
+- [[πέντε]]: cinco
+- [[πειράζω]]: tentar, poner a prueba, probar
+- [[ἐπιθυμία]]: deseo, pasión, lujuria
+- [[ὑποτάσσω]]: sujetar, someter
+- [[διάβολος]]: diablo, calumniador
+- 
+- **[[ὑποτάσσω]]**: sujetar, someter
+- **[[διάβολος]]**: diablo, calumniador
+- **[[διακονέω]]**: servir
+- **[[μαρτυρία]]**: testimonio, testigo
+- **[[παραγίνομαι]]**: llegar, venir, presentarse
+- **[[ἄρχων]]**: gobernante, príncipe, oficial
+- τό **[[οὖς]]**, ὠτός: oído, oreja
+- **[[περιτομή]]**: circuncisión
+- **[[προσευχή]]**: oración
+- **[[Σατανᾶς]]**: Satanás
+- **[[Φίλιππος]]**: Felipe
+- **[[ἀγρός]]**: campo, tierra, terreno
+- **[[ἄρτι]]**: ahora, ya, aquí
+- **[[ἐπιστρέφω]]**: volverse, convertirse
+- **[[ὀργή]]**: ira, enojo
+- **[[ὥσπερ]]**: como, así como, tal como
+- **[[Ἰωσήφ]]**: José
+- **[[ὀπίσω]]**: atrás, tras, después, delante
+- **[[ὀφείλω]]**: deber, tener, contraer obligación
+- **[[ὑποστρέφω]]**: regresar, volverse
+- **[[βιβλίον]]**: libro, carta, pergamino
+- **[[βλασφημέω]]**: blasfemar, injuriar, insultar
+- **[[διακονία]]**: ministerio, servicio
+- **[[μέλος]]**: miembro (del cuerpo)
+- **[[ἄρα 1|ἄρα]]**: así que, entonces
+- **[[μετανοέω]]**: arrepentirse
+- **[[οἶνος]]**: vino
+- **[[πτωχός]]**: pobre
+- **[[ἅπας]]**: todos
+- **[[διαθήκη]]**: pacto, testamento
+- **[[ναί]]**: sí
+- **[[ποῖος]]**: qué, cuál
+- **[[ἀρνέομαι]]**: negar, repudiar, rechazar
+- **[[ἐκπορεύομαι]]**: salir
+- **[[δυνατός]]**: posible, poderoso, fuerte
+- **[[παραγγέλλω]]**: mandar, ordenar, instruir
+- **[[ἀκάθαρτος]]**: inmundo, impuro
+- **[[ἐχθρός]]**: enemigo
+- **[[ἥλιος]]**: sol, oriente
+- **[[ὑπομονή]]**: perseverancia, paciencia
+- **[[καθαρίζω]]**: limpiar, purificar
+- **[[παρρησία]]**: confianza
+- **[[πλήν]]**: pero, sin embargo
+- **[[πλῆθος]]**: multitud, congregación, gente
+- **[[ποτήριον]]**: copa, vaso
+- **[[σκότος]]**: tinieblas, oscuridad
+- [[δίδωμι]]: dar, conceder
+- [[ἀποδίδωμι]]: pagar, recompensar
+- [[παραδίδωμι]]: entregar
+- [[ἵστημι]]: Estar, estar de pie, poner
+- [[ἀνίστημι]]: levantar, resucitar
+- [[παρίστημι]]: presentar, estar (ante)
+- [[τίθημι]]: poner
+- [[ἐπιτίθημι]]: poner
+- [[ἀπόλλυμι]]: destruir, perder, perecer
+- [[φημί]]: decir, responder
+- [[ἀσθενέω]]: enfermarse, debilitarse
+- [[φαίνω]]: aparecer, parecer, resplandecer
+- [[φυλάσσω]]: guardar, custodiar, cuidar
+- [[φυλή]]: tribu
+- [[ἄνεμος]]:viento
+- [[ἐγγύς]]: cerca
+- [[ἐλπίζω]]: esperar
+- [[ἔξεστιν]]: ser lícito, permitir
+- [[δείκνυμι]]: mostrar
+- [[διδαχή]]: enseñanza, doctrina
+- [[συνέρχομαι]]: reunirse, acompañar
+- [[ἀφίημι]]: dejar, perdonar, abandonar
+- [[περισσεύω]]: abundar, sobrar, sobreabundar
+- [[εὐθέως]]: Al instante, enseguida, inmediatamente
+- ἡ [[συνείδησις]], συνείδησεως: consciencia
+- [[ἀγοράζω]]: comprar, rescatar
+- [[ἀρνίον]]: oveja
+- [[ἐπικαλέω]]: llamar, invocar
+- [[ὁμοίως]]: igualmente, de la misma manera.
+- ἡ [[γνῶσις]], γνῶσεως: conocimiento
+- [[διάκονος]]: servidor, ministro, diácono
+- [[μάχαιρα]]: espada
+- [[πάσχα]]: pascua, cena de pascua
+- [[πόθεν]]: dónde, de dónde, 
+- ἡ [[παράκλησις]], παράκλησεως: consuelo, exhortación, consolación
+- [[παρέρχομαι]]: pasar
+- [[μισθός]]: recompensa, salario, jornal
+- [[ποτέ]]: en otro tiempo, antes, jamás
+- [[προσκαλέω]]: Llamar, llamar a su lado
+- [[σκανδαλίζω]]: hacer pecar, escandalizar, apartarse
+- [[φίλος]]: amigo
+- [[φεύγω]]: huir, escapar 
+- [[ἐπιτιμάω]]: reprender, advertir
+- [[ἰσχυρός]]: fuerte, poderoso
+- [[ἴδε 1|ἴδε]]: ¡mira!, ¡miren!, ¡ahí está!
+- [[γαμέω]]: casarse
+- [[θυσία]]: sacrificio
+- [[μυστήριον]]: misterio
+- [[νικάω]]: vencer, conquistar
+- [[πλούσιος]]: rico
+- [[προφητεύω]]: profetizar, adivinar
+- [[τελέω]]: cumplir, terminar, consumar
+- [[χώρα]]: región, tierra, país, campos
+- [[ἀδικέω]]: dañar, hacer injusticia, ofender, agraviar
+- [[ἀληθινός]]: verdadero, sincero
+- [[ἁγιάζω]]: Santificar
+- [[ἐλεέω]]: tener misericordia
+- [[σταυρός]]: Cruz
+- [[ἡγέομαι]]: considerar, gobernar
+- [[ἰσχύω]]: Poder, estar sano
+- [[βαστάζω]]: llevar, soportar, cargar
+- [[κώμη]]: aldea
+- [[καθαρός]]: puro, limpio
+- [[καταργέω]]: anular, destruir, acabar
+- τό [[κρίμα]], κρίματος: juicio, condena, sentencia
+- [[πόσος]]: cuánto, cuánto más
+- [[ἐκεῖθεν]]: de allí
+- [[ἐκχέω]]: derramar
+- [[ἐνδύω]]: vestirse, ponerse
+- τό [[ἔλεος]], ἔλεους: misericordia
+- [[γέ]]: entonces, sin embargo, pues
+- [[λυπέω]]: entristecer
+- [[στρατιώτης]]: soldado
+- [[οὔπω]]: todavía no
+- [[πνευματικός]]: espirituales
+- [[συνίημι]]: comprender, entender
+- [[φρονέω]]: pensar, sentir
++ [[χήρα]]: viuda
++ [[ἀληθής]]: verdadero, veraz
++ [[ἀποκαλύπτω]]: revelar
++ [[ἀσθενής]]: débil, enfermo
++ [[ἐπεί]]: puesto que, como
++ [[ἑορτή]]: fiesta
++ [[ἕνεκα]]: por, por causa
++ [[ἥκω]]: venir, llegar
++ [[ἰάομαι]]: sanar, curar
++ [[ὀμνύω]]: jurar
++ [[ὁμολογέω]]: confesar, prometer
++ [[Αἴγυπτος]]: Egipto
++ [[γνωρίζω]]: dar a conocer, hacer saber
++ [[δέκα]]: diez
++ [[δένδρον]]: árbol
++ [[δουλεύω]]: servir, ser esclavo, esclavizar
++ [[κελεύω]]: ordenar, mandar
++ [[λευκός]]: blanco
++ [[μήποτε]]: no sea que

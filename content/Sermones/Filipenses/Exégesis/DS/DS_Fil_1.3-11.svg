@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3600 9000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <g transform="matrix(4.16667,0,0,4.16667,341.739,-58.3175)">
+        <clipPath id="_clip1">
+            <rect x="36" y="36" width="720" height="1152"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g>
+                <clipPath id="_clip2">
+                    <rect x="36" y="36" width="691.202" height="1152"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g transform="matrix(0,-0.800002,0.800002,0,836.692,806.078)">
+                        <path d="M-947.075,-947.075L947.075,-947.075" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,79.0299,83.8006)">
+                        <path d="M0,0L226.292,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,161.03,77.8006)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,260.064,83.8006)">
+                        <path d="M0,0L151,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.297113,0.742784,-0.742784,-0.297113,311.23,81.2284)">
+                        <path d="M-18.463,12.5L8.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="187.477px" y="79.075px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Ε<tspan x="194.788px 200.816px 206.325px 212.687px 218.95px 221.516px 228.295px 232.704px " y="79.075px 79.075px 79.075px 79.075px 79.075px 79.075px 79.075px 79.075px ">ὐχαριστῶ</tspan></text>
+                    <text x="322.936px" y="79.075px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="327.662px 336.503px 339.469px 345.914px 351.182px " y="79.075px 79.075px 79.075px 79.075px 79.075px ">ῷ θεῷ</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,332.318,115.692)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,313.822,115.801)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,325.52,130.623)">
+                        <path d="M-58.527,58.527L58.527,58.527" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,278.698,177.444)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="344.836px" y="111.075px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μου</text>
+                    <text x="290.73px" y="172.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">πο<tspan x="304.166px 306.684px 312.764px 318.745px 325.039px 329.942px 335.423px 341.503px " y="172.719px 172.719px 172.719px 172.719px 172.719px 172.719px 172.719px 172.719px ">ιούμενος</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,314.718,209.336)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,296.222,209.445)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,296.41,241.336)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,277.914,241.445)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,336.815,233.445)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="315.817px" y="204.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="323.484px 330.11px 335.902px 340.424px 346.664px 351.337px " y="204.719px 204.719px 204.719px 204.719px 204.719px 204.719px ">άντοτε</tspan></text>
+                    <text x="304.974px" y="236.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="310.201px " y="236.719px ">ν</tspan></text>
+                    <text x="345.039px" y="236.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">δ<tspan x="351.251px 356.28px 362.486px 369.344px 374.373px " y="236.719px 236.719px 236.719px 236.719px 236.719px ">εήσει</tspan></text>
+                    <g transform="matrix(-0.397281,0.694386,-0.694386,-0.397281,358.107,274.233)">
+                        <path d="M-35.455,20.563L11.926,20.563" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,339.091,274.345)">
+                        <path d="M0,0L56.977,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,419.204,273.336)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,400.708,273.445)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="360.938px" y="269.619px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μου</text>
+                    <text x="427.551px" y="268.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="434.684px " y="268.719px ">ά</tspan>σῃ</text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,400.895,305.336)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,382.399,305.445)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,470.4,297.445)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="410.538px" y="300.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑ<tspan x="416.255px 423.499px 428.138px " y="300.719px 300.719px 300.719px ">πὲρ</tspan></text>
+                    <text x="489.424px" y="300.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑμῶν</text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,498.396,337.336)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,479.9,337.445)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.39728,0.694387,-0.694387,-0.39728,278.283,304.056)">
+                        <path d="M-67.703,39.265L22.773,39.265" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,241.969,304.27)">
+                        <path d="M0,0L158.49,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,311.443,296.27)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,354.531,177.444)">
+                        <path d="M0,0L142,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,381.331,167.444)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,290.961,218.346)">
+                        <path d="M-168.181,168.181L168.181,168.181" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,156.416,352.891)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,228.791,344.891)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="500.62px" y="332.72px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="508.2px 514.739px 520.445px 524.88px 533.58px " y="332.72px 332.72px 332.72px 332.72px 332.72px ">άντων</tspan></text>
+                    <text x="270.157px" y="299.545px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μ<tspan x="276.882px 282.217px 287.01px " y="299.545px 299.545px 299.545px ">ετὰ</tspan></text>
+                    <text x="328.567px" y="299.545px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">χα<tspan x="340.776px 347.209px 353.741px " y="299.545px 299.545px 299.545px ">ρᾶς</tspan></text>
+                    <text x="393.571px" y="172.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="398.239px 404.626px 410.413px 413.831px 420.223px 425.433px 431.82px 438.858px 441.682px " y="172.719px 172.719px 172.719px 172.719px 172.719px 172.719px 172.719px 172.719px 172.719px ">ὴν δέησιν</tspan></text>
+                    <text x="188.805px" y="348.166px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐπὶ</text>
+                    <text x="247.136px" y="348.166px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="251.788px 258.158px 261.56px 267.201px 273.572px 276.38px 282.152px 290.918px 296.69px 299.498px " y="348.166px 348.166px 348.166px 348.166px 348.166px 348.166px 348.166px 348.166px 348.166px 348.166px ">ῇ κοινωνίᾳ</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,249.097,384.783)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,230.601,384.891)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,230.789,416.783)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,212.293,416.892)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,263.694,408.892)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397281,0.694386,-0.694386,-0.397281,212.628,473.831)">
+                        <path d="M-61.57,35.709L20.71,35.709" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,179.605,474.025)">
+                        <path d="M0,0L34.356,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,247.09,474.025)">
+                        <path d="M-25,25L25,25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.565687,0.565687,-0.565687,0.565687,217.09,469.882)">
+                        <path d="M-5.178,12.5L30.178,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.565687,-0.565687,0.565687,0.565687,217.09,478.167)">
+                        <path d="M-5.178,-12.5L30.178,-12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,227.09,454.024)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,227.09,494.025)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="257.625px" y="380.166px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑμῶν</text>
+                    <text x="231.46px" y="412.166px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ε<tspan x="236.759px 239.673px " y="412.166px 412.166px ">ἰς</tspan></text>
+                    <text x="268.428px" y="412.166px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="273.101px 279.493px 282.916px 288.131px 294.424px 301.05px 306.843px 312.636px 317.85px 323.643px 326.473px 332.864px " y="412.166px 412.166px 412.166px 412.166px 412.166px 412.166px 412.166px 412.166px 412.166px 412.166px 412.166px 412.166px ">ὸ εὐαγγέλιον</tspan></text>
+                    <text x="237.202px" y="449.299px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἀπ<tspan x="250.856px " y="449.299px ">ὸ</tspan></text>
+                    <g transform="matrix(0.800002,0,0,-0.800002,250.423,454.024)">
+                        <path d="M0,0L145.208,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,276.423,444.024)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="276.785px" y="449.299px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="281.351px 287.637px 293.13px 296.447px 304.159px 310.58px 319.11px 323.676px 329.962px 335.455px 337.691px 343.977px 350.476px 355.584px 362.004px 368.524px " y="449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px 449.299px ">ῆς πρώτης ἡμέρας</tspan></text>
+                    <text x="237.765px" y="489.299px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἄ<tspan x="244.316px 250.299px 256.751px " y="489.299px 489.299px 489.299px ">χρι</tspan></text>
+                    <g transform="matrix(0.800002,0,0,-0.800002,252.09,494.025)">
+                        <path d="M0,0L142,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,278.89,484.025)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,269.533,466.009)">
+                        <path d="M-141.396,141.396L141.396,141.396" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,156.416,579.125)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,222.892,579.125)">
+                        <path d="M0,0L178.667,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,249.692,569.125)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,272.882,611.016)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,254.386,611.125)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="299.455px" y="489.299px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">το<tspan x="309.873px 315.918px 319.094px 324.639px 330.684px " y="489.299px 489.299px 489.299px 489.299px 489.299px ">ῦ νῦν</tspan></text>
+                    <text x="282.423px" y="606.4px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">α<tspan x="289.123px 295.49px 300.237px " y="606.4px 606.4px 606.4px ">ὐτὸ</tspan></text>
+                    <text x="271.093px" y="574.4px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="275.756px 282.289px 288.723px 293.386px " y="574.4px 574.4px 574.4px 574.4px ">οῦτο</tspan></text>
+                    <g transform="matrix(-0.800002,0,0,-0.800002,302.741,570.261)">
+                        <path d="M-50,0L0,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.694247,-0.397523,0.397523,0.694247,304.332,571.869)">
+                        <path d="M-0.727,-2.733L10.273,-2.733" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.694247,0.397523,-0.397523,0.694247,304.332,568.653)">
+                        <path d="M-0.727,2.733L10.273,2.733" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.694247,0.397523,-0.397523,-0.694247,336.695,576.242)">
+                        <path d="M-10.273,2.733L0.727,2.733" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.694247,-0.397523,0.397523,-0.694247,336.695,564.28)">
+                        <path d="M-10.273,-2.733L0.727,-2.733" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,365.495,529.525)">
+                        <path d="M0,0L40.667,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,383.095,547.125)">
+                        <path d="M-22,-22L22,-22" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,365.846,578.918)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,373.846,564.932)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,398.028,529.525)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,480.029,523.525)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="368.695px" y="552.063px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὅ<tspan x="375.207px 380.001px " y="552.063px 552.063px ">τι</tspan></text>
+                    <text x="475.671px" y="524.799px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="480.69px 488.313px 490.946px 495.424px 500.442px 506.04px 511.058px 517.905px 522.924px " y="524.799px 524.799px 524.799px 524.799px 524.799px 524.799px 524.799px 524.799px 524.799px ">πιτελέσει</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,497.315,561.416)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,478.819,561.525)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,543.352,553.525)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="498.76px" y="556.799px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἄ<tspan x="505.311px 511.294px 517.747px " y="556.799px 556.799px 556.799px ">χρι</tspan></text>
+                    <text x="540.867px" y="556.799px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἡ<tspan x="547.151px 553.649px 558.756px 565.175px 571.694px " y="556.799px 556.799px 556.799px 556.799px 556.799px ">μέρας</tspan></text>
+                    <g transform="matrix(-0.397274,0.69439,-0.69439,-0.397274,553.527,591.157)">
+                        <path d="M-32.042,18.584L10.778,18.584" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,536.341,591.259)">
+                        <path d="M0,0L113.879,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,406.028,467.658)">
+                        <path d="M0,0L20,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,429.762,491.391)">
+                        <path d="M-29.667,-29.667L29.667,-29.667" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,406.38,529.318)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,414.38,515.331)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,422.028,467.658)">
+                        <path d="M0,0L221.667,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,504.029,461.658)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="552.943px" y="586.533px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Χ<tspan x="560.345px 566.699px 569.356px 576.227px 580.576px 586.795px 592.916px 595.29px 599.582px 605.801px 612.672px 618.891px " y="586.533px 586.533px 586.533px 586.533px 586.533px 586.533px 586.533px 586.533px 586.533px 586.533px 586.533px 586.533px ">ριστοῦ Ἰησοῦ</tspan></text>
+                    <text x="413.959px" y="462.933px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὁ<tspan x="420.178px 422.919px 427.961px 433.582px 440.036px 446.391px 451.168px 457.622px 464.055px 469.098px 474.718px 480.938px 486.366px 498.194px 503.236px 509.591px 515.212px 521.432px 527.052px 529.34px 535.794px 541.415px 547.869px 554.089px 560.308px " y="462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px 462.933px "> ἐναρξάμενος ἔργον ἀγαθὸν</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,518.749,499.549)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,500.253,499.658)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.39728,0.694386,-0.694386,-0.39728,186.084,114.097)">
+                        <path d="M-32.76,19L11.019,19" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,168.512,114.201)">
+                        <path d="M0,0L123.939,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,227.413,106.201)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="523.128px" y="494.933px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="528.158px 533.767px 537.006px 543.114px 549.535px 552.18px " y="494.933px 494.933px 494.933px 494.933px 494.933px 494.933px ">ν ὑμῖν</tspan></text>
+                    <text x="172.522px" y="574.4px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="179.993px 184.86px 192.18px 198.224px 200.705px 206.749px 215.189px " y="574.4px 574.4px 574.4px 574.4px 574.4px 574.4px 574.4px ">εποιθὼς</tspan></text>
+                    <text x="189.235px" y="109.475px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="194.425px 202.219px 205.023px 223.587px 228.236px 234.603px 238.001px 244.581px 250.349px 255.539px 258.344px " y="109.475px 109.475px 109.475px 109.475px 109.475px 109.475px 109.475px 109.475px 109.475px 109.475px 109.475px ">πὶ τῇ μνείᾳ</tspan></text>
+                    <g transform="matrix(-0.397283,0.694385,-0.694385,-0.397283,234.094,146.225)">
+                        <path d="M-34.629,20.084L11.648,20.084" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,215.521,146.334)">
+                        <path d="M0,0L65.887,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,215.689,174.97)">
+                        <path d="M-30.964,17.958L10.415,17.958" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,199.081,175.068)">
+                        <path d="M0,0L71.705,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,79.0299,749.073)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,161.03,743.073)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,210.198,749.073)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.297113,0.742784,-0.742784,0.297113,230.797,731.646)">
+                        <path d="M-8.463,12.5L18.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="226.105px" y="170.342px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑμῶν</text>
+                    <text x="234.737px" y="141.609px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="241.871px " y="141.609px ">ά</tspan>σῃ</text>
+                    <text x="82.23px" y="615.331px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Κ<tspan x="89.748px 96.449px 102.915px 111.777px " y="615.331px 615.331px 615.331px 615.331px ">αθώς</tspan></text>
+                    <text x="169.094px" y="744.347px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="174.329px 181.392px 186.085px 188.934px " y="744.347px 744.347px 744.347px 744.347px ">στιν</tspan></text>
+                    <text x="272.962px" y="744.347px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">δ<tspan x="279.303px 282.076px 287.682px 294.253px 297.026px 303.362px " y="744.347px 744.347px 744.347px 744.347px 744.347px 744.347px ">ίκαιον</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,185.386,780.965)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,166.89,781.074)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397279,0.694387,-0.694387,-0.397279,167.297,850.262)">
+                        <path d="M-74.815,43.39L25.165,43.39" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,127.17,850.499)">
+                        <path d="M0,0L180.861,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,215.17,842.499)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,253.785,802.498)">
+                        <path d="M0,0L20,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,270.585,819.298)">
+                        <path d="M-21,-21L21,-21" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,254.136,850.292)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,262.136,836.305)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,261.785,802.498)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,343.785,796.498)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="196.581px" y="776.347px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="201.591px 207.993px 214.181px " y="776.347px 776.347px 776.347px ">μοὶ</tspan></text>
+                    <text x="159.266px" y="845.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">δ<tspan x="165.53px 168.226px " y="845.773px 845.773px ">ιὰ</tspan></text>
+                    <text x="215.405px" y="845.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="220.739px " y="845.773px ">ὸ</tspan></text>
+                    <text x="290.025px" y="797.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μ<tspan x="296.318px " y="797.773px ">ε</tspan></text>
+                    <text x="352.249px" y="797.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἔ<tspan x="357.408px 363.41px 368.569px 371.342px " y="797.773px 797.773px 797.773px 797.773px ">χειν</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,366.139,834.39)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,347.643,834.498)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,435.644,826.498)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.39728,0.694386,-0.694386,-0.39728,348.233,934.69)">
+                        <path d="M-108.339,62.834L36.441,62.833" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,290.125,935.035)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,330.278,887.035)">
+                        <path d="M0,0L20,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,347.078,903.835)">
+                        <path d="M-21,-21L21,-21" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,330.629,934.828)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,338.629,920.842)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,338.278,887.035)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,430.412,881.035)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="382.203px" y="829.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="387.43px " y="829.773px ">ν</tspan></text>
+                    <text x="443.148px" y="829.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="447.857px 454.285px 457.744px 463.443px 470.105px 476.668px 483.101px 485.967px " y="829.773px 829.773px 829.773px 829.773px 829.773px 829.773px 829.773px 829.773px ">ῇ καρδίᾳ</tspan></text>
+                    <text x="426.732px" y="882.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὄ<tspan x="433.184px 439.037px 443.619px 450.305px " y="882.309px 882.309px 882.309px 882.309px ">ντας</tspan></text>
+                    <text x="340.929px" y="882.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="348.426px 354.882px 360.505px 364.857px 371.312px 376.742px 379.995px 386.118px 392.553px 399.008px " y="882.309px 882.309px 882.309px 882.309px 882.309px 882.309px 882.309px 882.309px 882.309px 882.309px ">άντας ὑμᾶς</tspan></text>
+                    <g transform="matrix(0.800002,0,0,-0.800002,448.145,887.035)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.297113,0.742784,-0.742784,0.297113,468.745,869.607)">
+                        <path d="M-8.463,12.5L18.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="469.809px" y="882.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">συ<tspan x="482.412px " y="882.309px ">γ</tspan>κο<tspan x="499.16px 501.623px 507.05px 515.471px 520.898px 526.923px 532.849px " y="882.309px 882.309px 882.309px 882.309px 882.309px 882.309px 882.309px ">ινωνούς</tspan></text>
+                    <g transform="matrix(-0.39728,0.694386,-0.694386,-0.39728,493.022,1035.99)">
+                        <path d="M-161.072,93.416L54.179,93.416" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,406.63,1036.5)">
+                        <path d="M0,0L58.17,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,533.452,1036.5)">
+                        <path d="M-65.334,65.334L65.334,65.334" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.541127,0.589224,-0.589224,0.541127,460.199,1027.28)">
+                        <path d="M-14.352,32.667L74.352,32.667" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.541127,-0.589224,0.589224,0.541127,460.199,1045.72)">
+                        <path d="M-14.352,-32.667L74.352,-32.667" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,481.185,984.235)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,481.185,1088.76)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,491.852,984.235)">
+                        <path d="M0,0L142,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,518.652,974.235)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="488.938px" y="979.51px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἔ<tspan x="494.165px " y="979.51px ">ν</tspan></text>
+                    <text x="527.334px" y="979.51px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="531.711px 537.958px 540.642px 546.097px 549.375px 555.627px 560.697px 567.594px 574.055px 580.301px 582.986px " y="979.51px 979.51px 979.51px 979.51px 979.51px 979.51px 979.51px 979.51px 979.51px 979.51px 979.51px ">οῖς δεσμοῖς</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,570.04,1016.13)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,551.543,1016.24)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,493.852,1088.76)">
+                        <path d="M0,0L60.833,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,520.652,1078.76)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,580.518,1088.76)">
+                        <path d="M-32.5,32.5L32.5,32.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.572799,0.558485,-0.558485,0.572799,540.714,1083.15)">
+                        <path d="M-6.611,16.25L39.944,16.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.572799,-0.558485,0.558485,0.572799,540.714,1094.38)">
+                        <path d="M-6.611,-16.25L39.944,-16.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,554.518,1062.76)">
+                        <path d="M0,0L96.833,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,554.518,1114.76)">
+                        <path d="M0,0L96.833,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="582.557px" y="1011.51px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μου</text>
+                    <text x="496.412px" y="1084.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="501.639px " y="1084.04px ">ν</tspan></text>
+                    <text x="563.66px" y="1058.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="568.329px 574.718px 578.137px 584.76px 592.424px 598.609px 604.236px 610.625px 616.414px 619.239px " y="1058.04px 1058.04px 1058.04px 1058.04px 1058.04px 1058.04px 1058.04px 1058.04px 1058.04px 1058.04px ">ῇ ἀπολογίᾳ</tspan></text>
+                    <text x="559.393px" y="1110.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">β<tspan x="565.781px 570.79px 577.178px 583.598px 586.22px 594.802px 601.638px 606.646px " y="1110.04px 1110.04px 1110.04px 1110.04px 1110.04px 1110.04px 1110.04px 1110.04px ">εβαιώσει</tspan></text>
+                    <text x="557.718px" y="1084.49px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κ<tspan x="563.423px 570.092px " y="1084.49px 1084.49px ">αὶ</tspan></text>
+                    <g transform="matrix(-0.397284,0.694384,-0.694384,-0.397284,519.472,1137.66)">
+                        <path d="M-52.876,30.667L17.785,30.666" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,491.113,1137.84)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,553.934,918.926)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,535.437,919.035)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,535.625,950.926)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,517.129,951.035)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,371.159,802.498)">
+                        <path d="M0,0L151,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.297113,0.742784,-0.742784,-0.297113,399.759,799.926)">
+                        <path d="M-18.463,12.5L8.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,105.698,675.515)">
+                        <path d="M0,0L20,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,135.277,705.094)">
+                        <path d="M-36.974,-36.974L36.974,-36.974" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,106.049,748.867)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,114.05,734.88)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,117.49,675.515)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,199.49,669.515)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="508.173px" y="1133.11px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="512.655px 519.006px 525.258px 528.014px 533.188px 539.44px 546.025px 551.777px 557.53px 562.704px 568.456px 571.244px 577.596px " y="1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px 1133.11px ">οῦ εὐαγγελίου</tspan></text>
+                    <text x="484.385px" y="1014.02px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="489.505px " y="1014.02px ">ε</tspan></text>
+                    <text x="484.385px" y="1051.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κ<tspan x="490.09px 496.758px " y="1051.09px 1051.09px ">αὶ</tspan></text>
+                    <text x="546.712px" y="914.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="551.415px 557.836px 563.466px 566.918px 572.72px 579.376px 585.933px 588.792px 593.343px 599.765px " y="914.309px 914.309px 914.309px 914.309px 914.309px 914.309px 914.309px 914.309px 914.309px 914.309px ">ῆς χάριτος</tspan></text>
+                    <text x="548.142px" y="946.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μου</text>
+                    <text x="432.131px" y="797.773px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑ<tspan x="438.102px 444.386px 450.691px " y="797.773px 797.773px 797.773px ">μᾶς</tspan></text>
+                    <text x="137.266px" y="670.789px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="141.929px 148.462px 154.896px 159.559px " y="670.789px 670.789px 670.789px 670.789px ">οῦτο</tspan></text>
+                    <text x="200.722px" y="670.789px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">φ<tspan x="207.992px 214.413px 220.698px 226.384px 231.493px 234.215px " y="670.789px 670.789px 670.789px 670.789px 670.789px 670.789px ">ρονεῖν</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,237.47,707.406)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,218.973,707.515)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,306.974,699.515)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,79.0299,1010.28)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,161.03,1004.28)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,192.364,1010.28)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.297113,0.742784,-0.742784,0.297113,212.963,992.855)">
+                        <path d="M-8.463,12.5L18.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="247.113px" y="702.79px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑ<tspan x="252.83px 260.073px 264.713px " y="702.79px 702.79px 702.79px ">πὲρ</tspan></text>
+                    <text x="305.331px" y="702.79px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">πά<tspan x="319.182px 324.753px 329.053px 337.619px 343.19px 346.392px 352.463px 358.847px 367.413px " y="702.79px 702.79px 702.79px 702.79px 702.79px 702.79px 702.79px 702.79px 702.79px ">ντων ὑμῶν</tspan></text>
+                    <text x="217.463px" y="1005.56px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μ<tspan x="223.97px 230.497px 236.775px 241.349px 247.543px " y="1005.56px 1005.56px 1005.56px 1005.56px 1005.56px ">άρτυς</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,234.952,1042.17)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,216.456,1042.28)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397278,0.694387,-0.694387,-0.397278,216.877,1113.77)">
+                        <path d="M-77.303,44.834L26.002,44.833" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,175.414,1114.02)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,184.951,1114.02)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,266.951,1108.02)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="247.469px" y="1037.56px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μου</text>
+                    <text x="202.501px" y="1076.41px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὡ<tspan x="211.034px " y="1076.41px ">ς</tspan></text>
+                    <text x="266.476px" y="1109.29px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐπ<tspan x="278.747px " y="1109.29px ">ι</tspan>πο<tspan x="294.492px " y="1109.29px ">θ</tspan>ῶ</text>
+                    <g transform="matrix(0.800002,0,0,-0.800002,304.951,1114.02)">
+                        <path d="M0,0L142,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,331.751,1104.02)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="358.722px" y="1109.29px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑ<tspan x="364.693px 370.977px 377.282px " y="1109.29px 1109.29px 1109.29px ">μᾶς</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,401.806,1145.91)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,383.31,1146.02)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397276,0.694389,-0.694389,-0.397276,277.161,1149.63)">
+                        <path d="M-38.508,22.334L12.953,22.334" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,256.506,1149.75)">
+                        <path d="M0,0L142.337,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,305.574,1141.75)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="405.176px" y="1141.29px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="412.827px 419.435px 425.21px 429.715px 436.323px " y="1141.29px 1141.29px 1141.29px 1141.29px 1141.29px ">άντας</tspan></text>
+                    <text x="271.734px" y="1145.02px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="276.96px " y="1145.02px ">ν</tspan></text>
+                    <text x="304.762px" y="1145.02px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">σ<tspan x="311.555px 319.124px 324.505px 330.881px 336.424px 342.232px 347.775px 353.917px 356.496px " y="1145.02px 1145.02px 1145.02px 1145.02px 1145.02px 1145.02px 1145.02px 1145.02px 1145.02px ">πλάγχνοις</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,332.778,1181.64)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,314.281,1181.75)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="329.551px" y="1177.02px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Χ<tspan x="336.952px 343.307px 345.964px 352.834px 357.183px 363.403px 369.523px 371.897px 376.189px 382.409px 389.279px 395.498px " y="1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px 1177.02px ">ριστοῦ Ἰησοῦ</tspan></text>
+                    <text x="107.091px" y="1005.56px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὁ<tspan x="113.332px 116.051px 122.292px 127.356px 133.597px " y="1005.56px 1005.56px 1005.56px 1005.56px 1005.56px "> θεὸς</tspan></text>
+                    <text x="82.23px" y="969.526px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">γ<tspan x="87.947px 94.497px " y="969.526px 969.526px ">άρ</tspan></text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,341.739,4741.68)">
+        <clipPath id="_clip3">
+            <rect x="36" y="36" width="720" height="1152"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <g>
+                <clipPath id="_clip4">
+                    <rect x="36" y="36" width="691.202" height="1152"/>
+                </clipPath>
+                <g clip-path="url(#_clip4)">
+                    <g transform="matrix(0,-0.800002,0.800002,0,836.692,-345.925)">
+                        <path d="M-947.075,-947.075L947.075,-947.075" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,79.0299,102.672)">
+                        <path d="M0,0L222.333,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,161.03,96.6722)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="82.23px" y="75.411px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Κ<tspan x="89.945px 96.843px " y="75.411px 75.411px ">αὶ</tspan></text>
+                    <text x="98.806px" y="97.947px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="103.469px 110.002px 116.436px 121.099px " y="97.947px 97.947px 97.947px 97.947px ">οῦτο</tspan></text>
+                    <text x="149.83px" y="97.947px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">πρ<tspan x="163.421px 169.435px 176.1px 180.937px 186.852px 192.246px 198.261px 204.488px 210.737px " y="97.947px 97.947px 97.947px 97.947px 97.947px 97.947px 97.947px 97.947px 97.947px ">οσεύχομαι</tspan></text>
+                    <g transform="matrix(0.397281,0.694386,-0.694386,0.397281,224.016,102.857)">
+                        <path d="M-19.719,34L58.624,34" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,223.697,157.072)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,223.697,157.072)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,305.698,151.072)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="215.617px" y="132.627px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἵ<tspan x="218.296px 223.937px " y="132.627px 132.627px ">να</tspan></text>
+                    <text x="236.785px" y="152.347px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἡ<tspan x="243.033px 246.397px 252.879px 258.527px 265.009px 272.683px " y="152.347px 152.347px 152.347px 152.347px 152.347px 152.347px "> ἀγάπη</tspan></text>
+                    <g transform="matrix(-0.397276,0.694389,-0.694389,-0.397276,260.554,189.362)">
+                        <path d="M-34.915,20.25L11.744,20.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,241.827,189.472)">
+                        <path d="M0,0L71.619,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="260.851px" y="184.747px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑμῶν</text>
+                    <text x="301.01px" y="152.347px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">περισ<tspan x="328.253px " y="152.347px ">σ</tspan>εύῃ</text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,336.095,188.963)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,317.599,189.072)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,426.04,189.072)">
+                        <path d="M-40.5,40.5L40.5,40.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.497557,0.626451,-0.626451,0.497557,385.457,185.121)">
+                        <path d="M-9.777,20.25L41.944,20.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.497557,-0.626451,0.626451,0.497557,385.457,193.023)">
+                        <path d="M-9.777,-20.25L41.944,-20.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,393.64,156.672)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,393.64,221.473)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397279,0.694387,-0.694387,-0.397279,318.111,275.976)">
+                        <path d="M-93.97,54.5L31.608,54.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,267.709,276.273)">
+                        <path d="M0,0L113.166,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,314.775,268.273)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,414.568,276.276)">
+                        <path d="M-43.834,43.834L43.834,43.834" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.503498,0.621686,-0.621686,0.503498,369.989,271.736)">
+                        <path d="M-10.453,21.917L45.953,21.917" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.503498,-0.621686,0.621686,0.503498,369.989,280.809)">
+                        <path d="M-10.453,-21.917L45.953,-21.917" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,379.501,241.209)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,379.501,311.337)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="405.208px" y="151.947px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μ<tspan x="411.855px 418.522px 424.356px 430.029px 436.462px " y="151.947px 151.947px 151.947px 151.947px 151.947px ">ᾶλλον</tspan></text>
+                    <text x="396.84px" y="193.211px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κ<tspan x="402.545px 409.214px " y="193.211px 193.211px ">αὶ</tspan></text>
+                    <text x="405.208px" y="216.747px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">μ<tspan x="411.855px 418.522px 424.356px 430.029px 436.462px " y="216.747px 216.747px 216.747px 216.747px 216.747px ">ᾶλλον</tspan></text>
+                    <text x="336.079px" y="184.347px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἔ<tspan x="341.684px 346.746px " y="184.347px 184.347px ">τι</tspan></text>
+                    <text x="286.935px" y="271.547px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="292.162px " y="271.547px ">ν</tspan></text>
+                    <text x="384.893px" y="236.483px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἐ<tspan x="389.819px 397.35px 399.891px 405.395px 410.9px 419.399px 426.153px 431.08px " y="236.483px 236.483px 236.483px 236.483px 236.483px 236.483px 236.483px 236.483px ">πιγνώσει</tspan></text>
+                    <text x="382.701px" y="280.411px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κ<tspan x="388.406px 395.074px " y="280.411px 280.411px ">αὶ</tspan></text>
+                    <text x="387.693px" y="306.611px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">α<tspan x="394.176px 396.861px 403.76px 410.008px 416.256px 423.155px 428.226px " y="306.611px 306.611px 306.611px 306.611px 306.611px 306.611px 306.611px ">ἰσθήσει</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,423.289,343.228)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,404.793,343.337)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397283,0.694385,-0.694385,-0.397283,268.104,343.51)">
+                        <path d="M-72.705,42.167L24.455,42.167" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,229.109,343.737)">
+                        <path d="M0,0L150.786,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,284.842,335.737)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,308.75,391.737)">
+                        <path d="M0,0L20,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,325.551,374.937)">
+                        <path d="M-21,21L21,21" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,309.102,343.944)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,317.102,357.93)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,316.75,391.737)">
+                        <path d="M0,0L171,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,366.484,385.737)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="431.636px" y="338.612px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">π<tspan x="438.769px " y="338.612px ">ά</tspan>σῃ</text>
+                    <text x="247.776px" y="339.012px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ε<tspan x="253.075px 255.989px " y="339.012px 339.012px ">ἰς</tspan></text>
+                    <text x="318.254px" y="387.012px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ὑ<tspan x="324.325px 330.707px 337.111px 342.489px 359.134px 365.309px 371.478px 377.048px 379.655px 386.038px 392.441px 397.381px 402.374px 404.98px " y="387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px ">μᾶς δοκιμάζειν</tspan></text>
+                    <g transform="matrix(0.800002,0,0,-0.800002,403.418,391.737)">
+                        <path d="M0,0L151,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.297113,0.742784,-0.742784,-0.297113,432.017,389.165)">
+                        <path d="M-18.463,12.5L8.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.397281,0.694386,-0.694386,0.397281,399.215,391.902)">
+                        <path d="M-17.544,30.25L52.158,30.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,398.932,440.137)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,403.908,440.137)">
+                        <path d="M0,0L117.667,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,465.641,434.137)">
+                        <path d="M-17.5,17.5L17.5,17.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,488.499,440.137)">
+                        <path d="M0,0L72.333,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.297113,0.742784,-0.742784,0.297113,509.098,422.709)">
+                        <path d="M-8.463,12.5L18.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,578.899,440.137)">
+                        <path d="M-35.5,35.5L35.5,35.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.49543,0.628135,-0.628135,0.49543,543.513,436.75)">
+                        <path d="M-8.607,17.75L36.607,17.75" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.49543,-0.628135,0.628135,0.49543,543.513,443.525)">
+                        <path d="M-8.607,-17.75L36.607,-17.75" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,550.499,411.737)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,550.499,468.537)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="432.255px" y="387.012px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="436.992px 443.682px 447.169px 453.63px 456.523px 463.213px 470.653px 475.932px 482.523px 488.979px 494.836px 499.422px " y="387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px 387.012px ">ὰ διαφέροντα</tspan></text>
+                    <text x="385.211px" y="414.7px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἵ<tspan x="387.889px 393.531px " y="414.7px 414.7px ">να</tspan></text>
+                    <text x="554.936px" y="407.012px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ε<tspan x="560.183px 563.044px 568.869px 571.731px 577.556px 584.115px 586.976px 592.801px 598.048px 600.909px " y="407.012px 407.012px 407.012px 407.012px 407.012px 407.012px 407.012px 407.012px 407.012px 407.012px ">ἰλικρινεῖς</tspan></text>
+                    <text x="553.699px" y="441.796px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κ<tspan x="559.404px 566.073px " y="441.796px 441.796px ">αὶ</tspan></text>
+                    <text x="557.299px" y="463.812px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἀπρ<tspan x="577.028px " y="463.812px ">ό</tspan>σκοπο<tspan x="613.939px " y="463.812px ">ι</tspan></text>
+                    <text x="462.318px" y="435.412px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἦ<tspan x="468.938px 473.838px " y="435.412px 435.412px ">τε</tspan></text>
+                    <g transform="matrix(-0.397283,0.694385,-0.694385,-0.397283,474.987,510.298)">
+                        <path d="M-75.867,44L25.519,44" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,434.296,510.538)">
+                        <path d="M0,0L200,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,498.697,502.537)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,514.485,542.429)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,495.988,542.538)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397283,0.694385,-0.694385,-0.397283,434.83,601.295)">
+                        <path d="M-98.138,56.917L33.01,56.917" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,382.194,601.61)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="521.993px" y="505.812px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἡ<tspan x="528.319px 534.86px 540.009px 546.472px 553.033px " y="505.812px 505.812px 505.812px 505.812px 505.812px ">μέραν</tspan></text>
+                    <text x="462.963px" y="505.812px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ε<tspan x="468.262px 471.176px " y="505.812px 505.812px ">ἰς</tspan></text>
+                    <text x="516.212px" y="537.812px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Χ<tspan x="523.607px 529.955px 532.606px 539.469px 543.812px 550.025px " y="537.812px 537.812px 537.812px 537.812px 537.812px 537.812px ">ριστοῦ</tspan></text>
+                    <text x="398.482px" y="596.884px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">πε<tspan x="410.791px 418.248px 423.679px 429.708px 435.874px 444.299px 450.542px 455.395px 460.826px " y="596.884px 596.884px 596.884px 596.884px 596.884px 596.884px 596.884px 596.884px 596.884px ">πληρωμένο</tspan>ι</text>
+                    <g transform="matrix(0.800002,0,0,-0.800002,455.432,601.61)">
+                        <path d="M0,0L151,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.297113,0.742784,-0.742784,-0.297113,484.031,599.038)">
+                        <path d="M-18.463,12.5L8.463,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="509.869px" y="596.884px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κα<tspan x="521.467px 527.497px 534.97px 541.016px " y="596.884px 596.884px 596.884px 596.884px ">ρπὸν</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,512.287,633.501)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,493.79,633.61)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="504.009px" y="628.885px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">δ<tspan x="510.221px 512.864px 518.341px 524.782px 527.426px 533.632px 540.489px 546.596px 552.203px 558.41px " y="628.885px 628.885px 628.885px 628.885px 628.885px 628.885px 628.885px 628.885px 628.885px 628.885px ">ικαιοσύνης</tspan></text>
+                    <g transform="matrix(-0.397277,0.694388,-0.694388,-0.397277,520.287,665.501)">
+                        <path d="M-34.484,20L11.599,20" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,501.79,665.61)">
+                        <path d="M0,0L100,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,549.79,697.338)">
+                        <path d="M0,0L20,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,558.457,688.677)">
+                        <path d="M-10.834,10.834L10.834,10.834" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="533.31px" y="660.885px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="538.104px 544.617px " y="660.885px 660.885px ">ὸν</tspan></text>
+                    <g transform="matrix(0.388516,0.699328,-0.699328,0.388516,550.142,665.817)">
+                        <path d="M-5.296,9L15.296,9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.388516,-0.699328,0.699328,0.388516,558.142,679.803)">
+                        <path d="M-5.296,-9L15.296,-9" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,565.79,697.338)">
+                        <path d="M0,0L142,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,597.924,687.338)">
+                        <path d="M-12.5,12.5L12.5,12.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397279,0.694387,-0.694387,-0.397279,502.302,752.513)">
+                        <path d="M-93.97,54.5L31.608,54.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,451.901,752.81)">
+                        <path d="M0,0L149.949,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,-0.800002,0.800002,0,539.901,744.81)">
+                        <path d="M-10,-10L10,-10" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(-0.397274,0.69439,-0.69439,-0.397274,545.428,782.443)">
+                        <path d="M-32.042,18.584L10.778,18.584" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,528.242,782.538)">
+                        <path d="M0,0L55.546,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0,0.800002,-0.800002,0,620.26,752.81)">
+                        <path d="M-34,34L34,34" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="595.327px" y="692.613px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">Ἰ<tspan x="599.619px 605.838px 612.708px 618.928px 625.048px 628.298px 635.7px 642.055px 644.711px 651.582px 655.931px 662.15px " y="692.613px 692.613px 692.613px 692.613px 692.613px 692.613px 692.613px 692.613px 692.613px 692.613px 692.613px 692.613px ">ησοῦ Χριστοῦ</tspan></text>
+                    <text x="556.99px" y="685.813px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">δ<tspan x="563.254px 565.95px " y="685.813px 685.813px ">ιὰ</tspan></text>
+                    <text x="485.234px" y="748.085px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ε<tspan x="490.534px 493.448px " y="748.085px 748.085px ">ἰς</tspan></text>
+                    <text x="545.949px" y="777.813px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">θ<tspan x="552.172px 557.219px 563.442px " y="777.813px 777.813px 777.813px ">εοῦ</tspan></text>
+                    <g transform="matrix(0.491796,0.630984,-0.630984,0.491796,586.671,749.689)">
+                        <path d="M-8.304,17L34.804,17" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.491796,-0.630984,0.630984,0.491796,586.671,755.931)">
+                        <path d="M-8.304,-17L34.804,-17" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,593.06,725.61)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <g transform="matrix(0.800002,0,0,-0.800002,593.06,780.01)">
+                        <path d="M0,0L75,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.3px;"/>
+                    </g>
+                    <text x="608.308px" y="720.885px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">δ<tspan x="614.588px 620.862px 625.693px 632.202px " y="720.885px 720.885px 720.885px 720.885px ">όξαν</tspan></text>
+                    <text x="603.609px" y="775.285px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">ἔ<tspan x="608.617px 616.077px 622.496px 625.119px 630.704px 636.889px " y="775.285px 775.285px 775.285px 775.285px 775.285px 775.285px ">παινον</tspan></text>
+                    <text x="596.26px" y="756.949px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">κ<tspan x="601.965px 608.633px " y="756.949px 756.949px ">αὶ</tspan></text>
+                    <text x="310.053px" y="339.012px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">τ<tspan x="315.386px " y="339.012px ">ὸ</tspan></text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

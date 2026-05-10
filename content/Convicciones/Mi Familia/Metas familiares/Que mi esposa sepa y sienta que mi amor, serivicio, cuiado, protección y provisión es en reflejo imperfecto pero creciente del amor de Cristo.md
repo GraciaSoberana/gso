@@ -1,0 +1,13 @@
+---
+publish: true
+type: DirectiveGoal
+area: 
+  - "[[Mi vida familiar]]"
+conviccion: "[[Amar, cuidar y guiar a  mi familia es mi primer y más importante ministerio]]"
+related:
+  - "[[Amando a mi esposa]]"
+tags:
+  - meta/Familia
+---
+
+![[familia-banner.jpg]]
