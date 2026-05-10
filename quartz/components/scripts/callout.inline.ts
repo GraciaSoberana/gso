@@ -5,6 +5,7 @@ function toggleCallout(this: HTMLElement) {
   if (!content) return
   const collapsed = outerBlock.classList.contains("is-collapsed")
   content.style.gridTemplateRows = collapsed ? "0fr" : "1fr"
+  outerBlock.dataset.calloutFold = collapsed ? "-" : ""
 }
 
 function setupCallout() {

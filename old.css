@@ -1,0 +1,349 @@
+p {
+  line-height:        1.5;
+  margin-block-end:   1.5em;
+  margin-block-start: 0;
+  word-spacing:       0.025em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight:    700;
+  letter-spacing: 0.020em;
+  margin:         2em 0 0.25em 0;
+}
+
+h1 {
+  font-size:  2.25em;
+  text-align: right;
+}
+
+h2 { font-size: 1.75em; }
+h3 { font-size: 1.5em;  }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1em;    }
+h6 { font-size: 0.75em; }
+
+strong {
+  font-weight: 800;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 3. BLOCKQUOTES
+ * ──────────────────────────────────────────────────────────── */
+
+blockquote {
+  font-style:   italic;
+  margin:       2em 0;
+  padding:      0.5em 0.5em 0.5em 2em;
+  border-left-width: 5px;
+}
+
+blockquote p {
+  font-size: 0.9em;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 4. TABLAS
+ * ──────────────────────────────────────────────────────────── */
+
+table {
+  width:           100%;
+  font-family:     'Inter', sans-serif;
+  font-size:       14px;
+  border-collapse: collapse;
+  margin-top:      1em;
+}
+
+thead tr th {
+  font-size:      0.85em;
+  font-weight:    700;
+  padding:        0.75em;
+  text-transform: uppercase;
+  text-align:     left;
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--light);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: var(--lightgray);
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 5. LISTAS
+ * ──────────────────────────────────────────────────────────── */
+
+ul, ol {
+  margin: 2em 0;
+}
+
+li {
+  padding-bottom: 0.5em;
+  padding-top:    0.5em;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 6. CALLOUTS — BASE
+ * ──────────────────────────────────────────────────────────── */
+
+.callout {
+  font-family: 'Inter';
+  font-size:   90%;
+  margin:      1em 0 1.5em 0;
+}
+
+.callout-title {
+  font-family: 'Inter';
+  font-weight: bold;
+  font-size:   1em;
+  line-height: 1.75;
+  margin:      0.5em 0;
+}
+
+.callout-content {
+  margin-top: 0;
+}
+
+.callout-content p {
+  margin-block-start: 0;
+  margin-top:         5px;
+}
+
+.callout-content p:last-child {
+  margin-bottom: 0.5em;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 7. CALLOUTS — ESTUDIO BÍBLICO Y PREDICACIÓN
+ * ──────────────────────────────────────────────────────────── */
+
+.callout[data-callout="bible"]         { --callout-color: 34, 146, 199;  --callout-icon: lucide-book-open; }
+.callout[data-callout="gospel"]        { --callout-color: 176, 48, 7;    --callout-icon: lucide-cross; }
+.callout[data-callout="ideaexegetica"] { --callout-color: 47, 47, 47;    --callout-icon: lucide-scroll-text; }
+.callout[data-callout="proposición"]   { --callout-color: 193, 104, 27;  --callout-icon: lucide-help-circle; }
+.callout[data-callout="principio"]     { --callout-color: 126, 126, 126; --callout-icon: lucide-award; }
+.callout[data-callout="argumento"]     { --callout-color: 22, 93, 117;   --callout-icon: lucide-quote; }
+.callout[data-callout="punto"]         { --callout-color: 172, 179, 186; --callout-icon: lucide-pointer; }
+.callout[data-callout="transicion"]    { --callout-color: 18, 18, 36;    --callout-icon: lucide-link; }
+.callout[data-callout="ilustracion"]   { --callout-color: 99, 138, 157;  --callout-icon: lucide-lamp-desk; }
+.callout[data-callout="aplicacion"]    { --callout-color: 9, 110, 112;   --callout-icon: lucide-check-circle; }
+.callout[data-callout="teach"]         { --callout-color: 70, 70, 80;    --callout-icon: lucide-mic; }
+.callout[data-callout="estructura"]    { --callout-color: 140, 170, 200; --callout-icon: lucide-layout-list; }
+.callout[data-callout="vocabulario"]   { --callout-color: 30, 75, 125;   --callout-icon: lucide-list-checks; }
+.callout[data-callout="memorizar"]     { --callout-color: 126, 126, 126; --callout-icon: lucide-save; }
+.callout[data-callout="énfasis"]       { --callout-color: 200, 140, 50;  --callout-icon: lucide-highlighter; }
+.callout[data-callout="ecc"]           { --callout-color: 72, 88, 104;   --callout-icon: lucide-heart-off; }
+
+
+/* ────────────────────────────────────────────────────────────
+ * 8. CALLOUTS — ORACIÓN Y ADORACIÓN
+ * ──────────────────────────────────────────────────────────── */
+
+.callout[data-callout="oración"]           { --callout-color: 126, 85, 139; --callout-icon: lucide-arrow-up; }
+.callout[data-callout="adoracion"]         { --callout-color: 206, 152, 3;  --callout-icon: lucide-arrow-up; }
+.callout[data-callout="oracion-respuesta"] { --callout-color: 184, 125, 0;  --callout-icon: lucide-arrow-up; }
+.callout[data-callout="oracion-iglesia"]   { --callout-color: 0, 141, 59;   --callout-icon: lucide-trees; }
+.callout[data-callout="pray"]              { --callout-color: 24, 49, 83;   --callout-icon: lucide-cloud; }
+.callout[data-callout="conviccion"]        { --callout-color: 178, 34, 34;  --callout-icon: lucide-heart; }
+
+
+/* ────────────────────────────────────────────────────────────
+ * 9. CALLOUTS — REFLEXIÓN Y APRENDIZAJE
+ * ──────────────────────────────────────────────────────────── */
+
+.callout[data-callout="reflexiona"] { --callout-color: 173, 216, 230; --callout-icon: lucide-cog; }
+.callout[data-callout="idea"]       { --callout-color: 206, 152, 3;   --callout-icon: lucide-lightbulb; }
+.callout[data-callout="recordar"]   { --callout-color: 206, 152, 3;   --callout-icon: lucide-lightbulb; }
+.callout[data-callout="pregunta"]   { --callout-color: 68, 68, 68;    --callout-icon: lucide-pencil; }
+.callout[data-callout="asking"]     { --callout-color: 68, 68, 68;    --callout-icon: lucide-pencil; }
+.callout[data-callout="respuesta"]  { --callout-color: 100, 100, 100; --callout-icon: lucide-pen-square; }
+.callout[data-callout="ejercicio"]  { --callout-color: 50, 110, 70;   --callout-icon: lucide-notebook-pen; }
+.callout[data-callout="dialogar"]   { --callout-color: 84, 3, 117;    --callout-icon: lucide-message-circle; }
+.callout[data-callout="ia"]         { --callout-color: 218, 109, 71;  --callout-icon: lucide-atom; }
+.callout[data-callout="talk"]       { --callout-color: 122, 177, 190; --callout-icon: lucide-messages-square; }
+.callout[data-callout="resaltado"]  { --callout-color: 244, 164, 62;  --callout-icon: lucide-bookmark; }
+.callout[data-callout="resumen"]    { --callout-color: 180, 140, 180; --callout-icon: lucide-notebook-pen; }
+
+
+/* ────────────────────────────────────────────────────────────
+ * 10. CALLOUTS — NOTAS Y REFERENCIAS
+ * ──────────────────────────────────────────────────────────── */
+
+.callout[data-callout="nota"]  { --callout-color: 76, 60, 155;  --callout-icon: lucide-edit-3; }
+.callout[data-callout="notas"] { --callout-color: 87, 67, 45;   --callout-icon: lucide-bookmark-plus; }
+.callout[data-callout="books"] { --callout-color: 87, 67, 45;   --callout-icon: lucide-book-open-check; }
+.callout[data-callout="links"] { --callout-color: 90, 70, 110;  --callout-icon: lucide-link-2; }
+.callout[data-callout="tags"]  { --callout-color: 17, 119, 187; --callout-icon: lucide-hash; }
+
+
+/* ────────────────────────────────────────────────────────────
+ * 11. CALLOUTS — MINISTERIO Y GESTIÓN
+ * ──────────────────────────────────────────────────────────── */
+
+.callout[data-callout="ministerial"] { --callout-color: 49, 139, 87;   --callout-icon: lucide-church; }
+.callout[data-callout="objetivo"]    { --callout-color: 34, 97, 171;   --callout-icon: lucide-compass; }
+.callout[data-callout="vision"]      { --callout-color: 110, 100, 190; --callout-icon: lucide-crosshair; }
+.callout[data-callout="responsable"] { --callout-color: 38, 118, 138;  --callout-icon: lucide-user-check; }
+.callout[data-callout="compromisos"] { --callout-color: 200, 70, 70;   --callout-icon: lucide-heart-handshake; }
+.callout[data-callout="tasks"]       { --callout-color: 193, 142, 0;   --callout-icon: lucide-check-square; }
+.callout[data-callout="tarea"]       { --callout-color: 75, 0, 130;    --callout-icon: lucide-pencil-line; }
+.callout[data-callout="hoy"]         { --callout-color: 82, 126, 178;  --callout-icon: lucide-clipboard-list; }
+.callout[data-callout="visitas"]     { --callout-color: 34, 43, 89;    --callout-icon: lucide-users; }
+.callout[data-callout="cumples"]     { --callout-color: 82, 126, 178;  --callout-icon: lucide-gift; }
+
+
+/* ────────────────────────────────────────────────────────────
+ * 12. CALLOUT CAPTION (utilitario visual)
+ * ──────────────────────────────────────────────────────────── */
+
+.callout[data-callout="caption"] {
+  --callout-color: 160, 160, 160;
+  background:      transparent;
+  border-left:     none;
+  box-shadow:      none;
+  padding:         2px 0;
+  margin:          0 75px;
+}
+
+.callout[data-callout="caption"] .callout-title {
+  background:      transparent;
+  justify-content: center;
+  padding:         0;
+}
+
+.callout[data-callout="caption"] .callout-icon {
+  display: none;
+}
+
+.callout[data-callout="caption"] .callout-title-inner {
+  font-weight: 800;
+  font-size:   0.8em;
+  color:       #555;
+  text-align:  center;
+}
+
+.callout[data-callout="caption"] .callout-content {
+  font-weight: 400;
+  font-size:   0.8em;
+  color:       #555;
+  text-align:  center;
+  padding:     0;
+  margin-top:  -15px;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 13. BOSQUEJO (listas de sermón)
+ * ──────────────────────────────────────────────────────────── */
+
+.bosquejo ul > li > .list-bullet::after {
+  content:     "§";
+  color:       #0a354a;
+  font-weight: bold;
+}
+
+.bosquejo ul > li > ul > li > .list-bullet::after {
+  content: "•";
+  color:   #268bd2;
+}
+
+.bosquejo ul > li > ul > li > ul > li > .list-bullet::after {
+  content: "→";
+  color:   #859900;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 14. TABLAS INTERLINEALES (griego / hebreo)
+ * ──────────────────────────────────────────────────────────── */
+
+.interlinear thead {
+  border: none;
+}
+
+
+/* ────────────────────────────────────────────────────────────
+ * 15. DIAGRAMAS MERMAID
+ * ──────────────────────────────────────────────────────────── */
+
+.mermaid {
+  display:         flex;
+  justify-content: center;
+}
+
+/* ────────────────────────────────────────────────────────────
+ * LAYOUT — ancho máximo y centrado
+ * ──────────────────────────────────────────────────────────── */
+
+.center {
+  max-width: 750px !important;
+  margin: 0 auto !important;
+  padding: 0 2em !important;
+}
+
+article {
+  max-width: 750px !important;
+  margin: 0 auto !important;
+}
+
+.page-header {
+  max-width: 750px !important;
+  margin: 0 auto !important;
+  padding: 0 2em !important;
+}
+
+/* ────────────────────────────────────────────────────────────
+ * BANNER — altura limitada como Obsidian Publish
+ * ──────────────────────────────────────────────────────────── */
+
+article img[alt="banner"] {
+  width:      100%;
+  height:     200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 4px;
+  margin-bottom: 1.5em;
+}
+
+/* ────────────────────────────────────────────────────────────
+ * LAYOUT — 3 columnas
+ * ──────────────────────────────────────────────────────────── */
+
+#quartz-body {
+  display: grid;
+  grid-template-columns: 300px 1fr 300px;
+  gap: 2em;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.left.sidebar {
+  width: 300px;
+  min-width: 300px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.right.sidebar {
+  width: 300px;
+  min-width: 300px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.center {
+  min-width: 0;
+  max-width: 100%;
+  padding: 0 1em;
+}
+

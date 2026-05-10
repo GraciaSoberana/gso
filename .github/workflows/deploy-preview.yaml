@@ -5,6 +5,9 @@ on:
     types:
       - completed
 
+env:
+  THEME_NAME: abyssal
+  
 permissions:
   actions: read
   deployments: write

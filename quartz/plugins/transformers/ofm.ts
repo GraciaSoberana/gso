@@ -42,6 +42,7 @@ export interface Options {
   enableVideoEmbed: boolean
   enableCheckbox: boolean
   disableBrokenWikilinks: boolean
+  inlineFootnotes: boolean
 }
 
 const defaultOptions: Options = {
@@ -58,6 +59,7 @@ const defaultOptions: Options = {
   enableVideoEmbed: true,
   enableCheckbox: false,
   disableBrokenWikilinks: false,
+  inlineFootnotes: true,
 }
 
 const calloutMapping = {
@@ -204,6 +206,21 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
           return `${embedDisplay}[[${fp}${displayAnchor}${displayAlias}]]`
         })
+      }
+
+      // convert Obsidian inline footnotes ^[text] → GFM-style [^fn-N] + definitions
+      if (opts.inlineFootnotes) {
+        const fnDefs: string[] = []
+        let fnIdx = 0
+        src = src.replace(/\^\[([^\]]+)\]/g, (_match, content: string) => {
+          fnIdx++
+          const label = `fn-${fnIdx}`
+          fnDefs.push(`[^${label}]: ${content}`)
+          return `[^${label}]`
+        })
+        if (fnDefs.length > 0) {
+          src = src + "\n\n" + fnDefs.join("\n")
+        }
       }
 
       return src
