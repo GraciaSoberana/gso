@@ -737,6 +737,104 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
   }
 }
 
+// ══════════════════════════════════════════════════════════════════════════════
+// RESPONSIVE
+// ══════════════════════════════════════════════════════════════════════════════
+
+// ── Tablet (768px – 1100px): ocultar sidebar derecho, reducir izquierdo ───────
+
+@media (min-width: 768px) and (max-width: 1100px) {
+  #quartz-body {
+    grid-template-columns: 220px 1fr !important;
+    gap: 1.5em;
+  }
+
+  .right.sidebar {
+    display: none !important;
+  }
+
+  .left.sidebar {
+    width: 220px !important;
+    min-width: 220px !important;
+  }
+}
+
+// ── Mobile (< 768px): ocultar ambos sidebars, logo visible arriba ─────────────
+
+@media (max-width: 767px) {
+  #quartz-body {
+    grid-template-columns: 1fr !important;
+    gap: 0 !important;
+    padding: 0 !important;
+  }
+
+  // Sidebar izquierdo: convertir en barra de logo compacta
+  .left.sidebar {
+    width: 100% !important;
+    min-width: unset !important;
+    height: auto !important;
+    position: static !important;
+    padding: 8px 16px !important;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+    flex-direction: row !important;
+    align-items: center !important;
+    overflow: visible !important;
+    gap: 0 !important;
+
+    // Ocultar search, darkmode, readermode y explorador
+    .flex-component,
+    .explorer {
+      display: none !important;
+    }
+  }
+
+  // Logo: reducir dimensiones para la barra superior
+  .page-title a::after {
+    width: 130px !important;
+    height: 65px !important;
+    margin: 2px 0 !important;
+  }
+
+  // Ocultar sidebar derecho completamente
+  .right.sidebar {
+    display: none !important;
+  }
+
+  // Centro: ancho completo con padding 16px
+  .center {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 1em 16px 0 16px !important;
+  }
+
+  article.popover-hint {
+    max-width: 100% !important;
+  }
+
+  .page-header {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  // Título: reducir tamaño para móvil
+  .article-title {
+    font-size: 1.6em !important;
+    letter-spacing: 0.08em !important;
+  }
+
+  // Figcaption: eliminar márgenes laterales fijos
+  article.popover-hint .figcaption {
+    margin: 0 0 2em !important;
+  }
+
+  // Caption callout: eliminar márgenes laterales
+  .callout[data-callout="caption"] {
+    margin: 0 !important;
+  }
+}
+
 // ── Callouts — caption ───────────────────────────────────────────────────────
 
 .callout[data-callout="caption"] {
