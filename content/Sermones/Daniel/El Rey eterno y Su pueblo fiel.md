@@ -37,7 +37,7 @@ Esta semana iniciamos una nueva serie en el libro de Daniel que nos recordará q
 | 7   | [[Terror temporal, domino eterno]]           | Dan 7         | 19/04 |
 | 8   | [[Un cuerno arrogante y el Príncipe de príncipes]] | Dan 8         | 26/04 |
 | 9   | [[La desolación, la confesión y la Cruz]]     | Dan 9         | 03/05 |
-| 10  | [[La visión final de Daniel del futuro]]                                   | Dan 10:1-11:1 | 10/05 |
+| 10  | [[Ya está escrito]]                                   | Dan 10:1-11:1 | 10/05 |
 | 11  | [[La visión final de Daniel del tiempo del fin]]                           | Dan 12:5-13   | 17/05 |
 ### Alabanzas sugeridas
 

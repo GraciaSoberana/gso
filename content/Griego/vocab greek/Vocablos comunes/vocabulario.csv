@@ -1,0 +1,601 @@
+frecuencia,palabra,traduccion,morfologia,strong
+1243,πᾶς,todos,Adjetivo,3956
+416,πολύς,muchos; mucho; gran,Adjetivo,4183
+243,μέγας,grande; importante; sorprendente,Adjetivo,3173
+233,ἅγιος,santo; dedicado,Adjetivo,40
+155,ἄλλος,otro; otra; diferente,Adjetivo,243
+155,πρῶτος,primero,Adjetivo,4413
+128,νεκρός,muerte; cuerpo muerto,Adjetivo,3498
+114,μόνος,únicamente; solo,Adjetivo,3441
+114,ἴδιος,propio; suyo propio,Adjetivo,2398
+109,ὅλος,todo; completo,Adjetivo,3650
+102,ἀγαθός,bueno; beneficioso,Adjetivo,18
+101,καλός,bueno; bello; adecuado,Adjetivo,2570
+98,ἕτερος,otro; otra,Adjetivo,2087
+79,δίκαιος,justo; apropiado; ser reconciliado con,Adjetivo,1342
+78,πονηρός,perverso; culpable,Adjetivo,4190
+71,αἰώνιος,eterno,Adjetivo,166
+67,πιστός,fiel; confiable,Adjetivo,4103
+61,ἀγαπητός,amado; único amor; preciado,Adjetivo,27
+59,εὐθύς,derecho; recto,Adjetivo,2117
+58,μέσος,medio; en medio,Adjetivo,3319
+56,τρίτος,tercero,Adjetivo,5154
+55,λοιπός,demás; restante,Adjetivo,3062
+54,δεξιός,derecha; diestra,Adjetivo,1188
+52,ἔσχατος,final(mente); último; postrero,Adjetivo,2078
+50,μακάριος,bendito; bienaventurado; afortunado,Adjetivo,3107
+50,τυφλός,ciego,Adjetivo,5185
+50,κακός,malo; perverso,Adjetivo,2556
+48,ἔρημος,desolado; deshabitado; (lugar) solitario; desierto,Adjetivo,2048
+47,ἁμαρτωλός,pecador; pecaminoso,Adjetivo,268
+46,μικρός,poco; pequeño,Adjetivo,3398
+45,ὅμοιος,semejante,Adjetivo,3664
+43,δεύτερος,segundo,Adjetivo,1208
+42,καινός,nuevo,Adjetivo,2537
+41,ἄξιος,digno,Adjetivo,514
+40,ὀλίγος,poco; pequeño; pocos,Adjetivo,3641
+39,ἱκανός,suficiente; adecuado,Adjetivo,
+34,πτωχός,pobre,Adjetivo,
+32,ἐχθρός,enemigo; ser enemigo de,Adjetivo,2190
+32,ἀκάθαρτος,inmundo,Adjetivo,169
+32,δυνατός,posible; fuerte; capaz,Adjetivo,1415
+29,ἰσχυρός,fuerte; poderoso,Adjetivo,2478
+28,πλούσιος,rico; abundancia,Adjetivo,4145
+28,ἀληθινός,verdadero; confiable,Adjetivo,228
+27,καθαρός,puro; limpio,Adjetivo,2513
+26,ἀληθής,verdadero; justo; veraz; honesto,Adjetivo,227
+26,ἀσθενής,débil; enfermo,Adjetivo,772
+26,πνευματικός,espiritual,Adjetivo,4152
+25,λευκός,blanco; radiante,Adjetivo,3022
+24,νέος,nuevo; joven,Adjetivo,3501
+23,ἄπιστος,infiel; desleal; incrédulo,Adjetivo,571
+23,ἐλεύθερος,libre; persona libre,Adjetivo,1658
+22,ἐκλεκτός,elegido,Adjetivo,1588
+345,εἷς,uno; una; un,Adjetivo,1520
+227,οὐδείς,nadie; nada; ninguno; no,Adjetivo,3762
+135,δύο,dos,Adjetivo,1417
+90,μηδείς,nadie; nada,Adjetivo,3367
+88,ἑπτά,siete,Adjetivo,2033
+82,ἕκαστος,cada,Adjetivo,1538
+75,δώδεκα,doce,Adjetivo,1427
+69,τρεῖς,tres,Adjetivo,5140
+68,ἐμός,mi; mío,Adjetivo,1699
+41,τέσσαρες,cuatro,Adjetivo,5064
+38,πέντε,cinco,Adjetivo,
+34,ἅπας,todos,Adjetivo,
+27,πόσος,¿cuánto?; ¿cuántos?; ¿cuán grande?,Adjetivo,4214
+25,δέκα,diez,Adjetivo,1176
+23,χιλιάς,mil,Adjetivo,5505
+22,τεσσεράκοντα,cuarenta,Adjetivo,5062
+504,ὡς,como; como si,Adverbio,5613
+208,οὕτως,así; como sigue; tan; de esta manera,Adverbio,3779
+160,τότε,entonces; en aquel tiempo,Adverbio,5119
+147,νῦν,ahora,Adverbio,3568
+141,πάλιν,también; por otra parte,Adverbio,3825
+105,πῶς,¿cómo?; de alguna manera; en cierta forma,Adverbio,4459
+95,ἐκεῖ,allá; allí,Adverbio,1563
+93,ἔτι,todavía; además; sin embargo,Adverbio,2089
+81,μᾶλλον,más; en vez de; en lugar de,Adverbio,3123
+63,ἔξω,afuera,Adverbio,1854
+61,ἤδη,ya; ahora,Adverbio,2235
+61,ὧδε,aquí,Adverbio,5602
+47,οὐκέτι,no más; ya no,Adverbio,3765
+45,ποῦ,¿dónde?; dónde; algún lugar,Adverbio,4226
+41,σήμερον,hoy,Adverbio,4594
+41,πάντοτε,siempre,Adverbio,3842
+37,καλῶς,bien; bueno,Adverbio,
+36,ἄρτι,ahora; recién; inmediatamente,Adverbio,
+36,εὐθέως,inmediatamente; al instante,Adverbio,
+35,ὀπίσω,atrás; tras; detrás; después,Adverbio,
+33,ναί,sí,Adverbio,3483
+31,ἐγγύς,cerca,Adverbio,1451
+30,ὁμοίως,de manera similar; asimismo,Adverbio,3668
+29,πόθεν,dónde; de dónde; por tanto,Adverbio,4159
+29,ποτέ,cuando; nunca,Adverbio,4218
+27,ἐκεῖθεν,de allí; desde ese lugar,Adverbio,1564
+26,οὔπω,todavía no,Adverbio,3768
+25,μήποτε,nunca; para que no; no sea que,Adverbio,3379
+24,οὗ,no; donde,Adverbio,3757
+23,πέραν,del otro lado,Adverbio,4008
+22,μηκέτι,no más; ya no,Adverbio,3371
+19861,ὁ,él; la; los; las,Artículo,3588
+9018,καί,y; entonces; también,Conjunción,2532
+2791,δέ,pero; y; y luego,Conjunción,1161
+1294,ὅτι,que; porque; a saber,Conjunción,3754
+1041,γάρ,porque; entonces; y,Conjunción,1063
+663,ἵνα,para que; como resultado; que; a saber,Conjunción,2443
+638,ἀλλά,pero; sino; aún,Conjunción,235
+502,εἰ,si; si es que,Conjunción,1487
+498,οὖν,por lo tanto; verdaderamente; pues; entonces,Conjunción,3767
+343,ἤ,o; que; en verdad,Conjunción,2228
+333,ἐάν,si; si en verdad,Conjunción,1437
+215,τέ,y; ambos; por tanto; entonces,Conjunción,5037
+182,καθώς,tal como; como,Conjunción,2531
+146,ἕως,hasta; mientras,Conjunción,2193
+143,οὐδέ,y no; ni siquiera,Conjunción,3761
+123,ὅταν,cuando; siempre que; cuando quiera que,Conjunción,3752
+103,ὅτε,cuando,Conjunción,3753
+87,οὔτε,ni,Conjunción,3777
+84,κἀγώ,y; y yo,Conjunción,2504
+83,ὥστε,como; de manera que; por lo tanto,Conjunción,5620
+82,ὅπου,donde,Conjunción,3699
+65,εἴτε,ser; si; ya sea; o,Conjunción,1535
+56,μηδέ,ni; y no,Conjunción,3366
+53,ὅπως,cómo; para que; de algún modo; pues,Conjunción,3704
+53,διό,por lo tanto,Conjunción,1352
+37,ἄρα,entonces; como resultado,Conjunción,
+36,ὥσπερ,como; tal como,Conjunción,
+34,μήτε,ni; y no,Conjunción,
+31,πλήν,pero; excepto; solo,Conjunción,4133
+26,ἐπεί,cuando; desde; porque,Conjunción,1893
+23,διότι,porque,Conjunción,1360
+22,κἀκεῖνος,y; también; y + también,Conjunción,2548
+46,οὐαί,ay,Interjección,3759
+29,ἴδε,¡mira!; ¡mirad!; ¡ve!,Interjección,2396
+1624,οὐ,no; que; porque,Partícula,3756
+1042,μή,no,Partícula,3361
+200,ἰδού,¡mirad!; ciertamente,Partícula,2400
+179,μέν,ciertamente; y; por cierto; por un lado,Partícula,3303
+166,ἄν,que; quiera que,Partícula,302
+128,ἀμήν,amén; así es,Partícula,281
+54,οὐχί,no,Partícula,3780
+26,γέ,también; de hecho; al menos; aún,Partícula,1065
+2752,ἐν,en,Preposición,1722
+1767,εἰς,a; en; dentro; entre; para; por medio de,Preposición,1519
+914,ἐκ,de; por,Preposición,1537
+890,ἐπί,sobre; en; entre; hacia; a; por; contra,Preposición,1909
+700,πρός,a; hacia; contra,Preposición,4314
+667,διά,por medio de; por; a través; por causa de; en nombre de,Preposición,1223
+646,ἀπό,de,Preposición,575
+473,κατά,conforme a; según; inclinarse a,Preposición,2596
+469,μετά,con; entre; contra; después,Preposición,3326
+333,περί,acerca de; cerca de; alrededor de; en cuanto a; con,Preposición,4012
+220,ὑπό,por; bajo; debajo; a la; a,Preposición,5259
+194,παρά,de; a; en; por; entre; desde,Preposición,3844
+150,ὑπέρ,por; más aún,Preposición,5228
+128,σύν,con; junto con,Preposición,4862
+94,ἐνώπιον,ante; delante de,Preposición,1799
+49,ἄχρι,hasta; al extremo,Preposición,891
+48,ἔμπροσθεν,delante de; al frente de; delante,Preposición,1715
+47,πρό,antes; delante de,Preposición,4253
+41,χωρίς,separadamente; sin,Preposición,5565
+26,ἕνεκα,en razón de; para que; debido a,Preposición,1752
+22,ἀντί,en lugar de; en nombre de; por cuanto,Preposición,473
+100,ἀλλήλων,unos a otros,Pronombre,240
+110,ὅσος,tanto como; tantos como,Pronombre correlativo,3745
+1387,οὗτος,esto; este; estas; estos,Pronombre demostrativo,3778
+243,ἐκεῖνος,ese; esa; aquel; aquellos; aquellas,Pronombre demostrativo,1565
+57,τοιοῦτος,de tal clase,Pronombre demostrativo,5108
+537,τὶς,alguien; alguno; algo,Pronombre indefinido,5100
+552,τίς,¿quién?; ¿qué?,Pronombre interrogativo,5101
+33,ποῖος,cuál; de qué tipo,Pronombre interrogativo,4169
+5596,αὐτός,mismo; él,Pronombre personal,846
+2907,σύ,tu; tuyo; ustedes; vosotros,Pronombre personal,4771
+2589,ἐγώ,yo; mi; ego,Pronombre personal,1473
+25,σός,tu; tus,Pronombre posesivo,4674
+320,ἑαυτοῦ,sí mismo; sí misma; de él; de ella,Pronombre reflexivo,1438
+43,σεαυτοῦ,tú mismo,Pronombre reflexivo,4572
+37,ἐμαυτοῦ,mi; de mí mismo,Pronombre reflexivo,1683
+1407,ὅς,que; quien; cual,Pronombre relativo,3739
+144,ὅστις,quien; cualquier persona que; cualquier cosa que,Pronombre relativo,3748
+1317,θεός,Dios; dios; diosa,Sustantivo 2a declinación masculino,2316
+917,Ἰησοῦς,Jesús; Josué,Sustantivo 2a declinación masculino,2424
+716,κύριος,Señor; señor; dueño,Sustantivo 2a declinación masculino,2962
+550,ἄνθρωπος,hombre; ser humano,Sustantivo 2a declinación masculino,444
+529,Χριστός,Cristo,Sustantivo 2a declinación masculino,5547
+413,πατήρ,padre; antepasado,Sustantivo 3a declinación masculino,3962
+389,ἡμέρα,día,Sustantivo 1a declinación femenino,2250
+379,πνεῦμα,espíritu; Espíritu; aliento; viento,Sustantivo 3a declinación neutro,4151
+377,υἱός,hijo,Sustantivo 2a declinación masculino,5207
+343,ἀδελφός,hermano; compañero en la fe; compatriota; hijos de una misma madre,Sustantivo 2a declinación masculino,80
+330,λόγος,palabra,Sustantivo 2a declinación masculino,3056
+273,οὐρανός,cielo,Sustantivo 2a declinación masculino,3772
+261,μαθητής,discípulo; alumno; seguidor,Sustantivo 1a declinación masculino,3101
+250,γῆ,tierra,Sustantivo 1a declinación femenino,1093
+243,πίστις,fe; confiar,Sustantivo 3a declinación femenino,4102
+229,ὄνομα,nombre; por nombre,Sustantivo 3a declinación neutro,3686
+216,ἀνήρ,varón; hombre; marido,Sustantivo 3a declinación masculino,435
+215,γυνή,mujer; esposa,Sustantivo 3a declinación femenino,1135
+195,Ἰουδαῖος,judíos; un judío,Sustantivo 2a declinación masculino,2453
+194,νόμος,ley,Sustantivo 2a declinación masculino,3551
+186,κόσμος,mundo; orden,Sustantivo 2a declinación masculino,2889
+177,χείρ,mano,Sustantivo 3a declinación femenino,5495
+175,ἄγγελος,ángel; mensajero,Sustantivo 2a declinación masculino,32
+175,ὄχλος,muchedumbre; multitud; gente,Sustantivo 2a declinación masculino,3793
+173,ἁμαρτία,pecado; falla; culpa,Sustantivo 1a declinación femenino,266
+169,ἔργον,obra; trabajo,Sustantivo 2a declinación neutro,2041
+166,δόξα,gloria; esplendor; grandeza,Sustantivo 1a declinación femenino,1391
+163,πόλις,ciudad,Sustantivo 3a declinación femenino,4172
+162,βασιλεία,reino,Sustantivo 1a declinación femenino,932
+162,ἔθνος,nación; gente; gentiles,Sustantivo 3a declinación neutro,1484
+158,Παῦλος,Pablo,Sustantivo 2a declinación masculino,3972
+156,Πέτρος,Pedro,Sustantivo 2a declinación masculino,4074
+156,καρδία,corazón,Sustantivo 1a declinación femenino,2588
+155,χάρις,gracia,Sustantivo 3a declinación femenino,5485
+147,σάρξ,carne; cuerpo,Sustantivo 3a declinación femenino,4561
+144,προφήτης,profeta,Sustantivo 1a declinación masculino,4396
+142,λαός,pueblo; gente,Sustantivo 2a declinación masculino,2992
+142,σῶμα,cuerpo,Sustantivo 3a declinación neutro,4983
+139,φωνή,sonido; voz; tono,Sustantivo 1a declinación femenino,5456
+135,Ἰωάννης,Juan,Sustantivo 2a declinación masculino,2491
+135,ζωή,vida,Sustantivo 1a declinación femenino,2222
+126,δοῦλος,esclavo,Sustantivo 2a declinación masculino,1401
+122,ἀρχιερεύς,sumo sacerdote,Sustantivo 3a declinación masculino,749
+122,αἰών,era; edad,Sustantivo 3a declinación masculino,165
+120,θάνατος,muerte,Sustantivo 2a declinación masculino,2288
+119,δύναμις,poder,Sustantivo 3a declinación femenino,1411
+116,ἀγάπη,amor,Sustantivo 1a declinación femenino,26
+115,βασιλεύς,rey,Sustantivo 3a declinación masculino,935
+114,οἶκος,casa,Sustantivo 2a declinación masculino,3624
+114,ἐκκλησία,iglesia; asamblea,Sustantivo 1a declinación femenino,1577
+109,ἀλήθεια,verdad,Sustantivo 1a declinación femenino,225
+106,ὥρα,hora; período de tiempo,Sustantivo 1a declinación femenino,5610
+103,ψυχή,alma; vida; persona,Sustantivo 1a declinación femenino,5590
+102,ἐξουσία,poder; autoridad,Sustantivo 1a declinación femenino,1849
+101,ὁδός,camino; ruta,Sustantivo 2a declinación femenino,3598
+100,ὀφθαλμός,ojo,Sustantivo 2a declinación masculino,3788
+99,τέκνον,hijo; descendiente; aquel que es nacido,Sustantivo 2a declinación neutro,5043
+98,Φαρισαῖος,fariseo,Sustantivo 2a declinación masculino,5330
+97,ἄρτος,pan,Sustantivo 2a declinación masculino,740
+97,αἷμα,sangre,Sustantivo 3a declinación neutro,129
+94,τόπος,lugar,Sustantivo 2a declinación masculino,5117
+93,οἰκία,casa,Sustantivo 1a declinación femenino,3614
+93,πούς,pie,Sustantivo 3a declinación masculino,4228
+92,δικαιοσύνη,rectitud; ser reconciliado con; justicia,Sustantivo 1a declinación femenino,1343
+92,εἰρήνη,paz,Sustantivo 1a declinación femenino,1515
+91,θάλασσα,mar; lago,Sustantivo 1a declinación femenino,2281
+85,καιρός,tiempo; época; temporada,Sustantivo 2a declinación masculino,2540
+83,μήτηρ,madre,Sustantivo 3a declinación femenino,3384
+80,Μωϋσῆς,Moisés,Sustantivo 2a declinación masculino,3475
+80,ἀπόστολος,apóstol; mensajero,Sustantivo 2a declinación masculino,652
+78,στόμα,boca,Sustantivo 3a declinación neutro,4750
+77,σημεῖον,señal,Sustantivo 2a declinación neutro,4592
+77,Ἰερουσαλήμ,Jerusalén,Sustantivo indeclinable,2414
+76,ὕδωρ,agua,Sustantivo 3a declinación neutro,5204
+76,εὐαγγέλιον,evangelio; buenas nuevas,Sustantivo 2a declinación neutro,2098
+76,πρόσωπον,rostro; cara; presencia,Sustantivo 2a declinación neutro,4383
+75,Σίμων,Simón,Sustantivo 2a declinación masculino,4613
+75,κεφαλή,cabeza,Sustantivo 1a declinación femenino,2776
+73,Ἀβραάμ,Abraham,Sustantivo indeclinable,11
+73,φῶς,luz,Sustantivo 3a declinación neutro,5457
+72,ἱερόν,templo,Sustantivo 2a declinación neutro,2411
+71,πῦρ,fuego; hoguera,Sustantivo 3a declinación neutro,4442
+68,Ἰσραήλ,Israel,Sustantivo indeclinable,2474
+68,ῥῆμα,palabra,Sustantivo 3a declinación neutro,4487
+68,σάββατον,Sábado; semana,Sustantivo 2a declinación neutro,4521
+67,πλοῖον,barco; barca; nave,Sustantivo 2a declinación neutro,4143
+67,ἐντολή,mandamiento; orden,Sustantivo 1a declinación femenino,1785
+66,καρπός,fruto; siega,Sustantivo 2a declinación masculino,2590
+66,πρεσβύτερος,anciano; presbítero,Sustantivo 2a declinación masculino,4245
+63,γραμματεύς,escriba,Sustantivo 3a declinación masculino,1122
+63,ὄρος,montaña,Sustantivo 3a declinación neutro,3735
+63,δαιμόνιον,demonio; espíritu maligno,Sustantivo 2a declinación neutro,1140
+62,Ἱεροσόλυμα,Jerusalén,Sustantivo indeclinable,2419
+62,θρόνος,trono; asiento,Sustantivo 2a declinación masculino,2362
+62,θέλημα,voluntad; propósito,Sustantivo 3a declinación neutro,2307
+61,νύξ,noche,Sustantivo 3a declinación femenino,3571
+61,Γαλιλαία,Galilea,Sustantivo 1a declinación femenino,1056
+60,ἱμάτιον,ropa; prenda; manto externo,Sustantivo 2a declinación neutro,2440
+59,Δαυίδ,David,Sustantivo indeclinable,1138
+59,χαρά,alegría; gozo,Sustantivo 1a declinación femenino,5479
+59,λίθος,piedra,Sustantivo 2a declinación masculino,3037
+59,διδάσκαλος,maestro,Sustantivo 2a declinación masculino,1320
+56,συναγωγή,asamblea; sinagoga,Sustantivo 1a declinación femenino,4864
+55,ἀρχή,comienzo; principio; gobernante,Sustantivo 1a declinación femenino,746
+55,Πιλᾶτος,Pilato,Sustantivo 2a declinación masculino,4091
+54,χρόνος,tiempo; período de tiempo,Sustantivo 2a declinación masculino,5550
+53,παιδίον,niño,Sustantivo 2a declinación neutro,3813
+53,ἐλπίς,esperanza,Sustantivo 3a declinación femenino,1680
+52,ἐπαγγελία,promesa,Sustantivo 1a declinación femenino,1860
+51,σοφία,sabiduría; habilidad,Sustantivo 1a declinación femenino,4678
+50,παραβολή,proverbio; parábola,Sustantivo 1a declinación femenino,3850
+50,γραφή,escritura,Sustantivo 1a declinación femenino,1124
+50,γλῶσσα,lengua,Sustantivo 1a declinación femenino,1100
+49,χρεία,necesidad; lo que se necesita,Sustantivo 1a declinación femenino,5532
+49,ἔτος,año,Sustantivo 3a declinación neutro,2094
+47,κρίσις,juicio; dictamen legal; veredicto,Sustantivo 3a declinación femenino,2920
+47,φυλακή,cárcel; prisión; puesto de custodia,Sustantivo 1a declinación femenino,5438
+47,φόβος,temor; intimidación,Sustantivo 2a declinación masculino,5401
+46,θηρίον,bestia; animal; animal salvaje,Sustantivo 2a declinación neutro,2342
+46,σωτηρία,liberación; salvación,Sustantivo 1a declinación femenino,4991
+45,θλῖψις,tribulación; aflicción,Sustantivo 3a declinación femenino,2347
+45,ναός,templo,Sustantivo 2a declinación masculino,3485
+44,Ἰούδας,Judas; Judá,Sustantivo 2a declinación masculino,2455
+43,γενεά,raza; generación,Sustantivo 1a declinación femenino,1074
+43,Ἰουδαία,Judea,Sustantivo 1a declinación femenino,2449
+43,Ἡρῴδης,Herodes,Sustantivo 1a declinación masculino,2264
+43,μέρος,una parte; parte,Sustantivo 3a declinación neutro,3313
+43,σπέρμα,semilla; descendiente; simiente,Sustantivo 3a declinación neutro,4690
+42,Ἰάκωβος,Santiago,Sustantivo 2a declinación masculino,2385
+42,ἀνάστασις,resurrección; levantarse,Sustantivo 3a declinación femenino,386
+41,τιμή,honor; alabanza; precio,Sustantivo 1a declinación femenino,5092
+40,μνημεῖον,sepulcro; mausoleo,Sustantivo 2a declinación neutro,3419
+40,τέλος,terminar; completar; fin,Sustantivo 3a declinación neutro,5056
+39,θύρα,puerta; entrada,Sustantivo 1a declinación femenino,2374
+39,πρόβατον,oveja,Sustantivo 2a declinación neutro,4263
+38,ἐπιθυμία,deseo; lujuria,Sustantivo 1a declinación femenino,1939
+37,διάβολος,diablo; adversario,Sustantivo 2a declinación masculino,1228
+37,ἄρχων,gobernante; juez,Sustantivo 3a declinación masculino,758
+37,μαρτυρία,testigo; testimonio; martirio,Sustantivo 1a declinación femenino,3141
+36,ὀργή,ira; enojo,Sustantivo 1a declinación femenino,3709
+36,Σατανᾶς,Satanás,Sustantivo 1a declinación masculino,4567
+36,ἀγρός,campo; campos,Sustantivo 2a declinación masculino,68
+36,Φίλιππος,Felipe,Sustantivo 2a declinación masculino,5376
+36,οὖς,oreja; oído,Sustantivo 3a declinación neutro,3775
+36,προσευχή,oración,Sustantivo 1a declinación femenino,4335
+36,περιτομή,circuncisión,Sustantivo 1a declinación femenino,4061
+35,Ἰωσήφ,José,Sustantivo indeclinable,2501
+35,μάρτυς,mártir; testigo,Sustantivo 3a declinación masculino,3144
+34,μέλος,miembro (del cuerpo); parte del cuerpo; extremidad,Sustantivo 3a declinación neutro,3196
+34,οἶνος,vino,Sustantivo 2a declinación masculino,3631
+34,βιβλίον,libro; papel; rollo,Sustantivo 2a declinación neutro,975
+34,διακονία,servicio; ministerio; meditación,Sustantivo 1a declinación femenino,1248
+33,διαθήκη,pacto; testamento,Sustantivo 1a declinación femenino,1242
+32,ἥλιος,sol,Sustantivo 2a declinación masculino,2246
+32,ὑπομονή,resistencia; perseverancia paciente,Sustantivo 1a declinación femenino,5281
+31,σκότος,oscuridad,Sustantivo 3a declinación neutro,4655
+31,ἄνεμος,viento,Sustantivo 2a declinación masculino,417
+31,ἱερεύς,sacerdote,Sustantivo 3a declinación masculino,2409
+31,ποτήριον,copa; vaso,Sustantivo 2a declinación neutro,4221
+31,φυλή,tribu; nación; raza,Sustantivo 1a declinación femenino,5443
+31,πλῆθος,multitud; gran número,Sustantivo 3a declinación neutro,4128
+31,παρρησία,confianza; denuedo,Sustantivo 1a declinación femenino,3954
+30,διδαχή,enseñanza; doctrina,Sustantivo 1a declinación femenino,1322
+30,ἀρνίον,oveja,Sustantivo 2a declinación neutro,721
+30,συνείδησις,consciencia,Sustantivo 3a declinación femenino,4893
+29,μισθός,salario; galardón; recompensa,Sustantivo 2a declinación masculino,3408
+29,μάχαιρα,espada,Sustantivo 1a declinación femenino,3162
+29,Ἠλίας,Elías,Sustantivo 2a declinación masculino,2243
+29,φίλος,amado; amigo,Sustantivo 2a declinación masculino,5384
+29,διάκονος,diácono; servidor,Sustantivo 2a declinación masculino,1249
+29,Καῖσαρ,César,Sustantivo 3a declinación masculino,2541
+29,πάσχα,pascua; cena de pascua,Sustantivo indeclinable,3957
+29,γνῶσις,conocimiento,Sustantivo 3a declinación femenino,1108
+29,παράκλησις,exhortación; estímulo,Sustantivo 3a declinación femenino,3874
+28,χώρα,región; tierra; distrito,Sustantivo 1a declinación femenino,5561
+28,θυσία,sacrificio,Sustantivo 1a declinación femenino,2378
+28,θυγάτηρ,hija,Sustantivo 3a declinación femenino,2364
+28,μυστήριον,secreto; misterio,Sustantivo 2a declinación neutro,3466
+28,Βαρναβᾶς,Bernabé,Sustantivo 1a declinación masculino,921
+27,Ἰακώβ,Jacob,Sustantivo indeclinable,2384
+27,Μαρία,María,Sustantivo 1a declinación femenino,3137
+27,κρίμα,juicio; sentencia; demanda; condena,Sustantivo 3a declinación neutro,2917
+27,ἔλεος,misericordia; compasión; piedad,Sustantivo 3a declinación neutro,1656
+27,κώμη,aldea; villa,Sustantivo 1a declinación femenino,2968
+27,σταυρός,cruz,Sustantivo 2a declinación masculino,4716
+27,Μαριάμ,María,Sustantivo indeclinable,3137
+26,στρατιώτης,soldado,Sustantivo 1a declinación masculino,4757
+26,ἀδελφή,hermana,Sustantivo 1a declinación femenino,79
+26,χήρα,viuda,Sustantivo 1a declinación femenino,5503
+25,Αἴγυπτος,Egipto,Sustantivo 2a declinación femenino,125
+25,δένδρον,árbol,Sustantivo 2a declinación neutro,1186
+25,πορνεία,fornicación; inmoralidad sexual,Sustantivo 1a declinación femenino,4202
+25,νεφέλη,nube,Sustantivo 1a declinación femenino,3507
+25,ἑορτή,fiesta; festival; celebración,Sustantivo 1a declinación femenino,1859
+25,στέφανος,corona; guirnalda; esteban,Sustantivo 2a declinación masculino,4735
+25,ἀδικία,injusticia; maldad,Sustantivo 1a declinación femenino,93
+25,Ἕλλην,griego; gentil,Sustantivo 3a declinación masculino,1672
+24,ἀστήρ,estrella; planeta,Sustantivo 3a declinación masculino,792
+24,παῖς,niño; esclavo,Sustantivo 3a declinación masculino,3816
+24,ἀκοή,oído; capacidad de oír; escuchar con atención,Sustantivo 1a declinación femenino,189
+24,ἀσθένεια,debilidad; enfermedad,Sustantivo 1a declinación femenino,769
+24,παρουσία,venida; presencia; adviento,Sustantivo 1a declinación femenino,3952
+24,σωτήρ,salvador; redentor,Sustantivo 3a declinación masculino,4990
+24,νοῦς,mente; entendimiento,Sustantivo 3a declinación masculino,3563
+24,ἐπιστολή,carta; epístola,Sustantivo 1a declinación femenino,1992
+24,Τιμόθεος,Timoteo,Sustantivo 2a declinación masculino,5095
+23,θυσιαστήριον,altar; santuario,Sustantivo 2a declinación neutro,2379
+23,σκεῦος,vasija; objeto,Sustantivo 3a declinación neutro,4632
+23,ἀμπελών,viña,Sustantivo 3a declinación masculino,290
+23,εἰκών,imagen; símil; figura,Sustantivo 3a declinación femenino,1504
+23,ζῷον,animal; ser viviente,Sustantivo 2a declinación neutro,2226
+22,Ἠσαΐας,Isaías,Sustantivo 2a declinación masculino,2268
+22,μετάνοια,arrepentimiento,Sustantivo 1a declinación femenino,3341
+22,συνέδριον,concilio; sanedrín,Sustantivo 2a declinación neutro,4892
+22,κοιλία,vientre; matriz; estómago,Sustantivo 1a declinación femenino,2836
+22,πλοῦτος,riquezas; abundancia,Sustantivo 2a declinación masculino,4149
+568,ποιέω,hacer; realizar,Verbo contracto,4160
+296,λαλέω,hablar,Verbo contracto,2980
+148,καλέω,llamar; convocar,Verbo contracto,2564
+143,ἀγαπάω,amar,Verbo contracto,25
+140,ζάω,vivir,Verbo contracto,2198
+117,ζητέω,buscar; desear; tratar de obtener; procurar,Verbo contracto,2212
+113,ὁράω,ver; prestar atención a,Verbo contracto,3708
+109,παρακαλέω,pedir fervorosamente; invitar; animar,Verbo contracto,3870
+97,γεννάω,procrear; dar a luz; ser nacido de; engendrar,Verbo contracto,1080
+95,φοβέω,temer; tener miedo; miedo,Verbo contracto,5399
+95,περιπατέω,andar; andar por los alrededores; comportarse,Verbo contracto,4043
+90,ἀκολουθέω,ir detrás; acompañar; ser discípulo de,Verbo contracto,190
+86,πληρόω,completar; proveer plenamente; llenar; acabar,Verbo contracto,4137
+76,μαρτυρέω,testificar; ser testigo de,Verbo contracto,3140
+70,αἰτέω,pedir,Verbo contracto,154
+70,τηρέω,mantener; guardar,Verbo contracto,5083
+63,ἐρωτάω,preguntar; solicitar; pedir,Verbo contracto,2065
+62,δοκέω,pensar; suponer,Verbo contracto,1380
+60,προσκυνέω,adorar; postrarse ante,Verbo contracto,4352
+58,θεωρέω,mirar; notar; ver,Verbo contracto,2334
+56,ἐπερωτάω,preguntar; inquirir,Verbo contracto,1905
+54,εὐαγγελίζω,predicar; anunciar buenas nuevas,Verbo contracto,2097
+49,φανερόω,revelar; manifestar; mostrar,Verbo contracto,5319
+47,κρατέω,confiscar; sujetar; controlar,Verbo contracto,2902
+46,σταυρόω,crucificar,Verbo contracto,4717
+44,κατοικέω,vivir; morar; habitar,Verbo contracto,2730
+43,φωνέω,llamar; clamar; hacer un sonido,Verbo contracto,5455
+41,εὐλογέω,bendecir; hablar bien,Verbo contracto,2127
+40,μισέω,odiar; aborrecer,Verbo contracto,3404
+40,οἰκοδομέω,edificar; construir,Verbo contracto,3618
+39,δικαιόω,justificar; corregir; mostrar justicia,Verbo contracto,1344
+39,πλανάω,engañar; desviar de la verdad,Verbo contracto,4105
+38,εὐχαριστέω,ser agradecido; agradecer; dar gracias,Verbo contracto,2168
+37,διακονέω,servir; cuidar; atender; ser un diácono,Verbo contracto,1247
+34,μετανοέω,arrepentirse; sentirse mal; cambiar de pensamiento,Verbo contracto,3340
+34,βλασφημέω,blasfemar,Verbo contracto,987
+33,ἀσθενέω,estar débil; estar enfermo,Verbo contracto,770
+30,ἐπικαλέω,invocar; llamar,Verbo contracto,1941
+29,ἐπιτιμάω,reprender; reprobar,Verbo contracto,2008
+29,προσκαλέω,llamar; convocar,Verbo contracto,4341
+28,ἡγέομαι,guiar; considerar; gobernar; tener una opinión,Verbo contracto,2233
+28,ἐλεέω,mostrar misericordia hacia; tener compasión de,Verbo contracto,1653
+28,γαμέω,casarse,Verbo contracto,1060
+28,τελέω,completar; terminar,Verbo contracto,5055
+28,ἀδικέω,actuar mal; injuriar; agraviar,Verbo contracto,91
+28,νικάω,conquistar; vencer,Verbo contracto,3528
+27,καταργέω,abolir; agotar; invalidar,Verbo contracto,2673
+26,ὁμολογέω,admitir; confesar; acordar,Verbo contracto,3670
+26,λυπέω,irritar; entristecer; contristar,Verbo contracto,3076
+26,φρονέω,pensar,Verbo contracto,5426
+25,φιλέω,amar; besar,Verbo contracto,5368
+24,ἀναιρέω,suprimir; matar; destruir,Verbo contracto,337
+23,πεινάω,tener hambre,Verbo contracto,3983
+23,κοπιάω,trabajo arduo; estar cansado,Verbo contracto,2872
+23,κατηγορέω,acusar,Verbo contracto,2723
+23,τελειόω,terminar; perfeccionar; completar,Verbo contracto,5048
+22,πωλέω,vender,Verbo contracto,4453
+22,ἀγνοέω,ignorar; ser ignorante; no percibir o saber,Verbo contracto,50
+31,ἔξεστιν,lícito; permitido,Verbo irregular,1832
+24,κεῖμαι,recostarse; reclinarse,Verbo irregular,2749
+24,πάρειμι,presentarse; estar presente,Verbo irregular,3918
+1329,λέγω,decir,Verbo regular,3004
+708,ἔχω,poseer; tener; aferrar,Verbo regular,2192
+428,ἀκούω,oír; ser capaz de oír; recibir noticias; prestar atención a,Verbo regular,191
+258,λαμβάνω,tomar; recibir; sujetar,Verbo regular,2983
+241,πιστεύω,confiar; creer,Verbo regular,4100
+222,γινώσκω,saber; aprender; entender; reconocer,Verbo regular,1097
+208,θέλω,desear; querer,Verbo regular,2309
+191,γράφω,escribir; anotar,Verbo regular,1125
+176,εὑρίσκω,hallar; descubrir,Verbo regular,2147
+158,ἐσθίω,comer; consumir,Verbo regular,2068
+144,ἐγείρω,hacer despertar; restaurar; ponerse de pie; resucitar,Verbo regular,1453
+132,ἀποστέλλω,enviar; enviar a alguien,Verbo regular,649
+132,βλέπω,ver; mirar,Verbo regular,991
+122,βάλλω,arrojar; dejar caer; derramar; descender precipitadamente,Verbo regular,906
+118,μένω,quedar; permanecer; residir,Verbo regular,3306
+114,κρίνω,juzgar; decidir; evaluar; preferir,Verbo regular,2919
+111,ἀποθνῄσκω,morir; ser mortal,Verbo regular,599
+109,μέλλω,estar por; pensar en hacer; esperar,Verbo regular,3195
+106,σῴζω,salvar; rescatar,Verbo regular,4982
+101,αἴρω,tomar; quitar; retirar,Verbo regular,142
+101,δεῖ,obligar; ser necesario,Verbo regular,1163
+97,διδάσκω,enseñar,Verbo regular,1321
+90,πίπτω,caer; derrumbarse; postrarse frente a,Verbo regular,4098
+86,ἄρχω,comenzar; ser el primero; regir,Verbo regular,757
+82,ἀναβαίνω,subir; entrar,Verbo regular,305
+81,καταβαίνω,bajar; descender,Verbo regular,2597
+81,ἐκβάλλω,sacar; echar fuera; expulsar,Verbo regular,1544
+79,πέμπω,enviar; enviar un mensaje,Verbo regular,3992
+79,ὑπάγω,ir por; partir; morir,Verbo regular,5217
+77,ἀνοίγω,abrir; abierto; abrir por completo,Verbo regular,455
+77,βαπτίζω,bautizar; lavar; sumergir en agua,Verbo regular,907
+74,χαίρω,regocijar; dar bienvenida; bienvenido,Verbo regular,5463
+74,ἀποκτείνω,matar,Verbo regular,615
+73,πίνω,beber,Verbo regular,4095
+69,ἄγω,guiar; traer; llevar,Verbo regular,71
+66,ἀπολύω,despedir; poner en libertad; enviar; divorciar; perdonar,Verbo regular,630
+66,φέρω,cargar; soportar; llevar,Verbo regular,5342
+61,κηρύσσω,predicar; anunciar; proclamar,Verbo regular,2784
+61,δοξάζω,honrar; alabar; glorificar,Verbo regular,1392
+60,ὑπάρχω,ser; existir; estar presente,Verbo regular,5225
+59,συνάγω,reunirse; congregarse; almacenar; traer junto,Verbo regular,4863
+55,κράζω,gritar,Verbo regular,2896
+52,σπείρω,sembrar; sembrar semilla,Verbo regular,4687
+52,πείθω,persuadir; prevalecer sobre; convencer,Verbo regular,3982
+49,παραλαμβάνω,recibir; tomar; traer con; recibir de,Verbo regular,3880
+47,προσφέρω,traer; presentar ante; ofrecer,Verbo regular,4374
+46,καθίζω,sentarse; hacer sentar; permanecer,Verbo regular,2523
+45,ἀπαγγέλλω,informar; reportar; traer noticias,Verbo regular,518
+45,διώκω,perseguir; esforzarse por hacer algo,Verbo regular,1377
+44,ἐπιγινώσκω,conocer; reconocer,Verbo regular,1921
+43,θεραπεύω,sanar; servir,Verbo regular,2323
+43,θαυμάζω,admirar; maravilla; asombrarse,Verbo regular,2296
+43,δέω,atar; amarrar; apresar,Verbo contracto,1210
+43,ἁμαρτάνω,fallar; pecar; fracasar,Verbo regular,264
+42,ἐγγίζω,acercar; traer cerca,Verbo regular,1448
+42,λύω,desatar; poner en libertad,Verbo regular,3089
+42,πάσχω,sufrir; experimentar,Verbo regular,3958
+40,κλαίω,llorar,Verbo regular,2799
+40,ἑτοιμάζω,preparar; disponer,Verbo regular,2090
+39,περισσεύω,tener en abundancia; tener más que suficiente,Verbo regular,4052
+39,ἅπτω,encender; tocar,Verbo regular,681
+39,πράσσω,hacer; lograr; pasar,Verbo regular,4238
+38,πειράζω,examinar; intentar; poner a prueba,Verbo regular,3985
+38,ὑποτάσσω,someter; subordinar,Verbo regular,5293
+36,ἐπιστρέφω,regresar; volverse,Verbo regular,1994
+35,ὀφείλω,deber; estar en deuda,Verbo regular,3784
+35,ὑποστρέφω,regresar; dar la espalda,Verbo regular,5290
+32,παραγγέλλω,mandar; comandar,Verbo regular,3853
+32,ἀναγινώσκω,leer; leer en voz alta,Verbo regular,314
+31,φαίνω,aparecer; hacerse visible; hacer conocer; alumbrar,Verbo regular,5316
+31,καθαρίζω,limpiar; purificar,Verbo regular,2511
+31,ἐλπίζω,esperar; aguardar,Verbo regular,1679
+31,φυλάσσω,guardia; guardar; cuidar; vigilar; custodiar,Verbo regular,5442
+30,ἀγοράζω,comprar,Verbo regular,59
+29,φεύγω,huir; escapar; desaparecer rápidamente,Verbo regular,5343
+29,σκανδαλίζω,hacer pecar; ofender; escandalizar,Verbo regular,4624
+28,ἰσχύω,ser fuerte; ser capaz de,Verbo regular,2480
+28,ἁγιάζω,consagrar; dedicar,Verbo regular,37
+28,προφητεύω,profetizar,Verbo regular,4395
+27,βαστάζω,llevar; mudar; proveer para; soportar,Verbo regular,941
+27,ἐνδύω,vestir; vestirse,Verbo regular,1746
+27,ἐκχέω,derramar; dar en abundancia; derrochar,Verbo contracto,1632
+26,ὀμνύω,jurar; tomar juramento,Verbo regular,3660
+26,ἥκω,venir; llegar; arribar,Verbo regular,2240
+26,ἀποκαλύπτω,revelar,Verbo regular,601
+25,δουλεύω,servir; ser esclavo,Verbo regular,1398
+25,κελεύω,urgir; mandar,Verbo regular,2753
+25,μανθάνω,aprender,Verbo regular,3129
+25,ἀναβλέπω,levantar la vista; poner la vista en,Verbo regular,308
+25,γνωρίζω,dar a conocer; revelar,Verbo regular,1107
+24,καταλείπω,dejar; retirarse; dejar atrás; abandonar,Verbo regular,2641
+24,προσέχω,estar alerta; considerar cuidadosamente; estar atento,Verbo regular,4337
+23,ἀνάγω,guiar; ofrecer a; zarpar,Verbo regular,321
+23,περιβάλλω,arropar; cubrir,Verbo regular,4016
+23,κωλύω,evitar; impedir,Verbo regular,2967
+22,καθεύδω,dormir; recostarse,Verbo regular,2518
+22,γρηγορέω,velar; estar despierto,Verbo contracto,1127
+669,γίνομαι,ser; llegar a existir; convertirse; acontecer,Verbo μαι,1096
+632,ἔρχομαι,ir; venir,Verbo μαι,2064
+231,ἀποκρίνομαι,responder,Verbo μαι,611
+218,ἐξέρχομαι,salir; ir afuera,Verbo μαι,1831
+210,δύναμαι,ser apto,Verbo μαι,1410
+194,εἰσέρχομαι,entrar,Verbo μαι,1525
+153,πορεύομαι,ir; viajar; marcharse; comportarse,Verbo μαι,4198
+117,ἀπέρχομαι,irse; partir,Verbo μαι,565
+91,κάθημαι,sentarse; residir,Verbo μαι,2521
+86,προσέρχομαι,acercarse; aproximarse; procurar asociarse con,Verbo μαι,4334
+85,προσεύχομαι,orar,Verbo μαι,4336
+59,ἀσπάζομαι,saludar; dar la bienvenida,Verbo μαι,782
+56,δέχομαι,tomar; recibir; dar la bienvenida,Verbo μαι,1209
+43,διέρχομαι,atravesar; penetrar,Verbo μαι,1330
+40,ἐργάζομαι,trabajar; realizar; obrar,Verbo μαι,2038
+40,λογίζομαι,contar; considerar; pensar,Verbo μαι,3049
+37,βούλομαι,desear; querer,Verbo μαι,1014
+37,παραγίνομαι,venir; acercarse; venir a ayudar,Verbo μαι,3854
+37,καυχάομαι,gloriarse; jactarse,Verbo μαι,2744
+33,ἐκπορεύομαι,partir; salir,Verbo μαι,1607
+33,ἀρνέομαι,negar; rehusar,Verbo μαι,720
+30,συνέρχομαι,reunirse; acompañar,Verbo μαι,4905
+29,παρέρχομαι,pasar; pasar por,Verbo μαι,3928
+26,ἰάομαι,sanar; curar,Verbo μαι,2390
+23,μιμνῄσκομαι,recordar; acordarse,Verbo μαι,3403
+23,χαρίζομαι,perdonar; mostrar gentileza; mostrar favor; otorgar por gracia,Verbo μαι,5483
+23,κατεργάζομαι,lograr; alcanzar; producir,Verbo μαι,2716
+22,θεάομαι,mirar; ver,Verbo μαι,2300
+22,δέομαι,pedir; rogar; orar,Verbo μαι,1189
+2462,εἰμί,ser; existir; ir,Verbo μι,1510
+1024,εἶπον,decir; hablar,Verbo μι,2036
+415,δίδωμι,dar; conceder,Verbo μι,1325
+341,εἶδον,ver,Verbo μι,1492
+318,οἶδα,saber; entender,Verbo μι,1492
+155,ἵστημι,estar en pie; establecer; ponerse en pie; mantenerse firme,Verbo μι,2476
+143,ἀφίημι,despedir; dejar atrás; perdonar; divorciar; rechazar,Verbo μι,863
+119,παραδίδωμι,transferir; traicionar; entregar,Verbo μι,3860
+108,ἀνίστημι,levantar; levantarse; ponerse de pie; estar de pie,Verbo μι,450
+100,τίθημι,poner; depositar; designar,Verbo μι,5087
+90,ἀπόλλυμι,destruir; arruinar; ruina; perecer,Verbo μι,622
+66,φημί,decir; declarar; implicar; afirmar,Verbo μι,5346
+48,ἀποδίδωμι,pagar; cumplir; devolver,Verbo μι,591
+41,παρίστημι,presentar; poner junto a; estar ante,Verbo μι,3936
+39,ἐπιτίθημι,poner; colocar; poner sobre,Verbo μι,2007
+30,δείκνυμι,mostrar; hacer conocido; explicar; traer a luz,Verbo μι,1166
+26,συνίημι,entender; comprender,Verbo μι,4920
+24,πίμπλημι,llenar; saciar,Verbo μι,4137

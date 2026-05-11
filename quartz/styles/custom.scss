@@ -770,16 +770,19 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
 
   // Sidebar izquierdo: convertir en barra de logo compacta
   .left.sidebar {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
     width: 100% !important;
     min-width: unset !important;
     height: auto !important;
+    min-height: 80px !important;
     position: static !important;
     padding: 8px 16px !important;
     border-bottom: 1px solid rgba(128, 128, 128, 0.15);
-    flex-direction: row !important;
-    align-items: center !important;
     overflow: visible !important;
     gap: 0 !important;
+    box-sizing: border-box !important;
 
     // Ocultar search, darkmode, readermode y explorador
     .flex-component,
@@ -788,8 +791,18 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
     }
   }
 
-  // Logo: reducir dimensiones para la barra superior
+  // Logo: dimensiones para la barra superior
+  .page-title {
+    display: block !important;
+    flex-shrink: 0;
+  }
+
+  .page-title a {
+    display: block !important;
+  }
+
   .page-title a::after {
+    display: block !important;
     width: 130px !important;
     height: 65px !important;
     margin: 2px 0 !important;
@@ -805,7 +818,7 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
     width: 100% !important;
     max-width: 100% !important;
     margin: 0 !important;
-    padding: 1em 16px 0 16px !important;
+    padding: 1em 8px 0 8px !important;
   }
 
   article.popover-hint {
