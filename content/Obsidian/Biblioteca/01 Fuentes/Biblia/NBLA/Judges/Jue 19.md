@@ -1,0 +1,146 @@
+---
+publish: true
+---
+# Judges 19
+
+[[Jue 18|← Judges 18]] | [[Jueces]] | [[Jue 20|Judges 20 →]]
+***
+
+
+# Jueces 19 (Nueva Biblia de las Américas)
+El levita y su concubina
+
+##### Chapter 19
+
+
+###### 1 
+En aquellos días, cuando no había rey en Israel, había un levita que residía en la parte más remota de la región montañosa de Efraín, el cual tomó para sí una concubina de Belén de Judá. 
+
+
+###### 2 
+Pero su concubina cometió adulterio contra él, y ella se fue de su lado, a la casa de su padre en Belén de Judá, y estuvo allí por espacio de cuatro meses. 
+
+
+###### 3 
+Su marido se levantó y fue tras ella para hablarle cariñosamente y hacerla volver, llevando consigo a su criado y un par de asnos. Y ella lo llevó dentro de la casa de su padre, y cuando el padre de la joven lo vio, se alegró de conocerlo. 
+
+
+###### 4 
+Su suegro, el padre de la joven, lo retuvo, y se quedó con él tres días. Y comieron, bebieron y se alojaron allí.
+
+
+
+###### 5 
+Al cuarto día se levantaron muy de mañana y el levita se preparó para irse; y el padre de la joven dijo a su yerno: «Aliméntate con un bocado de pan y después se pueden ir». 
+
+
+###### 6 
+Se sentaron, pues, los dos y comieron y bebieron juntos. Y el padre de la joven dijo al hombre: «Te ruego que te dignes pasar la noche, y que se alegre tu corazón». 
+
+
+###### 7 
+El hombre se levantó para irse, pero su suegro insistió, de modo que pasó allí la noche otra vez.
+
+
+
+###### 8 
+Y al quinto día se levantó muy de mañana para irse, y el padre de la joven dijo: «Aliméntate, te ruego, y espera hasta la tarde»; y los dos comieron. 
+
+
+###### 9 
+Cuando el hombre se levantó para irse con su concubina y su criado, su suegro, el padre de la joven, le dijo: «Mira, ya ha declinado el día; te ruego que pases la noche, pues el día llega a su fin. Pasa la noche aquí para que se alegre tu corazón. Y mañana se levantarán temprano para su viaje y te irás a tu casa».
+
+
+
+###### 10 
+Pero el hombre no quiso pasar la noche, así que se levantó y partió, y fue hasta _un lugar_ frente a Jebús, es decir, Jerusalén. Y estaban con él un par de asnos aparejados; también con él estaba su concubina. 
+
+
+###### 11 
+Cuando _estaban_ cerca de Jebús, el día casi había declinado. Y el criado dijo a su señor: «Te ruego que vengas, nos desviemos, y entremos en esta ciudad de los jebuseos y pasemos la noche en ella». 
+
+
+###### 12 
+Pero su señor le dijo: «No nos desviaremos para entrar en la ciudad de extranjeros que no son de los israelitas, sino que iremos hasta Guibeá». 
+
+
+###### 13 
+Y dijo a su criado: «Ven, acerquémonos a uno de estos lugares; y pasaremos la noche en Guibeá o en Ramá».
+
+
+
+###### 14 
+Así que pasaron de largo y siguieron su camino, y el sol se puso sobre ellos cerca de Guibeá que pertenece a Benjamín. 
+
+
+###### 15 
+Y se desviaron allí para entrar _y_ alojarse en Guibeá. Cuando entraron, se sentaron en la plaza de la ciudad porque nadie los llevó a _su_ casa para pasar la noche.
+
+
+
+###### 16 
+Entonces, un anciano venía de su trabajo del campo al anochecer. Y el hombre era de la región montañosa de Efraín y se alojaba en Guibeá, pero los hombres del lugar eran benjamitas. 
+
+
+###### 17 
+Y alzó sus ojos y vio al viajero en la plaza de la ciudad. Y el anciano dijo: «¿A dónde vas y de dónde vienes?».
+
+
+
+###### 18 
+Y él le dijo: «Estamos pasando de Belén de Judá a la parte más remota de la región montañosa de Efraín, _pues_ soy de allí. Fui hasta Belén de Judá, y _ahora_ voy a mi casa, pero no hay quien me reciba en su casa. 
+
+
+###### 19 
+Sin embargo, tenemos paja y forraje para nuestros asnos, y también pan y vino para mí, para tu sierva y para el joven que está con tu siervo; no _nos_ falta nada». 
+
+
+###### 20 
+«Paz sea contigo», dijo el anciano. «Permíteme _suplir_ todas tus necesidades. Pero no pases la noche en la plaza». 
+
+
+###### 21 
+Y lo llevó a su casa y dio forraje a los asnos. Ellos se lavaron los pies, comieron y bebieron.
+
+
+
+###### 22 
+Mientras ellos se alegraban, los hombres de la ciudad, hombres perversos, rodearon la casa; _y_ golpeando la puerta, hablaron al dueño de la casa, al anciano, diciendo: «Saca al hombre que entró en tu casa para que tengamos relaciones con él». 
+
+
+###### 23 
+Entonces el hombre, el dueño de la casa, salió a ellos y les dijo: «No, hermanos míos, no se porten tan vilmente. Puesto que este hombre ha entrado en mi casa, no cometan esta terrible ofensa. 
+
+
+###### 24 
+Aquí está mi hija virgen y la concubina de él. Permítanme que las saque para que abusen de ellas y hagan con ellas lo que quieran, pero no cometan semejante ofensa contra este hombre».
+
+
+
+###### 25 
+Pero los hombres no quisieron escucharle, así que el levita tomó a su concubina y _la_ trajo a ellos. Y ellos la ultrajaron y abusaron de ella toda la noche hasta la mañana; entonces la dejaron libre al amanecer. 
+
+
+###### 26 
+Cuando amanecía, la mujer vino y cayó a la entrada de la casa del hombre donde estaba su señor hasta _que se hizo_ de día.
+
+
+
+###### 27 
+Al levantarse su señor por la mañana, abrió las puertas de la casa y salió para seguir su camino, y vio que su concubina estaba tendida a la entrada de la casa, con sus manos en el umbral. 
+
+
+###### 28 
+Y él le dijo: «Levántate y vámonos». Pero ella no respondió. Entonces la recogió, y colocándola sobre el asno, el hombre se levantó y se fue a su casa.
+
+
+
+###### 29 
+Cuando entró en su casa tomó un cuchillo, y tomando a su concubina, la cortó en doce pedazos, miembro por miembro, y la envió por todo el territorio de Israel. 
+
+
+###### 30 
+Y todos los que _lo_ veían, decían: «Nada como esto _jamás_ ha sucedido ni se ha visto desde el día en que los israelitas subieron de la tierra de Egipto hasta el día de hoy. Considérenlo, tomen consejo y hablen».
+
+***
+[[Jue 18|← Judges 18]] | [[Jueces]] | [[Jue 20|Judges 20 →]]

@@ -1,0 +1,100 @@
+---
+publish: true
+---
+# Nehemiah 2
+
+[[Neh 1|← Nehemiah 1]] | [[Nehemiah]] | [[Neh 3|Nehemiah 3 →]]
+***
+
+
+# Nehemías 2 (Nueva Biblia de las Américas)
+Nehemías enviado a Jerusalén
+
+##### Chapter 2
+
+
+###### 1 
+Aconteció que en el mes de Nisán, en el año veinte del rey Artajerjes, _estando ya_ el vino delante de él, tomé el vino y se lo di al rey. Yo nunca había estado triste en su presencia. 
+
+
+###### 2 
+Así que el rey me preguntó: «¿Por qué está triste tu rostro? Tú no estás enfermo; eso no es más que tristeza de corazón». Entonces tuve mucho temor, 
+
+
+###### 3 
+y le dije al rey: «Viva para siempre el rey. ¿Cómo no ha de estar triste mi rostro cuando la ciudad, lugar de los sepulcros de mis padres, está desolada y sus puertas han sido consumidas por el fuego?».
+
+
+
+###### 4 
+Entonces el rey me dijo: «¿Qué es lo que pides?». Así que oré al Dios del cielo, 
+
+
+###### 5 
+y respondí al rey: «Si le place al rey, y si su siervo ha hallado gracia delante de usted, envíeme a Judá, a la ciudad de los sepulcros de mis padres, para que yo la reedifique». 
+
+
+###### 6 
+Entonces el rey me dijo, estando la reina sentada junto a él: «¿Cuánto durará tu viaje, y cuándo volverás?». Y le agradó al rey enviarme, y yo le di un plazo fijo. 
+
+
+###### 7 
+Y le dije al rey: «Si le agrada al rey, que se me den cartas para los gobernadores _de las provincias_ más allá del Río, para que me dejen pasar hasta que llegue a Judá, 
+
+
+###### 8 
+y una carta para Asaf, guarda del bosque del rey, a fin de que me dé madera para hacer las vigas de las puertas de la fortaleza que está junto al templo, para la muralla de la ciudad y para la casa a la cual iré». Y el rey me _lo_ concedió, porque la mano bondadosa de mi Dios _estaba_ sobre mí.
+
+
+
+###### 9 
+Fui entonces a los gobernadores de más allá del Río y les entregué las cartas del rey. El rey también había enviado conmigo oficiales del ejército y hombres de a caballo. 
+
+
+###### 10 
+Cuando se enteraron Sanbalat el horonita y Tobías el oficial amonita, les disgustó mucho que alguien hubiera venido a procurar el bienestar de los israelitas.
+
+
+
+###### 11 
+Llegué a Jerusalén y después de estar allí tres días, 
+
+
+###### 12 
+me levanté de noche, yo y unos pocos hombres conmigo, pero no informé a nadie lo que mi Dios había puesto en mi corazón que hiciera por Jerusalén. No llevaba conmigo ningún animal excepto el animal sobre el cual yo iba montado. 
+
+
+###### 13 
+Salí de noche por la puerta del Valle hacia la fuente del Dragón y hacia la puerta del Muladar, inspeccionando las murallas de Jerusalén que estaban derribadas y sus puertas que estaban consumidas por el fuego. 
+
+
+###### 14 
+Pasé luego hacia la puerta de la Fuente y hacia el Estanque del Rey, pero no había lugar para que pasara mi cabalgadura. 
+
+
+###### 15 
+Así que subí de noche por el torrente e inspeccioné la muralla. Entonces entré de nuevo por la puerta del Valle y regresé. 
+
+
+###### 16 
+Los oficiales no sabían adónde yo había ido ni qué había hecho. Tampoco se lo había hecho saber todavía a los judíos, ni a los sacerdotes, ni a los nobles, ni a los oficiales, ni a los demás que hacían la obra.
+
+
+
+###### 17 
+Entonces les dije: «Ustedes ven la mala situación en que estamos, que Jerusalén está desolada y sus puertas quemadas a fuego. Vengan, reedifiquemos la muralla de Jerusalén para que no seamos más motivo de burla». 
+
+
+###### 18 
+Les conté cómo la mano de mi Dios había sido bondadosa conmigo, y también las palabras que el rey me había dicho. Entonces dijeron: «Levantémonos y edifiquemos». Y esforzaron sus manos en la buena _obra_. 
+
+
+###### 19 
+Pero cuando se enteraron Sanbalat el horonita, Tobías el oficial amonita y Gesem el árabe, se burlaron de nosotros, nos despreciaron y dijeron: «¿Qué es esto que están haciendo? ¿Se están rebelando contra el rey?». 
+
+
+###### 20 
+Yo les respondí: «El Dios del cielo nos dará éxito. Por tanto, nosotros Sus siervos nos levantaremos y edificaremos, pero ustedes no tienen parte ni derecho ni memorial en Jerusalén».
+
+***
+[[Neh 1|← Nehemiah 1]] | [[Nehemiah]] | [[Neh 3|Nehemiah 3 →]]

@@ -1,0 +1,78 @@
+---
+publish: true
+---
+# 1 Timothy 2
+
+[[1 Tim 1|← 1 Timothy 1]] | [[1 Timothy]] | [[1 Tim 3|1 Timothy 3 →]]
+***
+
+
+# 1 Timoteo 2 (Nueva Biblia de las Américas)
+Llamado a la oración
+
+##### Chapter 2
+
+
+###### 1 
+Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones _y_ acciones de gracias por todos los hombres, 
+
+
+###### 2 
+por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad. 
+
+
+###### 3 
+_Porque_ esto es bueno y agradable delante de Dios nuestro Salvador, 
+
+
+###### 4 
+el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad.
+
+
+
+###### 5 
+Porque hay un solo Dios, _y_ también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre, 
+
+
+###### 6 
+quien se dio a sí mismo en rescate por todos, testimonio _dado_ a su debido tiempo. 
+
+
+###### 7 
+Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad. 
+
+
+###### 8 
+Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.
+
+
+
+###### 9 
+Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos, 
+
+
+###### 10 
+sino con buenas obras, como corresponde a las mujeres que profesan la piedad. 
+
+
+###### 11 
+Que la mujer aprenda calladamente, con toda obediencia. 
+
+
+###### 12 
+Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada. 
+
+
+###### 13 
+Porque Adán fue creado primero, después Eva. 
+
+
+###### 14 
+Y Adán no _fue el_ engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión. 
+
+
+###### 15 
+Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia.
+
+***
+[[1 Tim 1|← 1 Timothy 1]] | [[1 Timothy]] | [[1 Tim 3|1 Timothy 3 →]]

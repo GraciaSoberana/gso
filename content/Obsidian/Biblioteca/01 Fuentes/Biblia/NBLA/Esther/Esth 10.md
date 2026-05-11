@@ -1,0 +1,28 @@
+---
+publish: true
+---
+# Esther 10
+
+[[Esth 9|← Esther 9]] | [[Esther]]
+***
+
+
+# Ester 10 (Nueva Biblia de las Américas)
+Grandeza de Mardoqueo
+
+##### Chapter 10
+
+
+###### 1 
+El rey Asuero impuso tributo sobre la tierra y sobre las costas del mar. 
+
+
+###### 2 
+Y todos los actos de su autoridad y poder, y todo el relato de la grandeza de Mardoqueo, con que el rey le engrandeció, ¿no están escritos en el libro de las Crónicas de los reyes de Media y Persia? 
+
+
+###### 3 
+Porque el judío Mardoqueo era el segundo _después_ del rey Asuero, grande entre los judíos y estimado por la multitud de sus hermanos, el cual buscó el bien de su pueblo y procuró el bienestar de toda su gente.
+
+***
+[[Esth 9|← Esther 9]] | [[Esther]]

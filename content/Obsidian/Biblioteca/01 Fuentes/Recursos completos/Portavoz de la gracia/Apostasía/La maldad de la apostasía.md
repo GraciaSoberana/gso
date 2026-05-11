@@ -1,0 +1,55 @@
+---
+publish: true
+type: article
+title: La maldad de la apostasía
+author: "[[Ebenezer Erskine]]"
+parent: "[[Apostasía (PDG)]]"
+journal: "[[Portavoz de la gracia]]"
+related:
+  - "[[Apostasía]]"
+  - "[[Vida cristiana]]"
+---
+
+La maldad de la apostasía
+
+Ebenezer Erskine (1680-1754)
+
+¿Es cierto que muchos que pretenden ser discípulos de Cristo, en un momento u otro, caen totalmente y se alejan finalmente de Él? Entonces, permítanme exhortar y convencer a todos los que me escuchan, y especialmente, a los que levantan sus manos a Él, frente a una mesa de comunión, profesando ser sus discípulos al posar sus manos sobre un Redentor asesinado, procurando firmeza y estabilidad en aferrarse a Cristo y su camino… Para aplicar esta exhortación, consideren _primero_, la maldad de la apostasía, ya sea en parte o en su totalidad.
+
+1. Es una provocación de la peor naturaleza. Incluye dos males en ella, que no pueden menos que despertar el resentimiento divino; estas son la traición y la ingratitud. Primero, hay traición en ella. ¿Qué esposo vería con buenos ojos que su esposa lo abandonara y fuera tras otros amantes? Amigos míos, han tomado solemnemente a Dios como su esposo ante ángeles y hombres. ¿No es una traición en aberrante grado, ir y prostituir sus almas con el pecado, su peor enemigo? ¿No es esto calumniar y reprochar a Dios como si otros fueran mejores que Él? Esto le hará decir: “¿Qué maldad hallaron en mí vuestros padres?” (Jer. 2:5). “¿Qué te he hecho, o en qué te he molestado? Responde contra mí” (Mi. 6:3). Segundo, también hay ingratitud. Fueron palabras cortantes las que les dijo Cristo a sus discípulos… “¿Queréis acaso iros también vosotros?”. Lo mismo dice a cada uno de ustedes: “¿Os iréis también vosotros, después de tantas pruebas de mi bondad, después de repetir tantos votos y obligaciones?”. Por todo esto, es evidente que la apostasía es una provocación de la peor naturaleza.
+
+**2.****Su apostasía**[^29]**causará una herida profunda a la religión y generará reproches a los buenos caminos de Dios.** Ustedes lo han aceptado como su Amo y Señor, y declarado ante el mundo que piensan que el servicio a Él es el mejor servicio, sus pagos los mejores pagos, que un día en sus atrios es mejor que mil [fuera de ellos] (Sal. 84:10). Ahora, si después de todo esto apostatan, ¿no llegará el mundo a la conclusión de que no encontraron en su servicio lo que esperaban? Por ello, otros se ahuyentarán de los buenos caminos del Señor.
+
+_1. Afligirán el corazón de los piadosos, cuyo corazón Dios no quiere afligir._Y es cosa peligrosa ofender a uno de sus pequeñitos. Sería mejor que “se le atase al cuello una piedra de molino y se le arrojase al mar, que hacer tropezar a uno de estos pequeñitos” (Lc. 17:2).
+
+2. _Si apostatan totalmente y caen en una apostasía perpetua,_será el preludio de su eterno destierro y separación de la presencia de Dios. El alma de Dios no se complace en [tales] rebeldes y, por lo tanto, nunca podrán tener acceso a su presencia llena de gracia. En consecuencia, serán castigados con destrucción perpetua.
+
+3. _Si son ustedes creyentes y apostatan parcialmente, estarán poniendo una vara en la mano de Dios para que les castigue._ Si después de todo, siguen indiferentes en su andar, negligentes en sus deberes, menos persistentes, menos fervientes, menos entusiastas que antes, pueden estar seguros de que no quedarán impunes. “A vosotros solamente he conocido de todas las familias de la tierra; por tanto, os castigaré por todas vuestras maldades” (Am. 3:2). “Si dejaren sus hijos mi ley, y no anduvieren en mis juicios, si profanaren mis estatutos, y no guardaren mis mandamientos, entonces castigaré con vara su rebelión, y con azotes sus iniquidades” (Sal. 89:30-32).
+
+_En segundo lugar_, consideren las grandes ventajas de la estabilidad que significa aferrarse a Cristo y permanecer fieles a su causa y sus intereses.
+
+1. _Les dará mucha paz interior y tranquilidad de mente_. “Mucha paz tienen los que aman tu ley” (Sal. 119:165). Dios le dice a Israel que si se hubieran aferrado a Él y a su camino, su paz hubiera sido como un río y su justicia como un torrente que se desborda (Is. 66:12).
+
+2._Glorificarán a Dios y reflejarán luz sobre la religión._Hagan que el mundo vea que sirven a un Amo bueno. Cristo dijo: “Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos” (Mt. 5:16).
+
+_3. Así como la apostasía apaga el espíritu al acercarse la muerte, la estabilidad del corazón en el camino del Señor da valentía y confianza a través de Cristo, al acercarse el lúgubre mensajero del Señor de los ejércitos._ Por eso dice Pablo: “He peleado la buena batalla, he acabado la carrera, he guardado la fe.Por lo demás, me está guardada la corona de justicia” (2 Ti. 4:7-8).
+
+4._La recompensa de gracia está asegurada en Cristo para el alma fiel._ “Estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano” (1 Co. 15:58). Recuerden que su derecho a la recompensa viene en virtud de su unión con Cristo y ¡oh, cuan gloriosa es esa recompensa a la que el alma fiel tiene derecho a través de Él! Tiene un _reino_asegurado para ella: “Vosotros sois los que habéis permanecido conmigo en mis pruebas. Yo, pues, os asigno un reino” (Lc. 22:28-29). Un _trono_: “Al que venciere, le daré que se siente conmigo en mi trono” (Ap. 3:21). Una corona es segura, _una corona de vida_: “Sé fiel hasta la muerte, y yo te daré la corona de la vida” (Ap. 2:10). Una _corona de gloria_: “Y cuando aparezca el Príncipe de los pastores, vosotros recibiréis la corona incorruptible de gloria” (1 P. 5:4). Una _corona de justicia_, guardada para todos los que se mantienen firmes en la fe y “que aman su venida” (2 Ti. 4:8). Una _corona de gozo_, sí, una corona de “gozo perpetuo será sobre sus cabezas,… y huirán la tristeza y el gemido”. (Is. 35:10).
+
+Concluyo con dos o tres consejos.
+
+1._Tengan cuidado de que el fundamento esté bien puesto sobre Jesucristo, la Roca eterna_. Porque éste es el fundamento que Dios ha puesto en Sion, y nadie puede poner otro fundamento. Deben estar cimentados en este fundamento por medio del Espíritu y la fe, de otra manera, no podrán salir airosos en el día del juicio porque, siendo su raíz podredumbre, su “flor se desvanecerá como polvo” (Is. 5:24). La casa construida sobre arena se derrumbó cuando “descendió la lluvia, y vinieron los ríos, y soplaron vientos y dieron con ímpetu contra aquella casa”; en cambio, la casa fundada sobre esta Roca permanecerá, a pesar de los grandes esfuerzos de las puertas del infierno (Mt. 7:24-27).
+
+2. _Guarden un celo perpetuo sobre sus propios corazones._ Porque “el que confía en su propio corazón es necio” (Pr. 28:26), debido a que “engañoso es el corazón más que todas las cosas, y perverso” (Jer. 17:9). En especial, cuídense de las obras y de los brotes de la amarga raíz de la incredulidad que causa el alejamiento del Dios vivo (He. 3:12).
+
+3. Mantengan sus ojos puestos en las promesas de la gracia perseverante, particularmente, la que se describe en Jeremías 32:40: “Y haré con ellos pacto eterno, que no me volveré atrás de hacerles bien, y pondré mi temor en el corazón de ellos, para que no se aparten de mí”. Si suplican y aprovechan esta promesa por fe, es imposible que se vuelvan atrás. Porque “es imposible que Dios mienta” (He. 6:18). Dios está en ambos lados del pacto para cumplir, tanto su parte como la nuestra. Por lo tanto, ruéguenle que cumpla la parte de Él en ustedes, para que los guarde por su poder mediante la fe para salvación (1 P. 1:5).
+
+4. Mantengan sus ojos en Cristo, el bendito Mediador del pacto. Considérenlo como el almacén y fuente de toda su provisión de gracia y poder. “Porque de su plenitud tomamos todos, y gracia sobre gracia” (Jn. 1:16). Considérenlo como su Capitán, quien libra todas vuestras batallas contra el pecado y Satanás porque despojó “a los principados y a las potestades” (Col. 2:15) y, si hemos de vencer, tendrá que ser en la sangre y el poder del Cordero. Considérenlo su guía para conducirles por todos los oscuros y difíciles trayectos de su peregrinaje porque Él guía a los ciegos “por sendas que no habían conocido” (Is. 42:16). Considérenlo su modelo. Esfuércense por imitarlo en todas sus perfecciones imitables. Corran su carrera cristiana “puestos los ojos en Jesús” (He. 12:2). Recuerden qué constante y firme fue Él en cumplir la gran obra de redención. Enfrentó con firmeza las tormentas y los obstáculos en su camino. Él no desmayó, ni se desalentó, sino que siguió adelante con la grandeza de su fuerza, soportando la cruz y despreciando los vituperios porque dijo en la cruz: “Consumado es” (Jn. 19:30). Sigan su ejemplo para correr su carrera cristiana, su senda de obediencia, y sigan adelante haciendo frente a todas las tentaciones y dificultades, hasta que hayan terminado su carrera con gozo y llegado a la meta, al premio del supremo llamamiento de Dios en Cristo.
+
+5. Sean conscientes de las primeras señales de deserción y apostasía. Porque un tropezón da lugar a otro. Las deserciones son como una piedra echada a rodar desde lo alto de una elevada cima; una vez que empieza a rodar, no se detiene hasta llegar al pie de la montaña. ¡Ustedes han estado en la montaña con Dios, señores! Si echan a rodar cuesta abajo sus más elevadas profesiones y resoluciones, la probabilidad es de cien contra uno que irán a parar en las profundidades de la apostasía y, finalmente, en las profundidades del infierno.
+
+6. Por último, capacítense para adquirir la habilidad de descubrir el misterio de la iniquidad, en detectar los ardides y estratagemas del tentador y de contar con antídotos efectivos contra todo ataque del enemigo. Por ejemplo, si les dice que el pecado es un placer, pregúntenle si también lo son los remordimientos del gusano de la conciencia y si un día en la casa de Dios no es mejor que mil en las moradas del pecado. Si les dice que nadie los ve, pregúntenle si puede cerrar los ojos de un Dios omnisciente, cuya vista es como una flama de fuego y que expone nuestros pecados más secretos a la luz de su rostro (Sal. 90:8). Si les dice que es sólo una pequeña falta, pregúntenle si hay un Dios pequeño o si su enfado es poca cosa. Si les dice que el pecado es provechoso, pregúntenle: “¿Qué aprovechará al hombre, si ganare todo el mundo, y perdiere su alma?” (Mt. 16:26). Con argumentos de esta naturaleza, la mente se fortalece contra los ataques y acometidas del gran enemigo de la salvación, [que prueban ser] una importante ancla para mantener al alma firme y segura contra las tormentas y tempestades más violentas que pueden soplar de la tierra o desde el infierno.
+
+Tomado de El apóstata caracterizado (_The Backslider Characterized_) en Las obras completas del difunto rev. Ebenezer Erskine(_The Whole Works of the Late Rev. Ebenezer Erskine_), Tomo 1, reimpreso por Tentmaker Publications.
+
+[^29]: Nota del editor – Ver nota del editor en el artículo ¿Apostasía parcial o total? del mismo autor, acerca de “backsliding”.

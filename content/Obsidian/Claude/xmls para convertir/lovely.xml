@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ThML PUBLIC "-//CCEL/DTD Theological Markup Language//EN" "http://www.ccel.org/dtd/ThML10.dtd">
+<?xml-stylesheet type="text/xml"
+    href="http://www.ccel.org/ss/thml.html.xsl" ?>
+  <?xml-stylesheet type="text/xsl"
+    href="http://www.ccel.org/ss/thml.html.xsl" ?>
+  <!--
+<?xml-stylesheet type="text/xml"
+    href="http://www.ccel.org/ss/thml.html.xsl" ?>
+<?xml-stylesheet type="text/xsl"
+    href="http://www.ccel.org/ss/thml.html.xsl" ?>
+-->
+<!-- Copyright Christian Classics Ethereal Library -->
+<ThML> 
+  <ThML.head> 
+
+	 <generalInfo>
+		<description>Flavel introduces his text with these words from the Song of Solomon: “Yes, He is
+		altogether lovely.” Within these few pages, Flavel meditates on all the ways in which
+		Christ reveals his beauty, majesty, righteousness, love, and total perfection. The style of
+		his prose reflects the worshipful content of his meditations. Even today these words move
+		readers to wonder and awe at God’s glory. In describing their reaction to reading the
+		book, some have used such words as “soaring,” “marvelous,” and “precious.”
+
+		<br /><br />Kathleen O’Bannon<br />CCEL Staff
+		</description>
+		<firstPublished />
+		<pubHistory />
+		<comments /></generalInfo> 
+
+	 <printSourceInfo>
+		<published /> 
+	 </printSourceInfo> 
+
+	 <electronicEdInfo>
+		<publisherID>ccel</publisherID>
+		<authorID>flavel</authorID>
+		<bookID>lovely</bookID>
+		<workID>lovely</workID>
+		<bkgID>christ_altogether_lovely_(flavel)</bkgID>
+		<version>1.0</version>
+		<series /><editorialComments />
+		<revisionHistory />
+		<status />
+
+		<DC>
+		  <DC.Title>Christ Altogether Lovely</DC.Title>
+		  <DC.Title sub="short">Christ Altogether Lovely</DC.Title>
+		  <DC.Creator sub="Author" scheme="ccel">flavel</DC.Creator>
+		  <DC.Creator sub="Author" scheme="file-as">Flavel, John (1630-1691)</DC.Creator>
+		  <DC.Creator sub="Author" scheme="short-form">John Flavel</DC.Creator>
+		  <DC.Subject scheme="ccel">All; Sermons; Theology; </DC.Subject>
+		  <DC.Subject scheme="LCCN">BX9315.F55</DC.Subject>
+		  <DC.Subject scheme="lcsh1">Christian Denominations</DC.Subject>
+    <DC.Subject scheme="lcsh2">Protestantism</DC.Subject>
+    <DC.Subject scheme="lcsh3">Post-Reformation</DC.Subject>
+    <DC.Subject scheme="lcsh4">Other Protestant denominations</DC.Subject>
+    <DC.Subject scheme="lcsh5">Puritanism</DC.Subject>
+    <DC.Description />
+		  <DC.Publisher>Christian Classics Ethereal Library, Grand Rapids, MI</DC.Publisher>
+		  <DC.Date sub="Created" scheme="ISO8601">2002-07-17</DC.Date>
+		  <DC.Contributor sub="Transcriber" />
+		  <DC.Contributor sub="Markup">Jon Van Hofwegen</DC.Contributor>
+		  <DC.Source sub="ElectronicEdition" />
+		  <DC.Source sub="ElectronicEdition" scheme="URL" />
+		  <DC.Language scheme="ISO639-3">eng</DC.Language>
+		  <DC.Rights>Public Domain</DC.Rights>
+		  <DC.Type>Text.Monograph</DC.Type>
+		  <DC.Identifier scheme="URL">/ccel/flavel/lovely.html</DC.Identifier>
+		  <DC.Format scheme="IMT">text/xml</DC.Format>
+		</DC>
+	 </electronicEdInfo>
+  </ThML.head> 
+  <ThML.body>
+
+    <div1 title="Christ Altogether Lovely " n="i" shorttitle="" progress="1.61%" id="i" prev="toc" next="ii">
+		<h1 id="i-p0.1">Christ Altogether Lovely </h1><h3 id="i-p0.2">by John Flavel </h3> <ul id="i-p0.3">
+		  <li id="i-p0.4">Christ is to be Loved </li>
+		  <li id="i-p0.5">What is Meant by "Altogether Lovely" </li>
+		  <li id="i-p0.6">He is Lovely in His Person </li>
+		  <li id="i-p0.7">He is Lovely in His Offices </li>
+		  <li id="i-p0.8">He is Lovely in His Relations </li>
+		  <li id="i-p0.9">Application </li>
+		</ul></div1>
+
+    <div1 title="Christ is to be Loved " n="ii" shorttitle="" progress="2.44%" id="ii" prev="i" next="ii.i">
+		<h2 id="ii-p0.1">Christ is to be Loved </h2>
+
+      <div2 title="He is altogether lovely." n="i" shorttitle="" progress="2.54%" id="ii.i" prev="ii" next="ii.ii">
+		  <h3 id="ii.i-p0.1">"Yes, He is altogether lovely." <scripRef passage="Song of Songs 5:16" id="ii.i-p0.2" parsed="|Song|5|16|0|0" osisRef="Bible:Song.5.16">Song of Songs 5:16</scripRef>. </h3> 
+
+		  <p class="Body" id="ii.i-p1">At the ninth verse of this chapter, you have a question put forth by the daughters of Jerusalem, "What is your beloved more than another beloved?" The spouse answers, "He is the chief among ten thousand." She then recounts many of the things she finds so excellent in her beloved and then concludes with these words that I have read: "Yes, he is altogether lovely."</p>
+
+		  <p class="Body" id="ii.i-p2">The words set forth the transcendent loveliness of the Lord Jesus Christ, and naturally resolve themselves into three parts:</p>
+
+		  <p class="Body" id="ii.i-p3">1. Who he is.</p>
+
+		  <p class="Body" id="ii.i-p4">2. What he is.</p>
+
+		  <p class="Body" id="ii.i-p5">3. What he is like.</p>
+
+		  <p class="Body" id="ii.i-p6">First, <i>Who he is</i>: the Lord Jesus Christ, after whom she had been seeking, for whom she was overcome by love; concerning whom these daughters of Jerusalem had enquired: whom she had struggled to describe in his particular excellencies. He is the great and excellent subject of whom she here speaks.</p>
+
+		  <p class="Body" id="ii.i-p7">Secondly, <i>What he is</i>, or what she claims of him: That he is a lovely one. The Hebrew word, which is often translated "desires," means "to earnestly desire, covet, or long after that which is most pleasant, graceful, delectable and admirable." The original word is both in the abstract, and plural in number, which says that Christ is the very essence of all delights and pleasures, the very soul and substance of them. As all the rivers are gathered into the ocean,
+			 which is the meeting-place of all the waters in the world, so Christ is that ocean in which all true delights and pleasures meet.</p>
+
+		  <p class="Body" id="ii.i-p8">Thirdly, <i>What he is like</i>: He is altogether lovely, the every part to be desired. He is lovely when taken together, and in every part; as if she had said, "Look on him in what respect or particular you wish; cast your eye upon this lovely object, and view him any way, turn him in your serious thoughts which way you wish; consider his person, his offices, his works, or any other thing belonging to him; you will find him altogether lovely, There is nothing
+			 disagreeable in him, there is nothing lovely without him." Hence note,</p>
+
+		  <p class="Body" id="ii.i-p9">DOCTRINE: That Jesus Christ is the loveliest person souls can set their eyes upon: "Thou art fairer than the children of men." <scripRef passage="Psalm 45:2" id="ii.i-p9.1" parsed="|Ps|45|2|0|0" osisRef="Bible:Ps.45.2">Psalm 45:2</scripRef>.</p></div2>
+
+      <div2 title="He is Altogether Lovely" n="ii" shorttitle="" progress="10.37%" id="ii.ii" prev="ii.i" next="iii">
+		  <h3 id="ii.ii-p0.1">He is "Altogether Lovely" </h3> 
+
+		  <p class="Body" id="ii.ii-p1">Here it is said of Jesus Christ, which cannot be said of any mere creature, that he is "altogether lovely." In opening this point I shall,</p>
+
+		  <p class="Body" id="ii.ii-p2">1. Examine the importance of this phrase "altogether lovely."</p>
+
+		  <p class="Body" id="ii.ii-p3">2. Show you in what respect Christ is so.</p></div2></div1>
+
+    <div1 n="iii" shorttitle="" progress="11.40%" id="iii" prev="ii.ii" next="iii.i">
+
+      <div2 n="i" shorttitle="" progress="11.41%" id="iii.i" prev="iii" next="iii.ii">
+		  <h2 id="iii.i-p0.1">What is Meant by "Altogether Lovely" </h2> 
+
+		  <p class="Body" id="iii.i-p1">Let us consider this excellent expression, and particularly reflect on what is contained in it, and you shall find this expression "altogether lovely."</p>
+
+		  <p class="Body" id="iii.i-p2">First, <i>It excludes all unloveliness and disagreeableness from Jesus Christ</i>. As a theologian long ago said, "There is nothing in him which is not loveable." The excellencies of Jesus Christ are perfectly exclusive of all their opposites; there is nothing of a contrary property or quality found in him to contaminate or devaluate his excellency. And in this respect Christ infinitely transcends the most excellent and loveliest of created things. Whatsoever loveliness
+			 is found in them, it is not without a bad aftertaste. The fairest pictures must have their shadows: The rarest and most brilliant gems must have dark backgrounds to set off their beauty; the best creature is but a bitter-sweet at best: If there is something pleasing, there is also something sour: if a person has every ability, both innate and acquired, to delight us, yet there is also some natural corruption intermixed with it to put us off. But it is not so in our altogether lovely Christ, his
+			 excellencies are pure and unmixed. He is a sea of sweetness without one drop of gall.</p>
+
+		  <p class="Body" id="iii.i-p3">Secondly, "Altogether lovely," i.e. <i>There is nothing unlovely found in him</i>, so all that is in him is wholly lovely. As every ray of God is precious, so every thing that is in Christ is precious: Who can weigh Christ in a pair of balances, and tell you what his worth is? "His price is above rubies, and all that thou canst desire is not to be compared with him,"<scripRef passage=" Prov. 8:11." id="iii.i-p3.1" parsed="|Prov|8|11|0|0" osisRef="Bible:Prov.8.11"> Prov. 8:11.</scripRef></p>
+
+		  <p class="Body" id="iii.i-p4">Thirdly "Altogether lovely," i.e. <i>He embraces all things that are lovely</i>: he seals up the sum of all loveliness. Things that shine as single stars with a particular glory, all meet in Christ as a glorious constellation.<scripRef passage=" Col. 1:19, " id="iii.i-p4.1" parsed="|Col|1|19|0|0" osisRef="Bible:Col.1.19"> Col. 1:19, </scripRef>"It pleased the Father that in him should all fullness dwell." Cast your eyes among all created beings, survey the universe: you will observe strength in one, beauty in a second, faithfulness in a third, wisdom in a
+			 fourth; but you shall find none excelling in them all as Christ does. Bread has one quality, water another, raiment another, medicine another; but none has them all in itself as Christ does. He is bread to the hungry, water to the thirsty, a garment to the naked, healing to the wounded; and whatever a soul can desire is found in him, <scripRef passage="1 Cor. 1:30." id="iii.i-p4.2" parsed="|1Cor|1|30|0|0" osisRef="Bible:1Cor.1.30">1 Cor. 1:30.</scripRef></p>
+
+		  <p class="Body" id="iii.i-p5">Fourthly, "Altogether lovely," i.e. <i>Nothing is lovely in opposition to him, or in separation from him</i>. If he truly is altogether lovely, then whatsoever is opposite to him, or separate from him can have no loveliness in it. Take away Christ, and where is the loveliness of any enjoyment? The best creature-comfort apart from Christ is but a broken cistern. It cannot hold one drop of true comfort,<scripRef passage=" Psalm 73:26." id="iii.i-p5.1" parsed="|Ps|73|26|0|0" osisRef="Bible:Ps.73.26"> Psalm 73:26.</scripRef> It is with the creature--the
+			 sweetest and loveliest creature--as with a beautiful image in the mirror: turn away the face and where is the image? Riches, honours, and comfortable relations are sweet when the face of Christ smiles upon us through them; but without him, what empty trifles are they all?</p>
+
+		  <p class="Body" id="iii.i-p6">Fifthly, "Altogether lovely," i.e. <i>Transcending all created excellencies in beauty and loveliness</i>. If you compare Christ and other things, no matter how lovely, no matter how excellent and desirable, Christ carries away all loveliness from them. "He is (as the apostle says) before all things,"<scripRef passage=" Col. 1:17." id="iii.i-p6.1" parsed="|Col|1|17|0|0" osisRef="Bible:Col.1.17"> Col. 1:17.</scripRef> Not only before all things in time, nature, and order; but before all things in dignity, glory, and true excellence. In all things he must
+			 have the pre-eminence. Let us but compare Christ's excellence with the creature's in a few particulars, and how manifest will the transcendent loveliness of Jesus Christ appear! For,</p>
+
+		  <p class="Body" id="iii.i-p7">1. All other loveliness is derived and secondary; but the loveliness of Christ is original and primary. Angels and men, the world and all the desirable things in it, receive what excellence they crave from him. They are streams from the fountain. The farther any thing departs from its fountain and original, the less excellency there is in it.</p>
+
+		  <p class="Body" id="iii.i-p8">2. The loveliness and excellency of all other things, is only relative, consisting in its reference to Christ, and subservience to his glory. But Christ is lovely, considered absolutely in himself. He is desirable for himself; other things are desirable because of him.</p>
+
+		  <p class="Body" id="iii.i-p9">3. The beauty and loveliness of all other things are fading and perishing; but the loveliness of Christ is fresh for all eternity. The sweetness of the best created thing is a fading flower; if not before, yet certainly at death it must fade away.<scripRef passage=" Job 4:21." id="iii.i-p9.1" parsed="|Job|4|21|0|0" osisRef="Bible:Job.4.21"> Job 4:21.</scripRef> "Doth not their excellency, which is in them, go away?" Yes, yes, whether they are the natural excellencies of the body, acquired endowments of the mind, lovely features, graceful qualities, or
+			 anything else we find attractive; all these like pleasant flowers are withered, faded, and destroyed by death. "But Christ is still the same, yesterday, today, and for ever,"<scripRef passage=" Heb. 13:8." id="iii.i-p9.2" parsed="|Heb|13|8|0|0" osisRef="Bible:Heb.13.8"> Heb. 13:8.</scripRef></p>
+
+		  <p class="Body" id="iii.i-p10">4. The beauty and holiness of creatures are
+		  ensnaring and dangerous. A man may make an idol out of
+		  them, and indulge himself beyond the bounds of moderation
+		  with them, but there is no danger of excess in the love of
+		  Christ. The soul is then in the healthiest frame and temper
+		  when it is most overwhelmed by love to Christ, 
+		  <scripRef passage="Song of Songs 5:8." id="iii.i-p10.1" parsed="|Song|5|8|0|0" osisRef="Bible:Song.5.8">Song of Songs 5:8.</scripRef></p>
+
+		  <p class="Body" id="iii.i-p11">5. The loveliness of every creature is of a confining and obstructing nature. Our esteem of it diminishes the closer we approach to it, or the longer we enjoy it. Creatures, like pictures, are fairest at a certain distance, but it is not so with Christ; the nearer the soul approaches him, and the longer it lives in the enjoyment of him, still the sweeter and more desirable he becomes.</p>
+
+		  <p class="Body" id="iii.i-p12">6. All other loveliness cannot satisfy the soul of man. There is not scope enough in any one created thing, or in all the natural universe of created things for the soul of man to reach out and expand; but the soul still feels itself confined and narrowed within those limits. This comes to pass from the inadequacy and unsuitableness of the creature to the nobler and more excellent soul of man. The soul is like a ship in a narrow river which does not have room to turn. It
+			 is always running aground and foundering in the shallows. But Jesus Christ is in every way sufficient to the vast desires of the soul; in him it has sea-room enough. In him the soul may spread all its sails with no fear of touching bottom. And thus you see what is the importance of this phrase, "Altogether lovely."</p></div2>
+
+      <div2 title="How Christ is Altogether Lovely" n="ii" shorttitle="" progress="34.93%" id="iii.ii" prev="iii.i" next="iii.ii.i">
+		  <h2 id="iii.ii-p0.1">How Christ is "Altogether Lovely"</h2> 
+
+		  <p class="Body" id="iii.ii-p1">Secondly, Next I promised to show you in what respects Jesus Christ is altogether lovely:</p>
+
+        <div3 title="He is Lovely in His Person " n="i" shorttitle="" progress="35.41%" id="iii.ii.i" prev="iii.ii" next="iii.ii.ii">
+			 <h3 id="iii.ii.i-p0.1">He is Lovely in His Person </h3> 
+
+			 <p class="Body" id="iii.ii.i-p1">First, He is altogether lovely in his person: he is Deity dwelling in flesh,<scripRef passage=" John 1:14." id="iii.ii.i-p1.1" parsed="|John|1|14|0|0" osisRef="Bible:John.1.14"> John 1:14.</scripRef> The wonderful, perfect union of the divine and human nature in Christ renders him an object of admiration and adoration to both angels and men, <scripRef passage="1 Tim. 3:16" id="iii.ii.i-p1.2" parsed="|1Tim|3|16|0|0" osisRef="Bible:1Tim.3.16">1 Tim. 3:16</scripRef>. God never presented to the world such a vision of glory before. Consider how the human nature of our Lord Jesus Christ is overflowing with all the graces of the Spirit, in such a way as never any of the
+				saints was filled. O what a lovely picture does this paint of him!<scripRef passage=" John 3:34, " id="iii.ii.i-p1.3" parsed="|John|3|34|0|0" osisRef="Bible:John.3.34"> John 3:34, </scripRef>"God gives the Spirit [to him] without limit." This makes him "the most excellent of men and [his] lips have been anointed with grace," <scripRef passage="Psalm 45:2" id="iii.ii.i-p1.4" parsed="|Ps|45|2|0|0" osisRef="Bible:Ps.45.2">Psalm 45:2</scripRef>. If a small measure of grace in the saints makes them sweet and desirable companions, what must the riches of the Spirit of grace filling Jesus Christ without measure make him in the eyes of believers? O what a glory must it fix upon him!</p></div3>
+
+        <div3 title="He is Lovely in His Offices " n="ii" shorttitle="" progress="38.79%" id="iii.ii.ii" prev="iii.ii.i" next="iii.ii.iii">
+			 <h3 id="iii.ii.ii-p0.1">He is Lovely in His Offices </h3> 
+
+			 <p class="Body" id="iii.ii.ii-p1">Secondly, He is altogether lovely in his offices: let us consider for a moment the suitability, fullness, and comforting nature of them.</p>
+
+			 <p class="Body" id="iii.ii.ii-p2">First, <i>The suitability of the offices of Christ to the miseries of men</i>. We cannot but adore the infinite wisdom of his receiving them. We are, by nature, blind and ignorant, at best but groping in the dim light of nature after God,<scripRef passage=" Acts 17:27." id="iii.ii.ii-p2.1" parsed="|Acts|17|27|0|0" osisRef="Bible:Acts.17.27"> Acts 17:27.</scripRef> Jesus Christ is a light to lighten the Gentiles, <scripRef passage="Isa. 49:6" id="iii.ii.ii-p2.2" parsed="|Isa|49|6|0|0" osisRef="Bible:Isa.49.6">Isa. 49:6</scripRef>. When this great prophet came into the world, then did the day-spring from on high visit us, <scripRef passage="Luke 1:78" id="iii.ii.ii-p2.3" parsed="|Luke|1|78|0|0" osisRef="Bible:Luke.1.78">Luke 1:78</scripRef>. By nature we are alienated from, and
+				at enmity against God; Christ comes into the world to be an atoning sacrifice, making peace by the blood of his cross,<scripRef passage=" Col. 1:20." id="iii.ii.ii-p2.4" parsed="|Col|1|20|0|0" osisRef="Bible:Col.1.20"> Col. 1:20.</scripRef> All the world, by nature, is in bondage and captivity to Satan, a miserable slavery. Christ comes with kingly power, to rescue sinners, as a prey from the mouth of the terrible one.</p>
+
+			 <p class="Body" id="iii.ii.ii-p3">Secondly, <i>Let the fullness of his offices be also considered</i>, which make him able "to save to the uttermost, all that come to God by him,"<scripRef passage=" Heb. 7:25." id="iii.ii.ii-p3.1" parsed="|Heb|7|25|0|0" osisRef="Bible:Heb.7.25"> Heb. 7:25.</scripRef> The three offices, comprising in them all that our souls do need, become an universal relief to all our distresses; and therefore,</p>
+
+			 <p class="Body" id="iii.ii.ii-p4">Thirdly, <i>Unspeakably comforting must the offices of Christ be to the souls of sinners</i>. If light be pleasant to our eyes, how pleasant is that light of life springing from the Sun of righteousness!<scripRef passage=" Mal. 4:2." id="iii.ii.ii-p4.1" parsed="|Mal|4|2|0|0" osisRef="Bible:Mal.4.2"> Mal. 4:2.</scripRef> If a pardon be sweet to a condemned criminal, how sweet must the sprinkling the blood of Jesus be to the trembling conscience of a law-condemned sinner? If a rescue from a cruel tyrant is sweet to a poor captive, how sweet must it be to
+				the ears of enslaved sinners, to hear the voice of liberty and deliverance proclaimed by Jesus Christ? Out of the several offices of Christ, as out of so many fountains, all the promises of the new covenant flow, as so many soul-refreshing streams of peace and joy. All the promises of illumination, counsel and direction flow out of Christ's prophetic office. All the promises of reconciliation, peace, pardon, and acceptation flow out of his priestly office, with the sweet streams of joy and
+				spiritual comforts which accompany it. All the promises of converting, increasing, defending, directing, and supplying grace, flow out of the kingly office of Christ; indeed, all promises may be reduced to these three offices, so that Jesus Christ must be altogether lovely in his offices.</p></div3>
+
+        <div3 title="He is Lovely in His Relations. " n="iii" shorttitle="" progress="47.53%" id="iii.ii.iii" prev="iii.ii.ii" next="iv">
+			 <h3 id="iii.ii.iii-p0.1">He is Lovely in His Relations. </h3> 
+
+			 <p class="Body" id="iii.ii.iii-p1">First, <i>He is a lovely Redeemer</i>,<scripRef passage=" Isa. 61:1." id="iii.ii.iii-p1.1" parsed="|Isa|61|1|0|0" osisRef="Bible:Isa.61.1"> Isa. 61:1.</scripRef> He came to open the prison-doors to them that are bound. Needs must this Redeemer be a lovely one, if we consider the depth of misery from which he redeemed us, even "from the wrath to come," <scripRef passage="1 Thess. 1:10" id="iii.ii.iii-p1.2" parsed="|1Thess|1|10|0|0" osisRef="Bible:1Thess.1.10">1 Thess. 1:10</scripRef>. Consider the numbers redeemed, and the means of their redemption. <scripRef passage="Rev. 5:9" id="iii.ii.iii-p1.3" parsed="|Rev|5|9|0|0" osisRef="Bible:Rev.5.9">Rev. 5:9</scripRef>, "And they sang a new song, saying, 'You are worthy to take the book, and to open the seals thereof: for you were slain,
+				and have redeemed us to God by your blood, out of every kindred and tongue, and people and nation.'" He redeemed us not with silver and gold, but with his own precious blood, by way of price, <scripRef passage="1 Pet. i. 18,19." id="iii.ii.iii-p1.4" parsed="|1Pet|1|18|1|19" osisRef="Bible:1Pet.1.18-1Pet.1.19">1 Pet. 1:18,19.</scripRef> with his out-stretched and glorious arm, by way of power, <scripRef passage="Col. 1:13" id="iii.ii.iii-p1.5" parsed="|Col|1|13|0|0" osisRef="Bible:Col.1.13">Col. 1:13</scripRef>. he redeemed us freely, <scripRef passage="Eph. 1:7" id="iii.ii.iii-p1.6" parsed="|Eph|1|7|0|0" osisRef="Bible:Eph.1.7">Eph. 1:7</scripRef>, fully <scripRef passage="Rom. 8:1" id="iii.ii.iii-p1.7" parsed="|Rom|8|1|0|0" osisRef="Bible:Rom.8.1">Rom. 8:1</scripRef>, at the right time, <scripRef passage="Gal. 4:4" id="iii.ii.iii-p1.8" parsed="|Gal|4|4|0|0" osisRef="Bible:Gal.4.4">Gal. 4:4</scripRef>, and out of special and particular love, <scripRef passage="John 17:9" id="iii.ii.iii-p1.9" parsed="|John|17|9|0|0" osisRef="Bible:John.17.9">John 17:9</scripRef>. In a word, he has redeemed us for ever, never more to come into bondage,
+				<scripRef passage="1 Pet. 1:5" id="iii.ii.iii-p1.10" parsed="|1Pet|1|5|0|0" osisRef="Bible:1Pet.1.5">1 Pet. 1:5</scripRef>. <scripRef passage="John 10:28" id="iii.ii.iii-p1.11" parsed="|John|10|28|0|0" osisRef="Bible:John.10.28">John 10:28</scripRef>. O how lovely is Jesus Christ in the relation of a Redeemer to God's elect!</p>
+
+			 <p class="Body" id="iii.ii.iii-p2">Secondly, <i>He is a lovely bridegroom</i> to all that he betroths to himself. How does the church glory in him, in the words following my text; "this is my Beloved, and this is my Friend, O ye daughters of Jerusalem!" Heaven and earth cannot show anyone like him, which needs no fuller proof than the following particulars:</p>
+
+			 <p class="Body" id="iii.ii.iii-p3">1. That he betroths to himself, in mercy and in loving kindness, such deformed, defiled, and altogether unworthy souls as we are. We have no beauty, no goodness to make us desirable in his eyes; all the origins of his love to us are in his own breast,<scripRef passage=" Deut. 7:7." id="iii.ii.iii-p3.1" parsed="|Deut|7|7|0|0" osisRef="Bible:Deut.7.7"> Deut. 7:7.</scripRef> He chooses us, not because we were, but in order that he might make us lovely <scripRef passage="Eph. 5:27" id="iii.ii.iii-p3.2" parsed="|Eph|5|27|0|0" osisRef="Bible:Eph.5.27">Eph. 5:27</scripRef>. He came to us when we lay in our blood, and said unto us, "Live"; and that was the time of love,
+				<scripRef passage="Ezek. 16:6" id="iii.ii.iii-p3.3" parsed="|Ezek|16|6|0|0" osisRef="Bible:Ezek.16.6">Ezek. 16:6</scripRef>.</p>
+
+			 <p class="Body" id="iii.ii.iii-p4">2. He expects no restitution from us, and yet gives himself, and all that he has, to us. Our poverty cannot enrich him, but he made himself poor to enrich us, <scripRef passage="2 Cor. 8:9." id="iii.ii.iii-p4.1" parsed="|2Cor|8|9|0|0" osisRef="Bible:2Cor.8.9">2 Cor. 8:9.</scripRef> <scripRef passage="1 Cor. 3:22" id="iii.ii.iii-p4.2" parsed="|1Cor|3|22|0|0" osisRef="Bible:1Cor.3.22">1 Cor. 3:22</scripRef>.</p>
+
+			 <p class="Body" id="iii.ii.iii-p5">3. No husband loves the wife of his bosom, as much as Christ loved his people,<scripRef passage=" Eph. 5:25." id="iii.ii.iii-p5.1" parsed="|Eph|5|25|0|0" osisRef="Bible:Eph.5.25"> Eph. 5:25.</scripRef> He loved the church and gave him self for it.</p>
+
+			 <p class="Body" id="iii.ii.iii-p6">4. No one bears with weaknesses and provocations as Christ does; the church is called "the Lamb's wife,"<scripRef passage=" Rev. 21:9." id="iii.ii.iii-p6.1" parsed="|Rev|21|9|0|0" osisRef="Bible:Rev.21.9"> Rev. 21:9.</scripRef></p>
+
+			 <p class="Body" id="iii.ii.iii-p7">5. No husband is so undying and everlasting a husband as Christ is; death separates all other relations, but the soul's union with Christ is not dissolved in the grave. Indeed, the day of a believer's death is his marriage day, the day of his fullest enjoyment of Christ. No husband can say to his wife, what Christ says to the believer, "I will never leave you, nor forsake you,"<scripRef passage=" Heb. 13:5." id="iii.ii.iii-p7.1" parsed="|Heb|13|5|0|0" osisRef="Bible:Heb.13.5"> Heb. 13:5.</scripRef></p>
+
+			 <p class="Body" id="iii.ii.iii-p8">6. No bridegroom enriches his bride with such honours by marriage, as Christ does; he makes them related to God as their father, and from that day the mighty and glorious angels think it no dishonour to be their servants,<scripRef passage=" Heb. 1:14." id="iii.ii.iii-p8.1" parsed="|Heb|1|14|0|0" osisRef="Bible:Heb.1.14"> Heb. 1:14.</scripRef> The angels will admire the beauty and glory of the spouse of Christ, <scripRef passage="Rev. 21:9" id="iii.ii.iii-p8.2" parsed="|Rev|21|9|0|0" osisRef="Bible:Rev.21.9">Rev. 21:9</scripRef>.</p>
+
+			 <p class="Body" id="iii.ii.iii-p9">7. No marriage was ever consummated with such triumphal proceedings as the marriage of Christ and believers shall be in heaven,<scripRef passage=" Psalm 45:14,15." id="iii.ii.iii-p9.1" parsed="|Ps|45|14|45|15" osisRef="Bible:Ps.45.14-Ps.45.15"> Psalm 45:14,15.</scripRef> "She shall be brought to the king in raiment of needle-work, the virgins, her companions that follow her, shall be brought unto thee; with gladness and rejoicing shall they be brought; they shall enter into the king's palace." Among the Jews, the marriage-house was called the house of praise; there was joy
+				upon all hands, but nothing like the joy that will be in heaven when believers, the spouse of Christ, shall be brought there. God the Father will rejoice to behold the blessed accomplishment and confirmation of those glorious plans of his love. Jesus Christ, the Bridegroom will rejoice to see the travail of his soul, the blessed birth and product of all his bitter pains and agonies,<scripRef passage=" Isa. 53:11." id="iii.ii.iii-p9.2" parsed="|Isa|53|11|0|0" osisRef="Bible:Isa.53.11"> Isa. 53:11.</scripRef> The Holy Spirit will rejoice to see the completion and perfection of that
+				sanctifying design which was committed to his hand, <scripRef passage="2 Cor. 5:5, " id="iii.ii.iii-p9.3" parsed="|2Cor|5|5|0|0" osisRef="Bible:2Cor.5.5">2 Cor. 5:5, </scripRef>to see those souls whom he once found as rough stones, now to shine as the bright, polished stones of the spiritual temple. Angels will rejoice: great was the joy when the foundation of this design was laid, in the incarnation of Christ, <scripRef passage="Luke 2:13" id="iii.ii.iii-p9.4" parsed="|Luke|2|13|0|0" osisRef="Bible:Luke.2.13">Luke 2:13</scripRef>. Great therefore must their joy be, when the top-stone is set up with shouting, crying, "Grace, grace." The saints themselves shall rejoice unspeakably, when they
+				shall enter into the King's palace, and be forever with the Lord, 1 <scripRef passage="Thes. 4:17." id="iii.ii.iii-p9.5">Thes. 4:17.</scripRef> Indeed there will be joy on all hands, except among the devils and damned, who shall gnash their teeth with envy at the everlasting advancement and glory of believers. Thus Christ is altogether lovely, in the relation of a Bridegroom.</p>
+
+			 <p class="Body" id="iii.ii.iii-p10">Thirdly, <i>Christ is altogether lovely, in the relation of an Advocate</i>. <scripRef passage="1 John 2:1, " id="iii.ii.iii-p10.1" parsed="|1John|2|1|0|0" osisRef="Bible:1John.2.1">1 John 2:1, </scripRef>"If any man sin, we have an advocate with the Father, Jesus Christ the righteous, and he is the Propitiation." It is he that pleads the cause of believers in heaven. He appears for them in the presence of God, to prevent any new alienation, and to continue the state of friendship and peace between God and us. In this relation Christ is altogether lovely. For,</p>
+
+			 <p class="Body" id="iii.ii.iii-p11">1. He makes our cause his own, and acts for us in heaven, as if for himself,<scripRef passage=" Heb. 4:15." id="iii.ii.iii-p11.1" parsed="|Heb|4|15|0|0" osisRef="Bible:Heb.4.15"> Heb. 4:15.</scripRef> He is touched with a most tender understanding of our troubles and dangers, and is not only one with us by way of representation, but also one with us in respect of sympathy and affection.</p>
+
+			 <p class="Body" id="iii.ii.iii-p12">2. Christ our Advocate tracks our cause and business in heaven, as his great and primary design and business. For this reason in<scripRef passage=" Hebrews 7:25." id="iii.ii.iii-p12.1" parsed="|Heb|7|25|0|0" osisRef="Bible:Heb.7.25"> Hebrews 7:25.</scripRef> he is said to "live for ever to make intercession for us." It is as if our concerns were so attended to by him there, that all the glory and honour which is paid him in heaven would not divert him one moment from our business.</p>
+
+			 <p class="Body" id="iii.ii.iii-p13">3. He pleads the cause of believers by his blood. Unlike other advocates, it is not enough for him to lay out only words, which is a cheaper way of pleading; but he pleads for us by the voice of his own blood, as in<scripRef passage=" Heb. 12:24, " id="iii.ii.iii-p13.1" parsed="|Heb|12|24|0|0" osisRef="Bible:Heb.12.24"> Heb. 12:24, </scripRef>where we are said to be come "to the blood of sprinkling, that speaketh better things than that of Abel." Every wound he received for us on earth is a mouth opened to plead with God on our behalf in heaven. And hence it is,
+				that in <scripRef passage="Rev. 5:6" id="iii.ii.iii-p13.2" parsed="|Rev|5|6|0|0" osisRef="Bible:Rev.5.6">Rev. 5:6</scripRef> he is represented standing before God, as a lamb that had been slain; as it were exhibiting and revealing in heaven those deadly wounds received on earth from the justice of God, on our account. Other advocates spend their breath, Christ spends his blood.</p>
+
+			 <p class="Body" id="iii.ii.iii-p14">4. He pleads the cause of believers freely. Other advocates plead for reward, and empty the purses, while they plead the causes of their clients.</p>
+
+			 <p class="Body" id="iii.ii.iii-p15">5. In a word, he obtains for us all the mercies for which he pleads. No cause miscarries in his hand, which he undertakes,<scripRef passage=" Rom. 8:33, 34." id="iii.ii.iii-p15.1" parsed="|Rom|8|33|8|34" osisRef="Bible:Rom.8.33-Rom.8.34"> Rom. 8:33, 34.</scripRef>  what a lovely Advocate is Christ for believers!</p>
+
+			 <p class="Body" id="iii.ii.iii-p16">Fourthly<i>, Christ is altogether lovely in the relation of a friend,</i> for in this relation he is pleased to acknowledge his people,<scripRef passage=" Luke 12:4, 5." id="iii.ii.iii-p16.1" parsed="|Luke|12|4|12|5" osisRef="Bible:Luke.12.4-Luke.12.5"> Luke 12:4, 5.</scripRef> There are certain things in which one friend manifests his affection and friendship to another, but there is not one like Christ. For,</p>
+
+			 <p class="Body" id="iii.ii.iii-p17">1. No friend is so open-hearted to his friend as Christ is to his people: he reveals the very counsels and secrets of his heart to them.<scripRef passage=" John 15:15." id="iii.ii.iii-p17.1" parsed="|John|15|15|0|0" osisRef="Bible:John.15.15"> John 15:15.</scripRef> "Henceforth I call you not servants, for the servant knows not what his Lord does; but I have called you friends; for all things that I have heard of my Father, I have made known unto you.</p>
+
+			 <p class="Body" id="iii.ii.iii-p18">2. No friend in the world is so generous and bountiful to his friend, as Jesus Christ is to believers; he parts with his very blood for them; "Greater love (he says) has no man than this, that a man lay down his life for his friends,"<scripRef passage=" John 15:13." id="iii.ii.iii-p18.1" parsed="|John|15|13|0|0" osisRef="Bible:John.15.13"> John 15:13.</scripRef> He has exhausted the precious treasures of his invaluable blood to pay our debts. O what a lovely friend is Jesus Christ to believers!</p>
+
+			 <p class="Body" id="iii.ii.iii-p19">3. No friend sympathizes so tenderly with his friend in affliction, as Jesus Christ does with his friends: "In all our afflictions he is afflicted,"<scripRef passage=" Heb. 4:15." id="iii.ii.iii-p19.1" parsed="|Heb|4|15|0|0" osisRef="Bible:Heb.4.15"> Heb. 4:15.</scripRef> He feels all our sorrows, needs and burdens as his own. This is why it is said that the sufferings of believers are called the sufferings of Christ, <scripRef passage="Col. 1:24" id="iii.ii.iii-p19.2" parsed="|Col|1|24|0|0" osisRef="Bible:Col.1.24">Col. 1:24</scripRef>.</p>
+
+			 <p class="Body" id="iii.ii.iii-p20">4. No friend in the world takes that
+			 contentment in his friends, as Jesus Christ does in
+			 believers. <scripRef passage="Song of Songs 4:9." id="iii.ii.iii-p20.1" parsed="|Song|4|9|0|0" osisRef="Bible:Song.4.9">Song of Songs 4:9.</scripRef> "You have ravished my heart, (he says to the spouse) you have ravished my heart with one of your eyes, with one chain of your neck." The Hebrew, here rendered "ravished," signifies to puff up, or to make one proud: how the Lord Jesus is pleased to glory in his people! How he is taken and delighted with those gracious ornaments
+				which himself bestows upon them! There is no friend so lovely as Christ.</p>
+
+			 <p class="Body" id="iii.ii.iii-p21">5. No friend in the world loves his friend with as impassioned and strong affection as Jesus Christ loves believers. Jacob loved Rachel, and endured for her sake the parching heat of summer and cold of winter; but Christ endured the storms of the wrath of God, the heat of his indignation, for our sakes. David manifested his love to Absalom, in wishing, "O that I had died for you!" Christ manifested his love to us, not in wishes that he had died, but in death itself, in
+				our stead, and for our sakes.</p>
+
+			 <p class="Body" id="iii.ii.iii-p22">6. No friend in the world is so constant and unchangeable in friendship as Christ is.<scripRef passage=" John 13:1, " id="iii.ii.iii-p22.1" parsed="|John|13|1|0|0" osisRef="Bible:John.13.1"> John 13:1, </scripRef>"Having loved his own which were in the world, he loved them unto the end." He bears with millions of provocations and wrongs, and yet will not break friendship with his people. Peter denied him, yet he will not disown him; but after his resurrection he says, "Go, tell the disciples, and tell Peter." Let him not think he has forfeited by that sin of
+				his, his interest in me. Though he denied me, I will not disown him,<scripRef passage=" Mark 16:7." id="iii.ii.iii-p22.2" parsed="|Mark|16|7|0|0" osisRef="Bible:Mark.16.7"> Mark 16:7.</scripRef>  how lovely is Christ in the relation of a friend!</p>
+
+			 <p class="Body" id="iii.ii.iii-p23">I might further show you the loveliness of Christ in his ordinances and in his providences, in his communion with us and communications to us, but there is no end of the account of Christ's loveliness: I will rather choose to press believers to their duties towards this altogether lovely Christ, which I shall briefly conclude in a few words.</p></div3></div2></div1>
+
+    <div1 title="APPLICATION " n="iv" shorttitle="" progress="83.87%" id="iv" prev="iii.ii.iii" next="v">
+		<h2 id="iv-p0.1">APPLICATION </h2> 
+
+		<p class="Body" id="iv-p1">1. <i>Is Jesus Christ altogether lovely?</i> Then I beseech you set your souls upon this lovely Jesus. I am sure such an object as has been here represented, would compel love from the coldest breast and hardest heart. Away with those empty nothings, away with this vain deceitful world, which deserves not the thousandth part of the love you give it. Let all stand aside and give way to Christ. O if only you knew his worth and excellency, what he is in himself, what he has
+		  done for you, and deserved from you, you would need no arguments of mine to persuade you to love him!</p>
+
+		<p class="Body" id="iv-p2">2. <i>Esteem nothing lovely except as it is enjoyed in Christ, or used for the sake of Christ</i>. Love nothing for itself, love nothing separate from Jesus Christ. In two things we all sin in love of created things. We sin in the excess of our affections, loving them above the proper value of mere created things. We also sin in the inordinacy of our affections, that is to say we give our love for created things a priority it should never have.</p>
+
+		<p class="Body" id="iv-p3">3. <i>Let us all be humbled for the corruption of our hearts</i> that are so eager in their affections for vanities and trifles and so hard to be persuaded to the love of Christ, who is altogether lovely. O how many pour out streams of love and delight upon the vain and empty created thing; while no arguments can draw forth one drop of love from their stubborn and unbelieving hearts to Jesus Christ! I have read of one Joannes Mollius, who was observed to go often alone,
+		  and weep bitterly; and being pressed by a friend to know the cause of his troubles, said "O! it grieves me that I cannot bring this heart of mine to love Jesus Christ more fervently."</p>
+
+		<p class="Body" id="iv-p4">4. <i>Represent Christ to the world as he is, by your behaviour towards him</i>. Is he altogether lovely? Let all the world see and know that he is so, by your delights in him and communion with him; zeal for him, and readiness to part with any other lovely thing upon his account. Proclaim his excellencies to the world, as the spouse did in these verses. Persuade them how much your beloved is better than any other beloved. Show his glorious excellencies as you speak of
+		  him; hold him forth to others, as he is in himself: altogether lovely. See that you "walk worthy of him unto all well pleasing,"<scripRef passage=" Col. 1:10." id="iv-p4.1" parsed="|Col|1|10|0|0" osisRef="Bible:Col.1.10"> Col. 1:10.</scripRef> "Show forth the praises of Christ," <scripRef passage="1 Pet. 2:19" id="iv-p4.2" parsed="|1Pet|2|19|0|0" osisRef="Bible:1Pet.2.19">1 Pet. 2:19</scripRef>. Let not that "worthy name be blasphemed through you," <scripRef passage="James 2:7" id="iv-p4.3" parsed="|Jas|2|7|0|0" osisRef="Bible:Jas.2.7">James 2:7</scripRef>. He is glorious in himself, and he is sure to put glory upon you; take heed that you do not put shame and dishonours upon him; he has committed his honour to you, do not betray that trust.</p>
+
+		<p class="Body" id="iv-p5"><i>Never be ashamed to be counted as a Christian</i>: he is altogether lovely; he can never be a shame to you; it will be your great sin to be ashamed of him. Some men glory in their shame; do not let yourself be ashamed of your glory. If you will be ashamed of Christ now, he will be ashamed of you when he shall appear in his own glory, and the glory of all his holy angels. Be ashamed of nothing but sin; and among other sins, be ashamed especially for this sin, that you
+		  have no more love for him who is altogether lovely.</p>
+
+		<p class="Body" id="iv-p6">6. <i>Be willing to leave every thing that is lovely upon earth</i>, in order that you may be with the altogether lovely Lord Jesus Christ in heaven. Lift up your voices with the bride,<scripRef passage=" Rev. 20:20 " id="iv-p6.1" parsed="|Rev|20|20|0|0" osisRef="Bible:Rev.20.20"> Rev. 20:20 </scripRef>"Come Lord Jesus, come quickly." It is true, you must pass through the pangs of death into his intimacy and enjoyment; but surely it is worth suffering much more than that to be with this lovely Jesus. "The Lord direct your hearts into the love of God, and
+		  the patient waiting for Jesus Christ," <scripRef passage="2 Thes. 3:5." id="iv-p6.2" parsed="|2Thess|3|5|0|0" osisRef="Bible:2Thess.3.5">2 Thes. 3:5.</scripRef></p>
+
+		<p class="Body" id="iv-p7">7. <i>Let the loveliness of Christ draw all men to him</i>. Is loveliness in the creature so attractive? And can the transcendent loveliness of Christ draw none? O the blindness of man! If you see no beauty in Christ that causes you to desire him, it is because the god of this world has blinded your minds.</p>
+
+		<p class="Body" id="iv-p8">8. <i>Strive to be Christ-like, if ever you would be lovely in the eyes of God and man</i>. Certainly, my brethren, it is only the Spirit of Christ within you, and the beauty of Christ upon you, which can make you lovely persons. The more you resemble him in holiness, the more will you show of true excellence and loveliness; and the more frequent and spiritual your communication and communion with Christ is, the more of the beauty and loveliness of Christ will be stamped
+		  upon your spirits, changing you into the same image, from glory to glory. Amen.</p></div1>
+
+    <!-- added reason="AutoIndexing" -->
+    <div1 title="Indexes" id="v" prev="iv" next="v.i">
+      <h1 id="v-p0.1">Indexes</h1>
+
+      <div2 title="Index of Scripture References" id="v.i" prev="v" next="toc">
+        <h2 id="v.i-p0.1">Index of Scripture References</h2>
+        <insertIndex type="scripRef" id="v.i-p0.2" />
+
+<!-- added reason="insertIndex" class="scripRef" -->
+<!-- Start of automatically inserted scripRef index -->
+<div class="Index">
+<p class="bbook">Deuteronomy</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Deut&amp;scrCh=7&amp;scrV=7#iii.ii.iii-p3.1">7:7</a> </p>
+<p class="bbook">Job</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Job&amp;scrCh=4&amp;scrV=21#iii.i-p9.1">4:21</a> </p>
+<p class="bbook">Psalms</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Ps&amp;scrCh=45&amp;scrV=2#ii.i-p9.1">45:2</a>  
+ <a class="TOC" href="?scrBook=Ps&amp;scrCh=45&amp;scrV=2#iii.ii.i-p1.4">45:2</a>  
+ <a class="TOC" href="?scrBook=Ps&amp;scrCh=45&amp;scrV=14#iii.ii.iii-p9.1">45:14-15</a>  
+ <a class="TOC" href="?scrBook=Ps&amp;scrCh=73&amp;scrV=26#iii.i-p5.1">73:26</a> </p>
+<p class="bbook">Proverbs</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Prov&amp;scrCh=8&amp;scrV=11#iii.i-p3.1">8:11</a> </p>
+<p class="bbook">Song of Solomon</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Song&amp;scrCh=4&amp;scrV=9#iii.ii.iii-p20.1">4:9</a>  
+ <a class="TOC" href="?scrBook=Song&amp;scrCh=5&amp;scrV=8#iii.i-p10.1">5:8</a>  
+ <a class="TOC" href="?scrBook=Song&amp;scrCh=5&amp;scrV=16#ii.i-p0.2">5:16</a> </p>
+<p class="bbook">Isaiah</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Isa&amp;scrCh=49&amp;scrV=6#iii.ii.ii-p2.2">49:6</a>  
+ <a class="TOC" href="?scrBook=Isa&amp;scrCh=53&amp;scrV=11#iii.ii.iii-p9.2">53:11</a>  
+ <a class="TOC" href="?scrBook=Isa&amp;scrCh=61&amp;scrV=1#iii.ii.iii-p1.1">61:1</a> </p>
+<p class="bbook">Ezekiel</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Ezek&amp;scrCh=16&amp;scrV=6#iii.ii.iii-p3.3">16:6</a> </p>
+<p class="bbook">Malachi</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Mal&amp;scrCh=4&amp;scrV=2#iii.ii.ii-p4.1">4:2</a> </p>
+<p class="bbook">Mark</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Mark&amp;scrCh=16&amp;scrV=7#iii.ii.iii-p22.2">16:7</a> </p>
+<p class="bbook">Luke</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Luke&amp;scrCh=1&amp;scrV=78#iii.ii.ii-p2.3">1:78</a>  
+ <a class="TOC" href="?scrBook=Luke&amp;scrCh=2&amp;scrV=13#iii.ii.iii-p9.4">2:13</a>  
+ <a class="TOC" href="?scrBook=Luke&amp;scrCh=12&amp;scrV=4#iii.ii.iii-p16.1">12:4-5</a> </p>
+<p class="bbook">John</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=John&amp;scrCh=1&amp;scrV=14#iii.ii.i-p1.1">1:14</a>  
+ <a class="TOC" href="?scrBook=John&amp;scrCh=3&amp;scrV=34#iii.ii.i-p1.3">3:34</a>  
+ <a class="TOC" href="?scrBook=John&amp;scrCh=10&amp;scrV=28#iii.ii.iii-p1.11">10:28</a>  
+ <a class="TOC" href="?scrBook=John&amp;scrCh=13&amp;scrV=1#iii.ii.iii-p22.1">13:1</a>  
+ <a class="TOC" href="?scrBook=John&amp;scrCh=15&amp;scrV=13#iii.ii.iii-p18.1">15:13</a>  
+ <a class="TOC" href="?scrBook=John&amp;scrCh=15&amp;scrV=15#iii.ii.iii-p17.1">15:15</a>  
+ <a class="TOC" href="?scrBook=John&amp;scrCh=17&amp;scrV=9#iii.ii.iii-p1.9">17:9</a> </p>
+<p class="bbook">Acts</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Acts&amp;scrCh=17&amp;scrV=27#iii.ii.ii-p2.1">17:27</a> </p>
+<p class="bbook">Romans</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Rom&amp;scrCh=8&amp;scrV=1#iii.ii.iii-p1.7">8:1</a>  
+ <a class="TOC" href="?scrBook=Rom&amp;scrCh=8&amp;scrV=33#iii.ii.iii-p15.1">8:33-34</a> </p>
+<p class="bbook">1 Corinthians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=1Cor&amp;scrCh=1&amp;scrV=30#iii.i-p4.2">1:30</a>  
+ <a class="TOC" href="?scrBook=1Cor&amp;scrCh=3&amp;scrV=22#iii.ii.iii-p4.2">3:22</a> </p>
+<p class="bbook">2 Corinthians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=2Cor&amp;scrCh=5&amp;scrV=5#iii.ii.iii-p9.3">5:5</a>  
+ <a class="TOC" href="?scrBook=2Cor&amp;scrCh=8&amp;scrV=9#iii.ii.iii-p4.1">8:9</a> </p>
+<p class="bbook">Galatians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Gal&amp;scrCh=4&amp;scrV=4#iii.ii.iii-p1.8">4:4</a> </p>
+<p class="bbook">Ephesians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Eph&amp;scrCh=1&amp;scrV=7#iii.ii.iii-p1.6">1:7</a>  
+ <a class="TOC" href="?scrBook=Eph&amp;scrCh=5&amp;scrV=25#iii.ii.iii-p5.1">5:25</a>  
+ <a class="TOC" href="?scrBook=Eph&amp;scrCh=5&amp;scrV=27#iii.ii.iii-p3.2">5:27</a> </p>
+<p class="bbook">Colossians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Col&amp;scrCh=1&amp;scrV=10#iv-p4.1">1:10</a>  
+ <a class="TOC" href="?scrBook=Col&amp;scrCh=1&amp;scrV=13#iii.ii.iii-p1.5">1:13</a>  
+ <a class="TOC" href="?scrBook=Col&amp;scrCh=1&amp;scrV=17#iii.i-p6.1">1:17</a>  
+ <a class="TOC" href="?scrBook=Col&amp;scrCh=1&amp;scrV=19#iii.i-p4.1">1:19</a>  
+ <a class="TOC" href="?scrBook=Col&amp;scrCh=1&amp;scrV=20#iii.ii.ii-p2.4">1:20</a>  
+ <a class="TOC" href="?scrBook=Col&amp;scrCh=1&amp;scrV=24#iii.ii.iii-p19.2">1:24</a> </p>
+<p class="bbook">1 Thessalonians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=1Thess&amp;scrCh=1&amp;scrV=10#iii.ii.iii-p1.2">1:10</a> </p>
+<p class="bbook">2 Thessalonians</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=2Thess&amp;scrCh=3&amp;scrV=5#iv-p6.2">3:5</a> </p>
+<p class="bbook">1 Timothy</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=1Tim&amp;scrCh=3&amp;scrV=16#iii.ii.i-p1.2">3:16</a> </p>
+<p class="bbook">Hebrews</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=1&amp;scrV=14#iii.ii.iii-p8.1">1:14</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=4&amp;scrV=15#iii.ii.iii-p11.1">4:15</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=4&amp;scrV=15#iii.ii.iii-p19.1">4:15</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=7&amp;scrV=25#iii.ii.ii-p3.1">7:25</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=7&amp;scrV=25#iii.ii.iii-p12.1">7:25</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=12&amp;scrV=24#iii.ii.iii-p13.1">12:24</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=13&amp;scrV=5#iii.ii.iii-p7.1">13:5</a>  
+ <a class="TOC" href="?scrBook=Heb&amp;scrCh=13&amp;scrV=8#iii.i-p9.2">13:8</a> </p>
+<p class="bbook">James</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Jas&amp;scrCh=2&amp;scrV=7#iv-p4.3">2:7</a> </p>
+<p class="bbook">1 Peter</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=1Pet&amp;scrCh=1&amp;scrV=5#iii.ii.iii-p1.10">1:5</a>  
+ <a class="TOC" href="?scrBook=1Pet&amp;scrCh=1&amp;scrV=18#iii.ii.iii-p1.4">1:18-19</a>  
+ <a class="TOC" href="?scrBook=1Pet&amp;scrCh=2&amp;scrV=19#iv-p4.2">2:19</a> </p>
+<p class="bbook">1 John</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=1John&amp;scrCh=2&amp;scrV=1#iii.ii.iii-p10.1">2:1</a> </p>
+<p class="bbook">Revelation</p>
+ <p class="bref">
+ <a class="TOC" href="?scrBook=Rev&amp;scrCh=5&amp;scrV=6#iii.ii.iii-p13.2">5:6</a>  
+ <a class="TOC" href="?scrBook=Rev&amp;scrCh=5&amp;scrV=9#iii.ii.iii-p1.3">5:9</a>  
+ <a class="TOC" href="?scrBook=Rev&amp;scrCh=20&amp;scrV=20#iv-p6.1">20:20</a>  
+ <a class="TOC" href="?scrBook=Rev&amp;scrCh=21&amp;scrV=9#iii.ii.iii-p6.1">21:9</a>  
+ <a class="TOC" href="?scrBook=Rev&amp;scrCh=21&amp;scrV=9#iii.ii.iii-p8.2">21:9</a> </p>
+</div>
+<!-- End of scripRef index -->
+<!-- /added -->
+
+
+      </div2>
+    </div1>
+    <!-- /added -->
+
+  </ThML.body></ThML>

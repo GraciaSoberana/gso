@@ -1,0 +1,69 @@
+---
+publish: true
+type: article
+title: Viendo la gloria de Cristo
+author: "[[John Owen]]"
+parent: "[[La gloria de Cristo (PDG)]]"
+journal: "[[Portavoz de la gracia]]"
+related:
+  - "[[La gloria de Cristo (PDG)]]"
+  - "[[Cristo]]"
+---
+
+Viendo la gloria de Cristo
+
+John Owen (1616-1683)
+
+“Padre, aquellos que me has dado, quiero que donde yo estoy, también ellos estén conmigo, para que vean mi gloria que me has dado” (Juan 17:24).
+
+Uno de los mayores privilegios que tiene el creyente, tanto en este mundo como en la eternidad, es contemplar la gloria de Cristo. Por eso, Cristo ora: Que ellos “vean mi gloria”. Pero este glorioso privilegio no debe limitarse, únicamente, al estado celestial. Incluye el estado de los creyentes en este mundo como mostraré.
+
+Los incrédulos no ven gloria en Cristo. No ven nada atractivo en Él. Lo desprecian en sus corazones. Exteriormente, gritan como Judas: “¡Salve, Maestro!” (Mt. 26:49); pero en sus corazones, lo crucifican. Así, lo despojan de su gloria, niegan al único “Señor que los rescató” (2 P. 2:1) y lo sustituyen por un falso Cristo. Otros piensan poco en Cristo y su gloria, y no ven ninguna utilidad de la persona de Cristo en el cristianismo —¡como si hubiera algo en nuestra religión que tuviera alguna verdad o realidad aparte de Cristo!—.
+
+En los primeros días de la Iglesia, hubo enjambres de enfermos mentales que vomitaron muchas ideas insensatas, culminando, a la larga, en el arrianismo[^1], en cuyas ruinas yacen ahora enterradas. Las puertas del infierno no prevalecieron en ellos contra la roca sobre la que está edificada la Iglesia... [Sin embargo,] muchos se oponen todavía, a la persona y gloria de Cristo, bajo la pretensión de que nada puede ser creído, excepto aquello que la razón puede entender y aceptar. De hecho, la incredulidad en la Trinidad y en la encarnación del Hijo de Dios, el único fundamento del cristianismo, está tan extendida por el mundo que casi ha demolido la vida y el poder del verdadero cristianismo. Y no son pocos, aquellos que no se atreven a dejar que la gente sepa lo que realmente creen, hacen creer a la gente que aman a Jesús, cuando todo el tiempo desdeñan, desprecian y persiguen a los que verdaderamente desean conocer nada más que a “Jesucristo, y a este crucificado” (1 Co. 2:2).
+
+Pero Dios, en su tiempo señalado, vindicará su honor y su gloria de los necios intentos de hombres pecadores que tratan de despojarlo de ambos. Mientras tanto, es deber de todos “los que aman a nuestro Señor Jesucristo con amor inalterable” (Ef. 6:24), testificar de su divina Persona y gloria, según la capacidad que Dios ha dado a cada uno de nosotros; y he escogido hacer esto, no de manera controversial, sino para fortalecer la fe de los verdaderos creyentes, edificarlos en el conocimiento de Cristo y su gloria, y ayudarlos a experimentar lo que tienen o pueden tener, del poder y la realidad de estas cosas.
+
+Lo que pretendo mostrar es que contemplar la gloria de Cristo, es uno de los mayores privilegios de que son capaces los creyentes en este mundo o, incluso, en el venidero. De hecho, al contemplar la gloria de Cristo, los creyentes son, primero, transformados gradualmente a su imagen y, luego, llevados al goce eterno de la misma, pues serán para siempre “semejantes a él, porque le veremos tal como él es” (1 Jn. 3:2; 2 Co. 3:18). De esto dependen nuestras consolaciones presentes y nuestra bienaventuranza futura. Ésta es la vida y la recompensa de nuestras almas (Jn. 14:9; 2 Co. 4:6).
+
+La Escritura nos muestra dos maneras por las cuales podemos contemplar la gloria de Cristo. Podemos contemplarla por la fe en este mundo, siendo “la fe la certeza de lo que se espera, la convicción de lo que no se ve” (He. 11:1), y podemos contemplarla por la vista en el venidero (2 Co. 5:7-8; 1 Co. 13:12).
+
+Cuando Cristo oró “para que vean mi gloria”, se refería a la visión actual a la luz de la gloria eterna porque el Señor Jesús no excluye esa visión de su gloria que podemos tener por fe en este mundo; más bien, ora por la perfección de la misma en el cielo. Así, podemos aprender las siguientes lecciones:
+
+Ningún hombre contemplará jamás la gloria de Cristo por la vista en el cielo si no la contempla por la fe, en alguna medida, en este mundo. La gracia es una preparación necesaria para la gloria, y la fe para la vista. El alma que no es preparada por la gracia y la fe, no es capaz de ver la gloria de Cristo en el cielo. Muchos dirán con confianza que desean estar con Cristo y contemplar su gloria, pero no pueden dar ninguna razón para este deseo, excepto que sería mejor que ir al infierno. Si un hombre dice amar y desear lo que nunca ha visto, se engaña a sí mismo...
+
+Juan escribe, no sólo de sí mismo, sino también de sus compañeros apóstoles: “Vimos su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad” (Jn. 1:14). Ahora, ¿cuál era esa gloria de Cristo que ellos vieron y cómo la vieron? No era la gloria de la condición externa de Cristo porque Él no tenía gloria ni grandeza terrenales. Él no tenía corte, ni entretenía a la gente en fiestas en una gran casa. No tenía donde reclinar la cabeza, aunque Él creó todas las cosas. No había nada en su apariencia externa que atrajera los ojos del mundo (Is. 52:14; 53:2-3). Apareció ante los demás como un “varón de dolores” (Is. 53:3). Tampoco se refería a la gloria esencial eterna de su naturaleza divina, pues esto nadie puede verlo mientras esté en este mundo. No podemos concebir lo que veremos en el cielo.
+
+Lo que los apóstoles presenciaron fue la gloria de “gracia y de verdad” (Jn. 1:14). Vieron la gloria de la persona y el oficio de Cristo en la administración de la gracia y la verdad. ¿Y cómo vieron esta gloria? Por la fe y de ninguna otra manera porque este privilegio sólo se concedió a los que “le recibieron” y “creen en su nombre” (Jn. 1:12). Ésta fue la gloria que vio el Bautista cuando señaló a Cristo y dijo: “He aquí el Cordero de Dios, que quita el pecado del mundo” (Jn. 1:29).
+
+Por tanto, que nadie se engañe a sí mismo. El que no ve la gloria de Cristo aquí, nunca la verá en el más allá. La contemplación de Cristo en gloria es demasiado elevada, gloriosa y maravillosa para nosotros en nuestra condición presente. El esplendor de la gloria de Cristo es demasiado para nuestros ojos físicos, tal como lo es el sol brillando con toda su fuerza. Por lo tanto, mientras estamos aquí en la tierra, sólo podemos contemplar su gloria por la fe.
+
+Muchos eruditos han escrito sobre este futuro estado de gloria eterna. Algunos de sus escritos están llenos de cosas excelentes que no pueden sino conmover las mentes y los corazones de todos los que los leen. Pero muchos se quejan de que tales escritos no les sirven de nada. Son como un hombre que contempla su rostro natural en un espejo y olvida inmediatamente lo que vio (Stg. 1:23-24)… Pero, ¿por qué no les impresionan estos escritos? ¿No será porque su idea de las cosas futuras no ha surgido de una experiencia que sólo la fe da?
+
+De hecho, un alma se turbará en vez de edificarse cuando piense en la gloria futura, si no ha tenido un anticipo, sentido, experiencia o evidencia de estas cosas por la fe. Ningún hombre debe esperar nada en el cielo, si antes no ha tenido por fe, alguna experiencia de ello en esta vida. Si los hombres estuvieran convencidos de esto, dedicarían más tiempo al ejercicio de la fe y del amor por las cosas celestiales de lo que usualmente hacen. En la actualidad, ellos no saben de lo que disfrutan, así que no saben qué esperar. Es por eso que los hombres que son completamente ajenos a ver la persona y la gloria de Cristo por la fe, han recurrido a imágenes, cuadros y música para que les ayuden en su adoración.
+
+Así, es sólo cuando contemplemos la gloria de Cristo por la fe aquí en este mundo que nuestros corazones se sentirán cada vez más atraídos hacia Cristo y hacia el pleno disfrute de la visión de su gloria en el más allá. Es al contemplar la gloria de Cristo por la fe que somos edificados y establecidos espiritualmente en este mundo porque, a medida que contemplamos su gloria; la vida y el poder de la fe se fortalecen cada vez más. Es por la fe que crecemos para amar a Cristo. Por lo tanto, si deseamos una fe fuerte y un amor poderoso que nos den descanso, paz y satisfacción, debemos buscarlos contemplando, diligentemente, la gloria de Cristo por la fe. En este deber, deseo vivir y morir. En la gloria de Cristo quiero fijar todos mis pensamientos y deseos; y cuanto más vea de la gloria de Cristo, tanto más se marchitarán a mis ojos las bellezas pintadas de este mundo y estaré, más y más, crucificado a este mundo. Éste se convertirá para mí, en algo muerto y podrido, imposible de disfrutar...
+
+Contemplando la gloria de Cristo, seremos aptos y estaremos preparados para el cielo. No todos los que quieren ir al cielo son aptos y están preparados para ello. Algunos, no sólo no son dignos y están excluidos de él a causa del pecado no perdonado, sino que no están preparados para ello. Si fueran admitidos, nunca lo disfrutarían. Todos nos consideramos, naturalmente, aptos para la gloria eterna, pero pocos de nosotros tenemos idea de cuán incapaces somos en realidad, debido a que no hemos tenido la experiencia de esa gloria de Cristo que está en el cielo. Los hombres no serán revestidos de gloria, por así decirlo, lo quieran o no. Sólo la recibirán por la fe. Pero el hombre caído es incapaz de creer. La música no puede agradar a un sordo, ni los bellos colores impresionar a un ciego. ¡Un pez no te agradecería que lo sacaras del mar y lo pusieras en tierra firme bajo el sol abrasador! Tampoco un pecador no regenerado agradecería la idea de vivir para siempre en la resplandeciente gloria de Cristo.
+
+Por eso, Pablo da “gracias al Padre que nos hizo aptos para participar de la herencia de los santos en luz” (Col. 1:12). En efecto, los primeros toques de gloria aquí y la plenitud de la gloria en el más allá, se comunican a los creyentes por un acto omnipotente de la voluntad y la gracia de Dios. Sin embargo, Él ha ordenado maneras y medios por los cuales pueden ser hechos aptos para recibir esa plenitud de gloria que todavía les espera, y esa manera y ese medio es contemplar la gloria de Cristo por la fe, como veremos. Saber esto, debe estimularnos a nuestro deber porque toda nuestra gloria presente consiste en prepararnos para la gloria futura.
+
+Al contemplar la gloria de Cristo, seremos transformados “en la misma imagen” (2 Co. 3:18). A medida que avancemos en nuestro estudio, se nos hará más claro cómo es hecho esto y cómo llegamos a ser como Cristo al contemplar su gloria.
+
+Al contemplar la gloria de Cristo por fe, encontraremos descanso para nuestras almas. Nuestras mentes tienden a llenarse de problemas, temores, preocupaciones, peligros, angustias, pasiones desenfrenadas y lujurias. Por esto, nuestros pensamientos están llenos de caos, oscuridad y confusión. Pero cuando el alma está fija en la gloria de Cristo, entonces la mente encuentra descanso y paz porque “ocuparse del espíritu es vida y paz” (Ro. 8:6).
+
+Al contemplar la gloria de Cristo, comenzaremos a experimentar lo que significa ser eternamente bienaventurados. “Así estaremos siempre con el Señor” (1 Ts. 4:17). Estaremos “con Cristo” (Fil. 1:23) que es lo mejor de todo porque allí, veremos su gloria (Jn 17:24). Y viéndole tal como es, seremos hechos semejantes a Él (1 Jn. 3:2). Ésta es nuestra bienaventuranza eterna.
+
+El gozo de Dios por la vista se llama, comúnmente, la “visión beatífica” y es el único motivo para todo lo que hacemos en ese estado de bienaventuranza. No podemos imaginar qué es la visión de Dios y cómo reaccionaremos ante ella. Sin embargo, sabemos esto: Dios, en su inmensa esencia, es invisible a nuestros ojos físicos y lo será en la eternidad, así como siempre será incomprensible para nuestras mentes. Por lo tanto, la visión que tendremos de Dios será siempre “en la faz de Jesucristo” (2 Co. 4:6). En el rostro de Cristo, veremos la gloria de Dios en sus infinitas perfecciones. Estas cosas resplandecerán en nuestras almas llenándonos para siempre de paz, descanso y gloria.
+
+Podemos regocijarnos en estas cosas, aunque no las podamos entender. Podemos hablar de ellas, pero nunca comprenderlas completamente. De hecho, los verdaderos creyentes experimentan una visión previa y un anticipo de esta gloriosa condición. A veces, al leer y meditar en la Biblia, nuestros corazones son llenos de tal sensación de la gloria increada de Dios brillando a través de Jesucristo que experimentamos un gozo inefable. [Así], surge esa “paz de Dios, que sobrepasa todo entendimiento, [que] guardará vuestros corazones y vuestros pensamientos en Cristo Jesús” (Fil. 4:7). “Cristo en vosotros [los creyentes], la esperanza de gloria” (Col. 1:27) les da un anticipo de esa gloria futura. Y si alguien no conoce estas cosas, está ciego y muerto a las cosas espirituales. Es porque los creyentes somos perezosos e ignorantes que no experimentamos cada vez más en nuestras almas, las visitas de la gracia y los albores de la gloria eterna.
+
+Tomado de La gloria de Cristo (The Glory of Christ), ed. R.J.K Law (Edinburgh; Carlisle: The Banner of Truth Trust, 1994), 2-10, www.banneroftruth.org, usado con permiso.
+
+_______________________
+
+John Owen (1616-1683): Pastor bautista congregacional, autor y teólogo inglés; nacido en Stadhampton, Oxfordshire, Reino Unido.
+
+Como los rayos del sol, así es la gloria de Cristo, lo cual no puede decirse de ninguna criatura, que Él tiene la misma gloria que su Padre. —Thomas Goodwin
+
+[^1]: Arrianismo – Movimiento que comenzó con Arrio, obispo de Alejandría (250/56-336 d.C.), quien enseñaba que Dios el Hijo fue creado por Dios el Padre y que, antes de esa fecha, el Hijo no existía. Los testigos de Jehová son los arrianos de la época actual.

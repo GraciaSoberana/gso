@@ -1,0 +1,51 @@
+---
+publish: true
+type: article
+title: Un placer inestimable
+author: "[[Jonathan Edwards]]"
+parent: "[[El Día del Señor]]"
+journal: "[[Portavoz de la gracia]]"
+related:
+  - "[[El Día del Señor]]"
+  - "[[Vida cristiana]]"
+---
+
+Un placer inestimable
+
+Jonathan Edwards (1703-1758)
+
+Seamos _agradecidos_por la institución del día de reposo cristiano. Es algo en lo que Dios ha mostrado su misericordia hacia nosotros y su amor por nuestras almas. Demuestra que, en su sabiduría infinita, tiene planes para nuestro bien. “El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo” (Mr. 2:27). Lo estableció para nuestro provecho y para confortar nuestras almas.
+
+El Día del Señor es un día de _reposo_. Dios estableció que cada séptimo día debemos descansar de todas nuestras labores mundanales. En lugar de eso, podría haber establecido que soportáramos las labores más difíciles o los sufrimientos más profundos. Aunque es un día de reposo exterior, lo es especialmente de carácter _espiritual_. Es un día establecido por Dios para que su pueblo pueda encontrar descanso para su alma, para que las almas de los creyentes descansen y se renueven en su Salvador. Es un día de _regocijo_. Dios lo hizo con el fin de que sea un día gozoso para la Iglesia… Aquellos que reciben y veneran debidamente el día de reposo, lo llaman _delicia_ y _glorioso_ (Is. 58:13-14). Es para ellos un día placentero y alegre; es una imagen del futuro reposo celestial de la Iglesia: “Por tanto, queda un reposo para el pueblo de Dios. Porque el que ha entrado en su reposo, también ha reposado de sus obras, como Dios de las suyas. Procuremos, pues, entrar en aquel reposo” (He. 4:9-11).
+
+El día de reposo cristiano es un de placer inestimable de la Iglesia visible. Cristo mostró su amor por su Iglesia al instituirlo y es [apropiado] que la Iglesia Cristiana se lo agradezca. El nombre mismo de este día: —_El Día del Señor_o _Día de Jesús—_debiera generar apego en el cristiano, dado que indica la relación especial que tiene con Cristo y el propósito del mismo, que es la conmemoración de nuestro querido Salvador y su amor por su Iglesia al redimirla.
+
+Exhorto a todos a santificar este día. Dios ha dado tantas evidencias de que esto es lo que tenía pensando, que pedirá cuentas de los que no lo observen estricta y escrupulosamente. Y si usted así lo observa, reciba este aliento al reflexionar en su conducta: (1) que su observancia no ha sido un asunto de superstición, sino que lo ha hecho siguiendo lo que en su Palabra, Dios ha revelado como su pensamiento y su voluntad en cuanto a lo que usted debe hacer y (2) al hacerlo está en camino a la aceptación y recompensa de Dios.
+
+Los siguientes son los _motivos_para impulsarlo a cumplir con este deber:
+
+**1. Por la observación estricta del Día del Señor, el nombre de Dios es honrado, y esto de una manera muy aceptable para él.** “Si… llamas al día de reposo delicia, al _día_ santo del Señor, honorable, y lo honras,…” (Is. 58:1332). Dios recibe honra por él porque es una manifestación visible de respeto a la Ley santa de Dios y una veneración de aquello que tiene una relación singular con Dios mismo… El que observa el día de reposo con rigor y cuidado, manifiesta un respeto consciente por la declaración de lo que Dios tenía en mente y [esto es] una honra visible ofrecida a su autoridad.
+
+Por la observación estricta del día de reposo, se hace notoria en el mundo la adoración del pueblo de Dios. Si no fuera por él, habría poca expresión pública y visible de servicio, adoración y veneración al Ser supremo e invisible. El día de reposo santo parece haber sido establecido para este fin, o sea para mantener la visibilidad pública [del cristianismo]… Cuanto más estrictamente observamos el día de reposo y cuanta más solemnidad observamos en el cumplimiento de nuestros deberes entre la gente, más grande es la manifestación entre ella de nuestro respeto por el Ser Divino.
+
+Éste debiera ser un motivo poderoso para que observemos el día de reposo. Por sobre todos los demás, debiera ser nuestro propósito honrar y glorificar a Dios. Honrar a su gran Dios y Rey, debiera ser el anhelo supremo de todos los que llevan el nombre de cristianos…
+
+**2. El negocio del Día del Señor es el negocio más grande de nuestra vida, es decir, de nuestra fe cristiana.**Fuimos creados para servir y adorar a Dios y esa es la razón por la que nos dio vida. Los demás negocios de naturaleza secular que tenemos que atender los días de semana, tienen que subordinarse y supeditarse a los propósitos y fines más elevados de nuestra fe cristiana. Por lo tanto, no pensemos que es mucho, dedicar una séptima parte de nuestro tiempo _totalmente_ a este negocio y apartarlo para ocuparnos de los deberes piadosos.
+
+**3. Consideremos que todo nuestro tiempo es de Dios.** Por lo tanto, cuando nos desafía a dedicarle un día de los siete, nos reta a algo que ya es _suyo._No se excede en su derecho, ni se hubiera excedido si nos hubiera exigido que dedicáramos a su servicio exclusivo una proporción mayor de nuestro tiempo. Pero ha tomado en cuenta con misericordia nuestro estado y nuestras necesidades, y así como ha considerado lo que es bueno para nuestra alma al establecer el séptimo día para atender los deberes piadosos, ha tenido en cuenta nuestras necesidades externas y nos ha dado seis días para atender nuestros asuntos externos. ¡Qué desprecio es para Dios negarnos a consagrarle aunque sea el séptimo día!
+
+**4. Así como el Día del Señor es un día apartado especialmente para actividades piadosas, es también un día en que Dios confiere su gracia y bendición de una manera especial.** Así como Dios nos ordenó que lo apartáramos para conversar con él, lo apartó él mismo con el fin de conversar con nosotros. Así como Dios nos ordenó que observáramos el día de reposo, lo observa también él… Sus ojos están sobre él. Se mantiene listo ese día para, de una manera especial, escuchar oraciones, aceptar los cultos de adoración, encontrarse con su pueblo, manifestarse a ellos, darles su Espíritu Santo y bendecir a aquellos que con diligencia y consciencia lo santifican.
+
+El que santifiquemos el Día del Señor, como hemos dicho, es obrar de acuerdo con el día especial que Dios instituyó. Dios, en un sentido, observa lo que él mismo ha instituido, o sea que quiere bendecirlo. Las cosas que Dios instituyó son los medios de gracia y a lo que instituyó prometió su bendición: “en todo lugar donde yo hiciere que esté la memoria de mi nombre, vendré a ti y te bendeciré” (Éx. 20:24). Por la misma razón, llegamos a la conclusión de que Dios se reunirá con su pueblo y lo bendecirá, no sólo en los lugares designados, sino también en tiempos determinados y en todos los días establecidos… Dios, por lo que instituyó, nos ha encargado el deber de apartar este día para buscar su gracia y bendición de manera especial. Por lo tanto, podemos asegurar que estará listo para conferir su gracia especial a los que lo buscan de este modo. Si es el día en que Dios requiere que lo busquemos de una manera especial, podemos estar seguros deque es el día cuando lo encontraremos de una manera especial. El que Dios esté listo en este día para derramar su bendición de una manera especial a los que lo observan como corresponde es lo que implica aquella expresión de que “bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación” (Gn. 2:3)… Por eso, encontramos aquí gran aliento para santificar el día de reposo santo y buscar la gracia de Dios y nuestro bienestar espiritual. El día de reposo es un tiempo aceptado, un día de salvación, un tiempo cuando a Dios le complace que lo busquen y se goza cuando lo encuentran. El Señor Jesucristo se deleita en el día de él; se deleita en honrarlo. Se deleita en encontrarse con sus discípulos y manifestarse a ellos ese día como lo demostró antes de su ascensión cuando se les apareció varias veces justamente este día. Se deleita en dar su Espíritu Santo en este día, como lo demostró al escogerlo como el día para derramar su Espíritu sobre la Iglesia primitiva de una manera maravillosa (Hch. 2:1-4) y en el que dio su Espíritu al apóstol Juan (Ap. 1:10).
+
+En la antigüedad, Dios bendijo el séptimo día o lo estableció para ser un día sobre el cual derramaría bendiciones sobre su pueblo, como una expresión de su propia memoria de ese día y del reposo que había disfrutado en él: “Guardarán, pues, el día de reposo los hijos de Israel… porque en seis días hizo Jehová los cielos y la tierra, y en el séptimo día cesó y reposó” (Éx. 31:16-17).
+
+Cuánta más razón tiene Cristo para bendecir el día de su resurrección y en ese día alegrase en honrarlo y en conferir su gracia y dones santos sobre su pueblo. Fue un día cuando Cristo, literalmente, descansó y se renovó. Fue un día de liberación de las cadenas de la muerte, el día en que consumó esa gran y difícil obra de redención, que había tenido en su corazón desde toda la eternidad, el día en que su Padre lo vindicó, el día del comienzo de su exaltación y del cumplimiento de las promesas del Padre, el día cuando recibió en sus manos la vida eterna que había comprado. En este día, Cristo ciertamente se deleita en repartir dones, bendiciones, gozo y felicidad, y se deleitará de seguir haciéndolo hasta el fin del mundo.
+
+¡Oh, entonces, vale la pena que honremos este día, que clamemos a Dios y busquemos a Jesucristo! Sean conmovidos los pecadores que han sido avivados por estas cosas para dar lo mejor el Día del Señor, consagrándose a andar en el camino del Espíritu de Dios. Reunámonos este día para clamar a Dios porque entonces está cerca. Honrémoslo leyendo las Sagradas Escrituras y escuchando con diligencia la predicación de su Palabra porque es ese el momento más propicio para que el Espíritu lo acompañe. Observen los santos el Día del Señor si es que anhelan crecer en gracia y gozar de la comunión con Cristo.
+
+Tomado de “The Perpetuity and Change of the Sabbath” (La perpetuidad y el cambio del día de reposo) en _The Works of Jonathan Edwards_(Las obras de Jonathan Edwards), Tomo 2, de dominio público.
+
+_______________________
+
+**Jonathan Edwards (1703-1758)**: Predicador y teólogo congregacional estadounidense; nacido en East Windsor, Connecticut Colony, EE.UU.
