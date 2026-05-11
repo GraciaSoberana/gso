@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 355 157" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-122.594,-204.979)">
+        <g id="morfologia-φυτυρο-pasivo" serif:id="morfologia φυτυρο pasivo" transform="matrix(1,0,0,1,0,175)">
+            <g id="text4">
+            </g>
+            <g transform="matrix(1,0,-0.00560429,1,233.357,96.487)">
+                <text x="-111.108px" y="0px" style="font-family:'SBLGreek', 'SBL Greek';font-size:89.2px;">λ<tspan x="-68.773px " y="0px ">υ</tspan></text>
+                <g transform="matrix(89.1997,0,0,89.1997,9.62555,0)">
+                </g>
+                <g transform="matrix(89.1997,0,0,89.1997,52.0912,0)">
+                </g>
+                <text x="-27.526px" y="0px" style="font-family:'SBLGreek', 'SBL Greek';font-size:89.2px;fill:rgb(111,56,116);">θή</text>
+                <text x="52.091px" y="0px" style="font-family:'SBLGreek', 'SBL Greek';font-size:89.2px;fill:rgb(214,132,45);">σ</text>
+                <g transform="matrix(89.1997,0,0,89.1997,247.216,0)">
+                </g>
+                <text x="93.555px" y="0px" style="font-family:'SBLGreek', 'SBL Greek';font-size:89.2px;fill:rgb(76,79,102);">ο<tspan x="129.836px 179.27px " y="0px 0px ">μα</tspan>ι</text>
+            </g>
+            <g id="Capa2">
+                <g transform="matrix(1.44381,0,0,1.44381,-65.1065,-70.5234)">
+                    <text x="141.774px" y="164.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">Raiz</text>
+                    <g transform="matrix(12,0,0,12,170.808,176.407)">
+                    </g>
+                    <text x="137.196px" y="176.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">léxica</text>
+                </g>
+                <g transform="matrix(1.44381,0,0,1.44381,110.893,-72.5938)">
+                    <text x="136.962px" y="164.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">Marca</text>
+                    <g transform="matrix(12,0,0,12,179.358,176.407)">
+                    </g>
+                    <text x="128.646px" y="176.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">tempor<tspan x="168.954px " y="176.407px ">a</tspan>l</text>
+                </g>
+                <g transform="matrix(1.44381,0,0,1.44381,16.7161,-72.5938)">
+                    <text x="127.578px" y="164.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">indicador</text>
+                    <g transform="matrix(12,0,0,12,172.452,176.407)">
+                    </g>
+                    <text x="135.552px" y="176.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">pas<tspan x="155.604px 159.384px 165.576px " y="176.407px 176.407px 176.407px ">ivo</tspan></text>
+                </g>
+                <g transform="matrix(1.44381,0,0,1.44381,204.857,-71.3031)">
+                    <text x="133.5px" y="164.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">Flexión</text>
+                    <g transform="matrix(12,0,0,12,184.176,176.407)">
+                    </g>
+                    <text x="123.828px" y="176.407px" style="font-family:'AtkinsonHyperlegible-Bold', 'Atkinson Hyperlegible';font-weight:700;font-size:12px;">gr<tspan x="135.3px " y="176.407px ">a</tspan>matical</text>
+                </g>
+                <g transform="matrix(1.44381,0,0,1.44381,-122.858,-84.7399)">
+                    <g transform="matrix(0.69261,-0,-0,0.69261,170.003,79.4557)">
+                        <path d="M114.8,111.918L111.406,116.291L108.158,111.808L114.8,111.918Z" style="fill:rgb(137,137,137);"/>
+                        <path d="M131.602,75.864C131.663,108.226 112.656,78.184 111.464,112.749" style="fill:none;stroke:rgb(137,137,137);stroke-width:1.48px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(-1.44381,0,0,1.44381,692.054,-84.7399)">
+                    <g transform="matrix(-0.69261,0,0,0.69261,394.414,79.4557)">
+                        <path d="M215.821,111.787L212.602,116.291L209.18,111.94L215.821,111.787Z" style="fill:rgb(137,137,137);"/>
+                        <path d="M184.406,75.864C184.345,108.226 210.861,78.183 212.521,112.749" style="fill:none;stroke:rgb(137,137,137);stroke-width:1.48px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(-1.44381,0,0,1.44381,778.892,-84.7399)">
+                    <g transform="matrix(-0.69261,0,0,0.69261,454.558,79.4557)">
+                        <path d="M302.805,111.896L299.439,116.291L296.162,111.83L302.805,111.896Z" style="fill:rgb(137,137,137);"/>
+                        <path d="M279.243,82.864C282.078,108.347 299.178,82.145 299.475,112.748" style="fill:none;stroke:rgb(137,137,137);stroke-width:1.48px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1.44381,0,0,1.44381,-193.462,-78.0725)">
+                    <g transform="matrix(0.69261,-0,-0,0.69261,218.903,74.8378)">
+                        <path d="M39.013,120.151L34.796,123.738L32.533,118.686L39.013,120.151Z" style="fill:rgb(137,137,137);"/>
+                        <path d="M65.998,71.532C64.137,107.155 42.59,93.653 35.578,120.282" style="fill:none;stroke:rgb(137,137,137);stroke-width:1.48px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+---
+publish: true
+type: chapter
+title: Devoción, necesidad y caridad
+author: "[[Varios]]"
+parent: "[[Teologia de la Familia]]"
+publisher: "[[Chapel Library]]"
+tags:
+  - resources/Chapel
+link: https://www.chapellibrary.org/spanish
+related:
+  - "[[Ocio]]"
+  - "[[Necesidad de Dios]]"
+  - "[[Necesidad de las Escrituras]]"
+---
+
+Devoción, necesidad y caridad
+
+EZEKIEL HOPKINS (1634-1690)
+
+Cuando nos dedicamos al servicio y a la adoración [a Dios], a meditar en su excelencia, a magnificar y alabar su misericordia y a invocar su nombre santo, es entonces que consagramos este día y damos a Dios lo que es de Dios. De eso se trata santificar el Día del Señor, tal como lo hizo Dios —lo dedicó— y tal como le corresponde hacer al hombre —observarlo. Pero la gran dificultad es determinar de qué manera debe ser santificado y consagrado el Día del Señor. El Día de reposo cristiano, ¿está sujeto o no a la misma observancia estricta y vigorosa de los judíos bajo la economía de Moisés?
+
+A esto respondo en general. Dado que nuestro Día de reposo no es exactamente como el de ellos, sino similar sólo en una proporción apropiada, nuestra santificación del Día del Señor —prefiero llamarlo así, en lugar de Día de reposo— no es, en todos sus detalles, lo mismo que se requería de los judíos. Guarda una proporción que tiene que ver con las cosas que no son ceremoniales ni sonuna carga para nuestra libertad cristiana.
+
+Pero, más específicamente, la santificación de este día consiste, en parte, en abstenerse de las cosas que lo profanarían y, en parte, en el cumplimiento de aquellas prácticas que la Palabra requiere y que tienden a promover su santificación y santidad… A pesar de este reposo y de la cesación del trabajo que se requiere de nosotros en el Día del Señor, sigue habiendo tres tipos de trabajo que podemos y debemos realizar a pesar de la labor física que puede exigir. Y estas son: Obras de _devoción,_obras _necesarias_ y obras de _caridad._
+
+Las obras de devoción deben ser realizadas en el Día del Señor, sí, especialmente en este día, como las obras propias del día. Y éstas, no sólo son las que consisten de operaciones _internas_del alma, como meditaciones celestiales y afectos espirituales, sino también las acciones _externas_ del cuerpo, como orar en voz alta, leer las Escrituras y predicar la Palabra. En este día es que los pastores trabajan con todo su ser, tanto física como espiritualmente, pero dista de ser trabajo que profana el Día del Señor, no porque las obras santas sean las más apropiadas para días santos, sino porque también lo eran en el Día de reposo judío. Y por ende, dice nuestro Salvador: “¿O no habéis leído en la ley, cómo en el día de reposo los sacerdotes en el templo profanan el día de reposo, y son sin culpa?” (Mt. 12:5). Por lo tanto, esto de deshonrar el Día de reposo no se debe interpretar como una profanación formal, como si hubieran estado haciendo lo que era ilícito hacer ese día. [Ésta era] sólo una profanación material o sea que trabajaban mucho matando y despellejando, dividiendo e hirviendo y quemando los sacrificios en el templo. Si no hubieran sido instituidos como parte de la adoración a Dios [hubieran sido] profanaciones del Día de reposo, pero habiendo sido ordenados por Dios, distaban mucho de ser profanaciones de ese día… Por lo que parece que las obras de _devoción_ u obras relacionadas con la piedad pueden ser realizadas lícitamente con la observancia más estricta del Día del Señor.
+
+No sólo se pueden realizar obras de devoción el Día del Señor, sino también obras necesarias y beneficiosas.Éstas son aquellas sin las cuales no podemos subsistir o no subsistir bien. Por lo tanto, podemos apagar un incendio; impidiendo así perjuicios grandes e importantes que pudiera sufrir nuestra persona o nuestras pertenencias… sin ser culpables de haber violado este día. Y no sólo aquellas obras que son absolutamente necesarias, sino también las que son muy beneficiosas pueden ser realizadas en el Día del Señor. Por ejemplo, prender un fuego en la chimenea, preparar alimentos y muchas otras similares, demasiado numerosas para mencionar. Vemos a nuestro Salvador defendiendo a sus discípulos contra la prohibición de los fariseos de arrancar espigas y comerlas el Día de reposo (Mt. 12:1-8). Pero cuidémonos de no dejar para el Día del Señor las cosas que muy bien podemos hacer antes, alegando ese día que tenemos que hacerlas por necesidad o conveniencia porque si la necesidad o la conveniencia la sabíamos con anterioridad, nuestra prudencia y devoción cristiana tendría que haber encontrado la manera de hacerlas antes de este día santo, para poder dedicar todo el día al servicio del Señor con las menores distracciones e impedimentos posibles.
+
+Otro tipo de obras que pueden y deben hacerse el Día del Señor son las obras de caridad y misericordia. Porque, de hecho, este día fue instituido como un memorial de la gran misericordia de Dios hacia nosotros. Por lo tanto, en ese día nos corresponde ser caritativos y misericordiosos: caritativos hacia nuestros prójimos y misericordiosos hacia los animales. Aunque la observancia del día de reposo fue impuesta tan estrictamente a los judíos, les era lícito mostrar misericordia cuando algún pobre animal la necesitaba. Así lo dice Mateo 12:11: “¿Qué hombre habrá de vosotros, que tenga una oveja, y si ésta cayere en un hoyo en día de reposo, no le eche mano, y la levante?”. Y también Lucas 13:15: “Cada uno de vosotros ¿no desata en el día de reposo su buey o su asno del pesebre y lo lleva a beber?”. Por ende, se deben realizar obras de misericordia, aun a los animales mismos, no importa lo que estos requieran. Entonces, ¡cuánto más debemos hacer obras de caridad a nuestros semejantes! Debemos demostrar esta caridad, ya sea a sus almas o sus cuerpos, porque con frecuencia, ambos sufren aflicciones terribles. A sus almas instruyendo, aconsejando, exhortando, reprendiendo y consolando, orando por ellos y, si en algo nos han ofendido, perdonándolos libremente. Ésta es, ciertamente, una obra de caridad apropiada para el Día del Señor, una obra aceptable a Dios y la mejor manera de santificarlo. Tampoco hemos de dejar de hacer ninguna obra de caridad para beneficio de sus cuerpos y de su ser exterior. Sabemos con cuánta severidad nuestro Salvador reprendió la hipocresía supersticiosa de los fariseos quienes murmuraban contra él como violador del día de reposo por haber curado enfermedades ese día: “Hipócrita, cada uno de vosotros ¿no desata en el día de reposo su buey o su asno del pesebre y lo lleva a beber?”. Así les replica nuestro Señor: “Y a esta hija de Abraham, que Satanás había atado dieciocho años, ¿no se le debía desatar de esta ligadura en el día de reposo?” (Lc. 13:14-16)… No cabe duda de que es correcto hacer el bien el Día del Señor y ocuparnos de cualquier tarea y labor que pueda ayudar a salvar una vida, aliviar el dolor o curar las enfermedades de nuestro prójimo… La observancia estricta y puntual del Día del Señor es dar lugar, siempre que lo requiera la necesidad urgente o el bien de nuestro prójimo, porque Dios prefiere la misericordia antes que el sacrificio.
+
+En conclusión, vemos qué reposo requiere de nosotros Dios y qué obras podemos hacer el Día del Señor sin violar la Ley ni profanar el día.
+
+Tomado de “An Exposition of the Ten Commandments” (Una exposición de los Diez Mandamientos”) en _The Works of Ezekiel Hopkins_, Tomo 1, de dominio público.
+
+__________________________________
+
+Ezekiel Hopkins (1634-1690): Pastor y autor anglicano; nacido en Sandford, Devonshire, Inglaterra.

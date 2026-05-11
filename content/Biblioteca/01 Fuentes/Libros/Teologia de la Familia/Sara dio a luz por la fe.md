@@ -1,0 +1,48 @@
+---
+publish: true
+type: chapter
+title: Sara dio a luz por la fe
+author: "[[Varios]]"
+parent: "[[Teologia de la Familia]]"
+publisher: "[[Chapel Library]]"
+tags:
+  - resources/Chapel
+link: https://www.chapellibrary.org/spanish
+---
+
+Sara dio a luz por la fe
+
+ARTHUR W. PINK (1886-1952)
+
+“Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir; y dio a luz aun fuera del tiempo de la edad, porque creyó que era fiel quien lo había prometido”. —Hebreos 11:11
+
+“Por la fe”. Fue “por la fe” que Sara “recibió fuerza” y fue también por la fe que después “dio a luz” a un hijo. Lo que aquí se sugiere es la constancia y perseverancia de su fe. No hubo aborto, ni natural ni provocado; ella confió en Dios hasta el fin. Esto nos trae a un tema del que poco se escribe en estos días: El deber y privilegio de la mujer cristiana de contar con Dios para tener un resultado seguro en el trance más difícil y crítico de su vida. La fe no es para ser practicada sólo en los actos de adoración, sino también en las ocupaciones comunes de nuestras actividades diarias. Hemos de comer y beber por fe, trabajar y dormir por fe; y la esposa cristiana debe traer al mundo a su hijo por fe. El peligro es grande y si hay un caso extremo que necesite fe, mucho más donde la vida misma está involucrada. Trataré de condensar algunos comentarios provechosos del puritano Manton252.
+
+_Primero_, tenemos que ser sensibles a qué _necesidad_ tenemos de poner en práctica la fe en este caso, para que no corramos al peligro con los ojos vendados; y si escapamos, que no pensemos que fue por pura casualidad. Raquel murió en esta condición, igualmente la esposa de Finees (1 S. 4:19-20); existe un gran peligro, entonces hay que ser conscientes de ello. Cuánta más dificultad y peligro haya, más oportunidad hay para demostrar fe (_cf_. 2 Cr. 20:12; 2 Co. 1:9). _Segundo_, porque los dolores de parto son un monumento al odio de Dios por el pecado (Gn. 3:16), con más razón hay que procurar con mayor fervor un interés en Cristo, a fin de contar con el remedio contra el pecado. _Tercero_, meditar en la promesa de 1 Timoteo 2:15, que se cumple eterna o temporalmente según Dios quiera. _Cuarto_, le fe que uno debe practicar tiene que glorificar su poder y someterse a su voluntad. Lo siguiente expresa el tipo de fe que es correcto para todos los favores temporales: “Señor, si tú quieres, puedes salvarme”; esto es suficiente para librar al corazón de mucha tribulación y temor desconcertante.
+
+“Y dio a luz”. Como hemos destacado en el párrafo anterior, esta cláusula fue agregada para mostrar la fe continua de Sara y la bendición de Dios sobre ella. La fe auténtica, no sólo se apropia de su promesa, sino que sigue confiando en la misma hasta que aquello que cree, de hecho, se convierte en realidad. El principio de esto está enunciado en Hebreos 3:14 y Hebreos 10:36. “Retengamos firme”, “hasta el fin nuestra confianza del principio”. Es en este punto que muchos fracasan. Se esfuerzan por apropiarse de una promesa divina, pero durante el periodode prueba, la pierden. Por eso es que Cristo dijo en Mateo 21:21: “si tuviereis fe, y no dudareis”, etc. “no dudareis”, no sólo en el momento de reclamar la promesa, sino durante el tiempo en que se espera su cumplimiento. Por eso también a “Fíate de Jehová de todo tu corazón”, se le agrega “Y no te apoyes en tu propia prudencia” (Pr. 3:5).
+
+“Aun fuera del tiempo de la edad”.Esta cláusula es agregada para enfatizar el milagro que Dios, en su gracia, realizó en respuesta a la fe de Sara. Ensalza la gloria de su poder. Fue escrita para alentarnos. Nos muestra que ninguna dificultad ni obstáculo debe causar que dejemos de creer en la promesa. Dios no se circunscribe al orden de la naturaleza, ni está limitado por ninguna causa secundaria. Revoluciona la naturaleza antes que faltar a su palabra. Hizo brotar agua de una roca, que el hierro flotara (2 R. 6:6) y sustentó a un pueblo de dos millones en un desierto inhóspito. Estas cosas debieran motivar al cristiano a esperar en Dios con una seguridad plena, aun en las peores emergencias. Efectivamente, entre más difíciles sean los obstáculos que enfrentamos, más debiera aumentar nuestra fe. El corazón confiado dice: “Es esta una ocasión apropiada para tener fe; ahora que todas las corrientes humanas se han agotado tengo una oportunidad magnífica para contar con que Dios mostrará su fuerza por mí. ¡Qué hay que él no [pueda] hacer! Hizo que una mujer de noventa años tuviera un hijo —algo muy contrario a la naturaleza— por lo que puedo esperar con seguridad que él hará maravillas también por mí”.
+
+“Porque creyó que era fiel quien lo había prometido”. ¡Aquí está el secreto de toda la cuestión! Aquí estaba la base de la confianza de Sara, el fundamento de su fe. No miraba las promesas de Dios a través de la bruma de obstáculos que se interponían, sino que veía las dificultades y los problemas a través de la clara luz de las promesas de Dios. El acto que aquí se adjudica a Sara es que “creyó” o consideró, acreditó y estimó, que Dios era fiel. Estaba segura de que él cumpliría su palabra sobre la cual cifraba su esperanza. Dios había hablado, Sara había escuchado. A pesar de que todo parecía indicar que era imposible que la promesa se cumpliera en su caso, ella creyó firmemente. Lutero253 bien dijo: “Si va a confiar usted en Dios, tiene que aprender a crucificar la pregunta ‘¿Cómo?’. “Fiel es el que os llama, el cual también lo hará” (1 Ts. 5:24): Esto es suficiente para que crea el corazón; la fe le dejará confiadamente al Omnisciente que él determine cómo cumplirá la promesa.
+
+“Porque creyó que era fiel quien lo había prometido”. Notemos con cuidado que la fe de Sara sobrepasaba la promesa. Mientras que ella pensaba en el objeto prometido, le parecía totalmente increíble, pero cuando dejaba de pensar en todas las causas secundarias y pensaba en Dios mismo, las dificultades ya no la perturbaban: Su corazón estaba seguro en Dios. Sabía que podía depender de él: Él es “fiel”: ¡capaz, dispuesto y seguro de cumplir su Palabra! Sara elevaba su mirada a la promesa del Prometedor y, cuando lo hacía, toda duda desaparecía. Confiaba plenamente en la inmutabilidad254 de Aquel que no puede mentir, sabiendo que cuando se incluye la veracidad divina, la omnipotencia cumple. Es por las meditaciones creyendo en el carácter de Dios que la fe se alimenta y refuerza para esperar la bendición, a pesar de todas las dificultades aparentes y las supuestas imposibilidades. Es la contemplación en las perfecciones de Dios lo que hace que la fe triunfe. Como esto es de tanta importancia vital y práctica, dediquemos otro párrafo a profundizar el tema.
+
+Fijar nuestra mente en las cosas prometidas, tener la expectativa segura de disfrutarlas, sin confiar primero en la veracidad, inmutabilidad y omnipotencia de Dios, no es más que engañarnos a nosotros mismos. Como bien dijo John Owen255: “El objeto formal de la fe en las promesas divinas, no es enfocar en primer lugar a las cosas prometidas, sino a Dios mismo en su excelencia esencial de veracidad o fidelidad y poder”. No obstante, las perfecciones divinas en sí, no obran la fe en nosotros, sino que según el corazón reflexione con fe en los atributos divinos es que “juzgaremos” o llegaremos a la conclusión de que es fiel el que prometió. Es el hombre cuya mente permanece en Dios mismo el que es guardado en “perfecta paz” (Is. 26:3). Es decir, el que reflexiona con gozo en quién y qué es Dios, el que será guardado de dudar y flaquear mientras espera el cumplimiento de la promesa. Tal como fue con Sara es con nosotros, cada promesa de Dios contiene tácitamente esta consideración: “¿Hay para Dios alguna cosa difícil?”(Gn. 18:14)…
+
+“Porque”. Dejemos que nuestro pensamiento final sea sobre la rica recompensa de Dios a Sara por su fe. La palabra: “porque” con que comienza el versículo 12, destaca la consecuente bendición de que ella haya confiado en la fidelidad de Dios en vista de las peores imposibilidades naturales. De su fe nació Isaac y, de él, en última instancia, Cristo mismo. Y esto está consignado para nuestra instrucción. ¿Quién puede estimar los frutos de la fe? ¡Quién puede calcular cuántas vidas se verán afectadas para bien, aun en generaciones todavía por venir, gracias a la fe de usted y la mía hoy! Oh, cuánto debiera este pensamiento conmovernos para clamar con más intensidad: “Señor, aumenta nuestra fe” para alabanza de la gloria de su gracia. Amén.
+
+Tomado de _Studies in the Scriptures_ (Estudios en las Escrituras), a su disposición en inglés en Chapel Library.
+
+__________________________________
+
+**Arthur W. Pink (1886-1952):** Pastor, profesor itinerante de la Biblia, autor de _Studies in the Scriptures_ y numerosos libros; nacido en Nottingham, Inglaterra.
+
+En la propagación de la raza humana, la bendición especial [de Dios] es evidente y, por lo tanto, el nacimiento de cada hijo se considera correctamente como el efecto de la visitación divina. — Martín Lutero
+
+Dios determina el número y el nombre de los hijos de cada persona. — Thomas Boston
+
+[^252]: Thomas Manton (1620-1677) – Predicador puritano no conformista.
+[^253]: Martín Lutero (1483-1546) – Líder alemán de la Reforma Protestante.
+[^254]: Inmutabilidad – “El atributo de Dios por el cual no puede cambiar ni ser cambiado en su esencia ni en sus perfecciones”, Alan Cairns, Dictionary of Theological Terms, rev. ed. (Diccionario de términos teológicos, 224) [Es traducción para esta obra.]
+[^255]: John Owen (1616-1683), An Exposition of the Epistle to the Hebrews (Una exposición de la epístola a los Hebreos) tomo 7, ed. W. H. Goold (Edinburgh: The Banner of Truth Trust), 79.

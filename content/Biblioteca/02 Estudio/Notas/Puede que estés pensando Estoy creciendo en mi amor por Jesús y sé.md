@@ -1,0 +1,24 @@
+---
+publish: true
+type: Reading_note
+date: 2026-04-08
+author: "[[Rob Green]]"
+book: "De Camino Al Matrimonio"
+link: https://readwise.io/to_kindle?action=open&asin=B07ZKZ66X2&location=1301
+related:
+  - "[[Corazón]]"
+theme: myquote
+width: 1000
+height: 1500
+tags:
+  - Biblioteca/Notas
+---
+
+> Puede que estés pensando: Estoy creciendo en mi amor por Jesús y sé que lo que digo sale de mi corazón, pero… ¿da la Biblia alguna herramienta práctica para mejorar mi comunicación?
+> <span class="author"> Rob Green </span><br ><span class="book"> De Camino Al Matrimonio </span>
+
+
+
+<style type="text/css">
+:root {--r-main-font-size: 38px;}
+</style>

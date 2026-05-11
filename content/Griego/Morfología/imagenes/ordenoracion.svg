@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 508 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-22.0082,-91.008)">
+        <g id="orden-oracion" serif:id="orden oracion">
+            <g id="text4">
+                <g transform="matrix(0.853136,0,0,0.853136,38.7155,106.564)">
+                    <text x="-21.74px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;">Nominativo</text>
+                    <g transform="matrix(15,0,0,15,76.0914,25)">
+                    </g>
+                    <text x="22.214px" y="25px" style="font-family:'NotoSans', 'Noto Sans', sans-serif;font-size:15px;">(sujeto)</text>
+                </g>
+                <g transform="matrix(0.853136,0,0,0.853136,176.611,109.564)">
+                    <text x="13.909px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;">V<tspan x="29.272px " y="0px ">e</tspan>rbo</text>
+                </g>
+                <g transform="matrix(0.853136,0,0,0.853136,122.611,108.525)">
+                    <g transform="matrix(24,0,0,24,55.9967,0)">
+                    </g>
+                    <text x="42.309px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;fill:rgb(135,132,157);">+</text>
+                </g>
+                <g transform="matrix(0.853136,0,0,0.853136,229.611,108.525)">
+                    <g transform="matrix(24,0,0,24,55.9967,0)">
+                    </g>
+                    <text x="42.309px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;fill:rgb(135,132,157);">+</text>
+                </g>
+                <g transform="matrix(0.853136,0,0,0.853136,373.611,108.525)">
+                    <g transform="matrix(24,0,0,24,55.9967,0)">
+                    </g>
+                    <text x="42.309px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;fill:rgb(135,132,157);">+</text>
+                </g>
+                <g transform="matrix(0.853136,0,0,0.853136,296.611,106.564)">
+                    <text x="-9.523px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;">Acusativo</text>
+                    <g transform="matrix(15,0,0,15,102.825,25)">
+                    </g>
+                    <text x="-4.519px" y="25px" style="font-family:'NotoSans', 'Noto Sans', sans-serif;font-size:15px;">(comp. dir<tspan x="67.376px " y="25px ">e</tspan>cto)</text>
+                </g>
+                <g transform="matrix(0.853136,0,0,0.853136,436.611,106.564)">
+                    <text x="9.895px" y="0px" style="font-family:'NotoSans-Bold', 'Noto Sans', sans-serif;font-weight:700;font-size:24px;">Dativo</text>
+                    <g transform="matrix(15,0,0,15,109.395,25)">
+                    </g>
+                    <text x="-11.089px" y="25px" style="font-family:'NotoSans', 'Noto Sans', sans-serif;font-size:15px;">(comp. indir<tspan x="73.945px " y="25px ">e</tspan>cto)</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

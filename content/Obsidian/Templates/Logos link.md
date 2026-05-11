@@ -1,0 +1,1 @@
+[Abrir en Logos](logosres:ubs5;ref=Bible.)

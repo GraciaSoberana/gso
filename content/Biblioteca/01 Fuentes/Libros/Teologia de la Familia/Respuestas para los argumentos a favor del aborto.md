@@ -1,0 +1,74 @@
+---
+publish: true
+type: chapter
+title: Respuestas para los argumentos a favor del aborto
+author: "[[Varios]]"
+parent: "[[Teologia de la Familia]]"
+publisher: "[[Chapel Library]]"
+tags:
+  - resources/Chapel
+link: https://www.chapellibrary.org/spanish
+related:
+  - "[[Respuestas a la soberanía de Dios]]"
+---
+
+Respuestas para los argumentos a favor del aborto
+
+JOEL R. BEEKE
+
+¿Cuál es la justificación para el aborto legal? Examinemos los argumentos que usan aquellos que promueven el aborto para determinar cuan fuerte es el fundamento sobre el cual se basa esta práctica.
+
+_El feto no es una vida humana, por lo tanto, es lícito matarlo._ Aunque el feto eventualmente llegará a ser un niño humano, este argumento afirma que aún no lo es. Pero la ciencia indica lo contrario. En primer lugar, las palabras _embrión_ y _feto_ son palabras que vienen del griego y del latín que significan simplemente “alguien que es joven”. Cuando los científicos hablan sobre un embrión humano o un feto, no lo están colocando en la categoría de alguna otra especie, sino que simplemente están empleando terminología técnica para referirse a una etapa de desarrollo, como lo son las palabras _infante_, _niño_, _adolescente_ y _adulto_. Un feto humano es un ser humano joven en el vientre. Es natural y correcto que las madres se refieran al feto como “mi bebé” o que los libros sobre el embarazo se refieran a este como “tu hijo”.
+
+En segundo lugar, desde la concepción, el niño tiene su propio código genético que lo identifica claramente como un _homo sapiens_, parte de la raza humana. El ADN del niño tiene un código distinto al de su madre, lo cual muestra que él o ella no es parte del cuerpo de la madre, sino más bien, un individuo distinto que vive temporalmente dentro de ella.
+
+En tercer lugar, las imágenes que se obtienen por medio de los ultrasonidos302 muestran que, desde una fecha muy temprana en el proceso del desarrollo del embrión, éste adquiere una forma humana reconocible. El niño no es una masa amorfa de tejido, sino un bebé muy complejo, aunque muy pequeño. Tres semanas después de la concepción, el corazón del bebé comienza a latir y a bombear sangre a través del cuerpo. A las seis semanas, las ondas cerebrales del bebé se pueden trazar. Virtualmente, todos los abortos quirúrgicos eliminan un corazón que late y un cerebro que funciona. A las ocho semanas, los brazos, las manos, las piernas y los pies están bien desarrollados y las huellas digitales del niño comienzan a tomar forma. Once semanas después de la concepción, todos los órganos internos del bebé están presentes y funcionan. Al final del primer trimestre, el niño da patadas, da vueltas, abre y cierra sus manos y tiene expresiones faciales.
+
+Según cualquier estándar razonable, un feto humano es un ser humano joven. El matar a un bebé inocente es asesinato. Por esta razón, lo que se obtiene tras un aborto es tan espantoso: Manos, pies, cabezas desmembradas que son envueltas en bolsas y luego se desechan. Conocemos esto de forma intuitiva. La gente puede mirar un pedazo de carne o un muslo de pollo con indiferencia, pero las imágenes de un aborto son horrorosas y nos afligen porque representan a un cuerpo humano desmembrado. Los niños en el vientre son seres humanos valiosos que necesitan nuestra protección.
+
+_El feto no es totalmente humano porque depende de otro ser_. ¿Deja el bebé canguro de ser canguro porque vive en la bolsa marsupial de su madre? Claro que no. El lugar y la situación de un ser humano no cambian la realidad de que él o ella es un ser humano. Los argumentos a favor del aborto que se basan en la dependencia, andan por terreno peligroso. Si el ser dependiente hace que una persona sea menos humana, entonces tendríamos razón para matar a los niños después que están fuera del vientre, a la gente que necesita diálisis, a las personas discapacitadas y a los ancianos. ¿Tenemos el derecho de matar a todas las personas que dependen de los demás?
+
+Consideremos a dos madres que tienen varios meses de embarazo. Un niño nace prematuramente y el otro permanece en el vientre. El primero depende completamente de la intervención médica para sobrevivir y el otro del cuerpo de su madre. ¿Tenemos el derecho de matar al bebé que nació prematuramente? ¿Cómo reaccionaría el hospital si la madre entrara en la sala de neonatos303 con un cuchillo para agredir a su bebé? Si no tenemos derecho de matar a un niño prematuro, ¿entonces por qué se puede matar al niño en el vientre? Ambos dependen de los demás. Ambos son niños. Ambos necesitan protección legal.
+
+_La mujer tiene derecho a hacer lo que quiera con su cuerpo_. Afirmamos la autoridad que la mujer tiene sobre su cuerpo. Pero hay límites sobre lo que es_legítimo_ que hagamos con nuestros cuerpos, lo cual incluye el causar daño a otro ser humano. El aborto implica la muerte del niño. El argumento de que el feto viviente es parte del cuerpo de la madre va en contra de la razón: ¿Cuál es el órgano del cuerpo que este constituye? Cuando late el corazón del niño en el vientre, ¿a quién le pertenece ese corazón? Cuando las ondas cerebrales del feto se pueden trazar, ¿a quién le pertenece ese cerebro? En cada embarazo hay dos personas: La madre y el niño; los derechos de ambos deben considerarse.
+
+Cada vez que nos referimos a los derechos de dos seres humanos, debemos cuidarnos de que la persona que tiene más poder, no tome ventaja sobre la persona más débil. El poderoso tiene la responsabilidad de proteger al más débil. Es la responsabilidad especial de la madre el proteger a su hijo. ¿Tiene alguna madre el derecho de hacer lo que le plazca con sus hijos? Al contrario, ella tiene la responsabilidad de cuidarlos o de asegurarse que otra persona los cuide. Sin duda, la maternidad conlleva sacrificio. Debemos suponer que, cuando sea necesario, los adultos sacrificaran sus recursos y sus libertades para preservar la vida de los niños.
+
+_El sexo y la reproducción son asuntos privados en los cuales no debemos meternos_. Es nuestra convicción que la sexualidad humana es un asunto muy privado: Es una expresión de la intimidad profunda que comparten un esposo y una esposa. Pero el sexo tiene consecuencias muy públicas. La manera en que ejercemos nuestra sexualidad contribuye a que se restrinjan o se propaguen las enfermedades, a que se honre o se viole a la mujer, a que se cuide a los niños o se abuse sexualmente de ellos, a que se fortalezca o se destruya la familia que es el fundamento de la sociedad. Por lo tanto, la sociedad tiene razones muy convincentes para guardar la dignidad del matrimonio, de las mujeres y de los niños en lo que concierne al sexo y la reproducción.
+
+La gente a veces sostiene que la Constitución de los Estados Unidos garantiza el derecho a la privacidad en asuntos sexuales y reproductivos. Lee la Constitución y verás que allí no hay tal derecho. En realidad, la Cuarta Enmienda reconoce el derecho a la protección en contra de “inspecciones e incautaciones que no tengan justificación” sin “mandato judicial”, pero no dice nada sobre la sexualidad, los niños ni el aborto.
+
+Alguien pudiera decir, sarcásticamente: “Yo pensaba que lo que hacía en mi habitación era asunto mío”, pero si existe una causa justificada para pensar que si tú estás asesinando a un niño en tu habitación, entonces se vuelve un asunto en el cual las autoridades deben interceder públicamente. La privacidad no es un derecho moral absoluto. Sin embargo, el matar a un niño es un mal moral absoluto.
+
+El hacer que el aborto sea ilegal obligaría a las mujeres a realizar abortos peligrosos y clandestinos. Los defensores del aborto han usado ampliamente la idea de un aborto que se lleva a cabo rudamente y con el resultado de una madre sangrando y agonizante (y con un niño muerto). Pero la realidad es que el noventa por ciento de los abortos que se llevaron a cabo antes de que éste se legalizara, fueron hechos por doctores en sus clínicas. La idea de que miles de mujeres morían cada año hasta que se legalizó el aborto es un mito. En 1972, treinta y nueve madres murieron por abortos en los Estados Unidos. El American Journal of Obstetrics and Gynecology (Publicación americana de obstetricia304 y ginecología305) del 26 de marzo del 2010 admite que la legalización del aborto no ha “obrado un impacto significativo en el número de mujeres que se mueren como resultado del aborto en los Estados Unidos… el aborto legal es ahora la causa principal de la mortalidad materna en relación con el aborto en los Estados Unidos”.
+
+Cada mujer que muere por un aborto mal hecho es una pérdida trágica, pero también lo es cada niño que muere como resultado de un aborto realizado con éxito. No debiéramos legalizar la matanza de bebés para que los adultos que están implicados los puedan matar de forma más segura. Además, el aborto conlleva riesgos médicos y psicológicos; el hacer que éste sea ilegal, en realidad protegería la vida y la salud de millones de mujeres.
+
+Es mejor morir antes de nacer que vivir como un niño no deseado. En primer lugar, el darle a un ser humano el poder de determinar la vida futura de otro individuo basado en el hecho de que éste es “deseado” o “no deseado” es muy peligroso. ¿Tenemos el derecho de matar a los demás basándonos en el hecho de si queremos a esa persona o no? Tal punto de vista lleva a sociedades muy avanzadas a cometer genocidio306 en contra de aquellos que tienen discapacidades mentales o razas que consideran “inferiores”.
+
+En segundo lugar, ¿es que el niño nunca es deseado por nadie? Hay muchas madres que no querían el embarazo, pero que aman al niño, especialmente después que dan a luz. También hay muchos padres que quieren adoptar a un niño. El afirmar que en la actualidad la madre no desea tener un niño no significa que éste nunca será amado.
+
+En tercer lugar, este argumento tiene implicaciones horribles para los niños ya nacidos que son “indeseados”. Si es mejor matar a un bebé que permitir que nazca sin que nadie lo quiera, ¿qué implica esto sobre los niños que no tienen hogar? ¿Qué implica sobre los niños que sufren abusos por sus padres? ¿Sería una muestra de cariño el matar a estos niños? Claro que no; el amor nos llama a enseñar a sus padres cómo deben cuidarlos o a buscarles una familia adoptiva. De la misma manera, si en realidad la madre no quiere al niño que está en su vientre, deberíamos tratar de ayudarla para que vea a su niño de otra forma o ayudar al niño buscándole padres adoptivos. ¿Sabías que a Steve Jobs307 no lo quiso su madre biológica ni los padres adoptivos que el gobierno escogió originalmente?
+
+En cuarto lugar, ¿qué nos hace pensar que tenemos el derecho de decidir si es mejor que una persona viva o muera? ¿Somos los dueños de la vida de esa persona? ¿Conocemos con certeza el futuro de tal niño? ¿No existen muchísimos niños “no deseados” que en su juventud superan discapacidades físicas y emocionales severas y que actúan como ciudadanos adultos que son útiles? ¿No hay muchas personas que, a pesar de encontrarse en situaciones difíciles, tienen la sabiduría para escoger la vida en lugar del suicidio?
+
+Al fin y al cabo, el argumento sobre el niño “deseado”, aunque parece ser compasivo, en realidad no tiene sentido en absoluto. En el mejor de los casos, es emotivo e ilógico; en el peor de los casos, es una máscara detrás de la cual se esconde un egoísmo mortífero.
+
+_Los defensores de la vida quieren que los demás acepten sus creencias a la fuerza_. En realidad, todos los que participan en el aborto imponen sus convicciones sobre otra persona, a saber, sobre el niño que todavía no ha nacido. Lo hacen con tanta violencia que, de hecho, el resultado es la muerte del niño o de la niña. Si el niño que está dentro del vientre es un ser humano, ¿entonces cómo pueden acusarnos de estar tratando de forzar nuestro punto de vista cuando nuestro objetivo es proteger la vida del niño frente a quien lo quiere asesinar? Si el niño que aún está en el vientre es un ser humano, entonces el aborto es _asesinato_. Si el aborto es asesinato, debemos hacer todo lo que está a nuestro alcance para ponerle fin.
+
+La Declaración de Independencia afirma: “Sostenemos como evidentes estas verdades: Que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados”. En la actualidad, los derechos de algunas personas son más “iguales” que los de otras porque, aparentemente, su “libertad y búsqueda de la felicidad” justifica el que le quiten “la vida” a otros. Este problema perjudica gravemente el fundamento político de nuestra nación, pero si el pueblo ejerce el poder popular de votar para dirigir el gobierno de forma que proteja el derecho que toda persona tiene a la vida, sencillamente están llevando a cabo aquello que la Declaración de Independencia les exige.
+
+Después de haber examinado críticamente estos siete argumentos básicos a favor del aborto, nos preguntamos: ¿podemos con toda honestidad llegar a la conclusión, con base en un fundamento racional y ético, de que el aborto debe ser legal? Estos argumentos son razones débiles para permitir el asesinato de más de un millón de niños al año. Esto es especialmente evidente cuando consideramos que menos de 5% de todos los abortos se llevan a cabo por violación, incesto o porque la vida de la madre está en peligro. Más del 95% de los abortos tienen lugar por el bien de las finanzas, la carrera, por conveniencia personal o por otras razones egoístas. ¿Son estas razones convincentes para acabar con la vida de un ser humano?
+
+Tomado de _Is Abortion Really So Bad?_ (¿Es realmente tan malo el aborto?), disponible en Chapel Library.
+
+__________________________________
+
+**Joel R. Beeke**: Pastor de Heritage Netherlands Reformed Congregation (Congregación Reformada Heritage Netherlands) en Grand Rapids, Michigan; teólogo, autor y presidente del Puritan Reformed Theological Seminary (Seminario Teológico Puritano Reformado), donde es profesor de teología sistemática y homilética.
+
+[^302]: Ultrasonido – Esta tecnología utiliza las ondas sonoras de alta frecuencia para construir una imagen de algún órgano del cuerpo; comúnmente se usa para observar el crecimiento de un feto.
+[^303]: Neonato – Recién nacido.
+[^304]: Obstetricia – La rama de la medicina que trata con el parto y el cuidado de la madre.
+[^305]: Ginecología – La rama de la medicina que trata con las enfermedades y la higiene de la mujer.
+[^306]: Genocidio – La matanza sistemática de personas basada en su etnicidad, religión, etc.
+[^307]: Steve Paul Jobs (1955-2011) – Inventor estadounidense, empresario de computadoras y fundador de Apple, Inc.
