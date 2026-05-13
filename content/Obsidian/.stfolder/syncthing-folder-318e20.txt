@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: pkqiq-pwygd
-created: 2026-05-05T13:45:21-06:00

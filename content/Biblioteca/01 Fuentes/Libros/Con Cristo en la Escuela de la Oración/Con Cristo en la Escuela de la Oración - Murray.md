@@ -1,6 +1,7 @@
 ---
 publish: true
-type: cita
+type: book
+author: "[[John Murray]]"
 mainpassage:
 otherpassages:
 series: "[[Con Cristo en la Escuela de la Oración - Murray]]"

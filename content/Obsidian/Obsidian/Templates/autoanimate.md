@@ -1,1 +1,0 @@
-<!-- .slide: data-auto-animate -->

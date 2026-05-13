@@ -125,7 +125,7 @@ tags:
 
 ### De la justificación
 
-69. [[69. Cuál es la comunión en gracia que 1os miembros de la iglesia invisible tienen con Cristo|¿Cuál es la comunión en gracia que 1os miembros de la iglesia invisible tienen con Cristo?]]
+69. [[69. Cuál es la comunión en gracia que los miembros de la iglesia invisible tienen con Cristo|¿Cuál es la comunión en gracia que 1os miembros de la iglesia invisible tienen con Cristo?]]
 70. [[70. Qué es la justificación|¿Qué es la justificación?]]
 71. [[71. Cómo es la justificación un acto de la libre gracia de Dios|¿Cómo es la justificación un acto de la libre gracia de Dios?]]
 72. [[72. Cómo es la fe que justifica|¿Cómo es la fe que justifica?]]
