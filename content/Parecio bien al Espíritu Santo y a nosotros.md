@@ -85,6 +85,8 @@ El Espíritu Santo es el **agente principal** de la misión. Sin Él, nuestras p
 Ser llenos del Espíritu es lo mismo que **ser gobernados** por la Palabra de Cristo.
 — *John Calvin*
 
+- Ser lleno del Espiritu Santo no es tener mas de el es saber que el tiene mas control de nuestra vida.
+
 > [!BIBLE] Isaías 30:21
 > Entonces tus oídos oirán a tus espaldas palabra que diga: **Este es el camino**, andad por él...
 
