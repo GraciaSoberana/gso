@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # "Pareció Bien al Espíritu Santo... y a Nosotros": El Modelo del Liderazgo Espiritual
 **Hechos 15:22-27**
 

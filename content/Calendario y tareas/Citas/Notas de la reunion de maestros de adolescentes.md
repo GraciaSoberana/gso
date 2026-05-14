@@ -1,3 +1,6 @@
+---
+publish: false
+---
 ### ¿Cómo ocultamos
 - No se enseña
 	- Jorge: Necesitamos morir a nuestras pasiones, porque nuestras pasiones no nos dejan… / 
