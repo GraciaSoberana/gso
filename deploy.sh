@@ -1,14 +1,17 @@
 #!/bin/bash
+set -e
 
 source /home/donquique/.bashrc
 
 echo "Sincronizando contenido..."
+cp -r --no-preserve=mode /home/donquique/Obsidian ./content_tmp
+[ -d content/ ] && chmod -R u+w content/
 rm -rf content/
-cp -r /home/donquique/Obsidian ./content
+mv content_tmp content
 
 echo "Subiendo a GitHub..."
-git add .
-git commit -m "actualización $(date '+%Y-%m-%d %H:%M')"
-git push https://$GITHUB_TOKEN@github.com/GraciaSoberana/gso.git main
+git add content/
+git commit -m "actualización $(date '+%Y-%m-%d %H:%M')" || echo "Nada que commitear."
+git push --force https://$GITHUB_TOKEN@github.com/GraciaSoberana/gso.git main
 
 echo "¡Listo! El sitio se actualizará en unos minutos."

@@ -15,7 +15,11 @@
   min-width: 0;
   max-width: 750px !important;
   margin: 0 auto !important;
-  padding: 2em 2em 0 2em !important;
+  padding: 0  !important;
+}
+ 
+body {
+  margin: 0;
 }
 
 // ── Logo ─────────────────────────────────────────────────────────────────────
@@ -35,6 +39,10 @@
     width: 200px;
     height: 100px;
   }
+}
+
+[saved-theme="dark"] .page-title a::after {
+  background-image: url('/static/logo-dark.png');
 }
 
 // ── Sidebar izquierdo ─────────────────────────────────────────────────────────
@@ -270,6 +278,7 @@ nav.breadcrumb-container {
 article.popover-hint {
   max-width: 750px !important;
   margin: 0 auto !important;
+  padding: 2em !important;
 
 
 
@@ -759,7 +768,7 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
   }
 }
 
-// ── Mobile (< 768px): ocultar ambos sidebars, logo visible arriba ─────────────
+// ── Mobile (< 768px): barra superior ☰ | Logo | 🔍 ──────────────────────────
 
 @media (max-width: 767px) {
   #quartz-body {
@@ -768,52 +777,108 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
     padding: 0 !important;
   }
 
-  // Sidebar izquierdo: convertir en barra de logo compacta
+  // Barra superior fija de 56px: ☰ | Logo | 🔍
   .left.sidebar {
     display: flex !important;
     flex-direction: row !important;
     align-items: center !important;
     width: 100% !important;
     min-width: unset !important;
-    height: auto !important;
-    min-height: 80px !important;
-    position: static !important;
-    padding: 8px 16px !important;
-    border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+    height: 56px !important;
+    min-height: 56px !important;
+    max-height: 56px !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 50 !important;
+    padding: 8px !important;
+    background-color: var(--light) !important;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.15) !important;
     overflow: visible !important;
     gap: 0 !important;
     box-sizing: border-box !important;
-
-    // Ocultar search, darkmode, readermode y explorador
-    .flex-component,
-    .explorer {
-      display: none !important;
-    }
   }
 
-  // Logo: dimensiones para la barra superior
+  // Ocultar spacer
+  .left.sidebar > .mobile-only {
+    display: none !important;
+  }
+
+  // ☰ Hamburger – extremo izquierdo (orden 1)
+  .left.sidebar .explorer {
+    display: flex !important;
+    order: 1 !important;
+    flex: 0 0 44px !important;
+    align-self: center !important;
+    min-height: unset !important;
+    overflow: visible !important;
+    border-top: none !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  // Logo GSO – centrado (orden 2)
   .page-title {
-    display: block !important;
-    flex-shrink: 0;
+    order: 2 !important;
+    flex: 1 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
   }
 
   .page-title a {
-    display: block !important;
+    display: flex !important;
+    justify-content: center !important;
   }
 
   .page-title a::after {
     display: block !important;
-    width: 130px !important;
-    height: 65px !important;
-    margin: 2px 0 !important;
+    width: 110px !important;
+    height: 44px !important;
+    margin: 0 !important;
   }
 
-  // Ocultar sidebar derecho completamente
+  // 🔍 Search – extremo derecho (orden 3, solo icono)
+  .left.sidebar .flex-component {
+    display: flex !important;
+    order: 3 !important;
+    flex: 0 0 44px !important;
+    align-self: center !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    padding: 0 !important;
+    gap: 0 !important;
+
+    div:has(.darkmode),
+    div:has(.readermode) {
+      display: none !important;
+    }
+
+    div:has(.search),
+    .search {
+      flex: 0 0 auto !important;
+      min-width: unset !important;
+      width: auto !important;
+      max-width: none !important;
+    }
+
+    .search-button {
+      padding: 5px !important;
+      border: none !important;
+      height: auto !important;
+      width: auto !important;
+    }
+  }
+
+  // Sidebar derecho – ocultar
   .right.sidebar {
     display: none !important;
   }
 
-  // Centro: ancho completo con padding 16px
+  ol, li {
+    line-height: 1.75em;
+  }
+
+  // Centro: ancho completo con padding 8px
   .center {
     width: 100% !important;
     max-width: 100% !important;
@@ -831,18 +896,15 @@ $icon-cumples:      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
     margin: 0 !important;
   }
 
-  // Título: reducir tamaño para móvil
   .article-title {
     font-size: 1.6em !important;
     letter-spacing: 0.08em !important;
   }
 
-  // Figcaption: eliminar márgenes laterales fijos
   article.popover-hint .figcaption {
     margin: 0 0 2em !important;
   }
 
-  // Caption callout: eliminar márgenes laterales
   .callout[data-callout="caption"] {
     margin: 0 !important;
   }
