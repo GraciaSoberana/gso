@@ -6,3 +6,11 @@ related:
 parent: "[[Iglesias Gracia Soberana]]"
 tags:
 ---
+
+
+
+```dataview
+LIST
+FROM [[]]
+
+```

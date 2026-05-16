@@ -3,7 +3,7 @@ type: conferencia
 date: 2026-05-12
 preacher: 
 related: 
-parent: ""
+parent: "[[El ministerio pastoral en el temor de Dios]]"
 tags:
   - Biblioteca/02 Estudio/Notas/Conferencias
 ---
