@@ -194,6 +194,12 @@ body {
         color: var(--gray);
       }
     }
+
+    // Quartz v4 no genera clases .depth-N en el TOC — usa <ul> anidados.
+    // Si en el futuro Quartz emite esas clases, descomentar:
+    // .depth-2 { padding-left: 0; }
+    // .depth-3 { padding-left: 1em; font-size: 0.95em; opacity: 0.85; }
+    // .depth-4 { padding-left: 2em; font-size: 0.9em;  opacity: 0.7; }
   }
 }
 
@@ -336,11 +342,19 @@ article.popover-hint {
   }
 
   li ol, li ul {
-    margin-top: 1em;
+    margin-top: 0.6em;
+    margin-bottom: 0.3em;
   }
     // ── banner ───────────────────────────────────────────────────────────────
 
-  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5em auto;
+    border-radius: 4px;
+  }
+
   img[alt="banner"] {
     width: 100%;
     height: 200px;
@@ -361,7 +375,30 @@ article.popover-hint {
   table {
     margin: 2em auto 1em;
     border-collapse: collapse;
-    font-size: 0.8em;
+    font-size: 0.95rem;
+    width: 100%;
+    line-height: 1.5;
+
+    th, td {
+      padding: 0.5em 0.75em;
+      border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+      vertical-align: top;
+      text-align: left;
+    }
+
+    th {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 0.85em;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--darkgray);
+      border-bottom: 2px solid rgba(var(--color-primary), 0.4);
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: rgba(128, 128, 128, 0.03);
+    }
   }
 
     // ── estilos personalizados ───────────────────────────────────────────────────────────────
@@ -380,8 +417,8 @@ article.popover-hint {
   }
 
   li {
-    line-height: 1.5;
-    margin-bottom: 0.5em;
+    line-height: 1.75;
+    margin-bottom: 0.6em;
   }
 
   .mysans{
@@ -440,11 +477,33 @@ article.popover-hint {
 
 
 blockquote:not(.callout) {
+  margin: 1.5em 0;
+  padding: 0.75em 1.25em;
+  background-color: rgba(var(--color-primary), 0.04);
+  border-left: 3px solid rgba(var(--color-primary), 0.5);
+  border-radius: 0 4px 4px 0;
+
   p {
-  border-left: 3px solid #4a4a4a !important;
-  margin-left: 20px !important;
-  padding-left: 20px;
-  } 
+    border-left: none !important;
+    margin-left: 0 !important;
+    padding-left: 0;
+    margin-block-end: 0.5em;
+    font-family: "Noto Serif";
+
+    &:last-child {
+      margin-block-end: 0;
+    }
+
+    &:first-child {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.85em;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--darkgray);
+      margin-block-end: 0.5em;
+    }
+  }
 }
 
 
