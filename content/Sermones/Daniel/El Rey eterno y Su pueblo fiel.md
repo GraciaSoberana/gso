@@ -13,6 +13,8 @@ related:
   - "[[Dieta de predicaciones 2026]]"
 files:
   - "[[Daniel height.af]]"
+start: 2026-02-22
+end: 
 ---
 <div class="subtitle">Confiando en la soberanía de Dios en tiempos de incertidumbre</div>
 

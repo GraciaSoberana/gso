@@ -16,7 +16,8 @@ Bienvenido al repositorio de recursos de Quique Villegas, pastor en GSO.
 
 ### Series en curso
 
-- [[El Rey eterno y Su pueblo fiel]]
+- [[Una iglesia formada por el evangelio]]
 - [[La travesía (verde)]]
+- [[La travesía (Rojo)]]
 - [[Curso de membresía]]
 - [[Griego básico|Morfología del griego del NT]]

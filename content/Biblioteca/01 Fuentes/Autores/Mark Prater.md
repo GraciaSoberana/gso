@@ -4,3 +4,8 @@ type: author
 tags:
   - Biblioteca/Autores
 ---
+
+```dataview
+List
+FROM [[]]
+```
