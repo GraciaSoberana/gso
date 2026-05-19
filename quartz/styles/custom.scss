@@ -496,11 +496,10 @@ blockquote:not(.callout) {
 
     &:first-child {
       font-family: 'Inter', sans-serif;
-      font-size: 0.85em;
-      font-weight: 700;
-      text-transform: uppercase;
+      font-size: 0.95em;
+      font-weight: 600;
+      text-transform: none;
       letter-spacing: 0.08em;
-      color: var(--darkgray);
       margin-block-end: 0.5em;
     }
   }
