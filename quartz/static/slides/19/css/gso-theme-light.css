@@ -1,0 +1,361 @@
+/**
+ * GSO Theme Light — Gracia Soberana Orizaba
+ * Para Obsidian Advanced Slides (reveal.js)
+ *
+ * Variante clara del tema GSO (gso-theme.css)
+ *
+ * Colores:
+ *   Fondo:     Gradiente diagonal #dce8f7 → #e8ecf1 (azul claro → gris claro)
+ *   Títulos:   Libre Baskerville Bold, #2d5a96 (azul oscuro)
+ *   Cuerpo:    Montserrat ExtraBold, #1a1f3c (navy)
+ *   Acento:    #4577bb (azul medio)
+ *
+ * Fuentes importadas desde Google Fonts
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Montserrat:wght@800&display=swap');
+
+/* ─── Variables globales reveal.js ─────────────────────────────────────────── */
+:root {
+  --r-background-color: #dce8f7;
+  --r-main-font: 'Montserrat', sans-serif;
+  --r-main-font-size: 42px;
+  --r-main-color: #1a1f3c;
+  --r-heading-font: 'Libre Baskerville', serif;
+  --r-heading-color: #2d5a96;
+  --r-heading-font-weight: 700;
+  --r-heading-text-transform: none;
+  --r-heading-letter-spacing: -0.01em;
+  --r-heading-line-height: 1.2;
+  --r-link-color: #2d5a96;
+  --r-link-color-hover: #4577bb;
+  --r-selection-background-color: #4577bb44;
+  --r-selection-color: #1a1f3c;
+  --r-block-margin: 16px 0;
+
+  /* Azul GSO Light */
+  --gso-gold: #4577bb;
+  --gso-gold-dark: #2d5a96;
+  --gso-gold-light: #6b97cc;
+  --gso-navy: #1a1f3c;
+  --gso-cream: #dce8f7;
+}
+
+/* ─── Fondo base: gradiente diagonal azul claro → gris claro ────────────────── */
+.reveal-viewport {
+  background: linear-gradient(135deg, #dce8f7 0%, #e8ecf1 100%);
+  background-color: #dce8f7;
+}
+
+.reveal {
+  font-family: var(--r-main-font);
+  font-weight: 800;
+  color: var(--r-main-color);
+}
+
+/* ─── Tipografía de encabezados ─────────────────────────────────────────────── */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: var(--r-heading-font);
+  font-weight: 700;
+  color: var(--r-heading-color);
+  text-transform: none;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin: 0 0 0.4em 0;
+}
+
+.reveal h1 { font-size: 2em; }
+.reveal h2 { font-size: 1.5em; }
+.reveal h3 { font-size: 1.2em; }
+
+/* ─── Párrafo y texto general ───────────────────────────────────────────────── */
+.reveal p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  color: #1a1f3c;
+  line-height: 1.5;
+  margin: var(--r-block-margin);
+}
+
+/* ─── Listas ────────────────────────────────────────────────────────────────── */
+.reveal ul,
+.reveal ol {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  color: #1a1f3c;
+  text-align: left;
+  line-height: 1.6;
+  margin: 0.4em 0;
+}
+
+.reveal ul li,
+.reveal ol li {
+  margin-bottom: 0.35em;
+}
+
+/* Bullet azul */
+.reveal ul li::marker {
+  color: var(--gso-gold);
+}
+
+/* ─── Blockquote (versículos y citas) ───────────────────────────────────────── */
+.reveal blockquote {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  font-style: italic;
+  color: #2a3550;
+  background: transparent;
+  border: none;
+  border-left: 4px solid var(--gso-gold);
+  padding: 0.5em 0 0.5em 1em;
+  margin: 0.5em auto;
+  width: 90%;
+  text-align: left;
+  box-shadow: none;
+}
+
+/* ─── Línea separadora ──────────────────────────────────────────────────────── */
+.reveal hr {
+  border: none;
+  border-top: 1px solid var(--gso-gold);
+  opacity: 0.5;
+  margin: 0.6em 0;
+}
+
+/* ─── Links ─────────────────────────────────────────────────────────────────── */
+.reveal a {
+  color: var(--gso-gold-dark);
+  text-decoration: none;
+}
+.reveal a:hover {
+  color: var(--gso-gold);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   CLASES SEMÁNTICAS PARA LOS TEMPLATES GSO
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Logo fijo esquina inferior derecha (en TODAS las slides) ──────────────── */
+/* filter: convierte el SVG blanco al azul oscuro del tema (#2d5a96)            */
+.gso-logo {
+  position: absolute;
+  bottom: 18px;
+  right: 24px;
+  width: 130px;
+  opacity: 0.85;
+  z-index: 100;
+  pointer-events: none;
+  filter: invert(27%) sepia(45%) saturate(700%) hue-rotate(190deg) brightness(88%) contrast(92%);
+}
+
+/* ─── PORTADA ────────────────────────────────────────────────────────────────── */
+.gso-portada-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  padding: 0 8%;
+}
+
+.gso-portada-serie p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 28px;
+  color: var(--gso-gold);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-bottom: 180px;
+}
+
+.gso-portada-titulo p {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  font-size: 110px;
+  color: #1a1f3c;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.gso-portada-subtitulo p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  color: var(--gso-gold-dark);
+  letter-spacing: 0.08em;
+  margin-top: 12px;
+}
+
+.gso-portada-referencia p {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 22px;
+  color: #5a6a85;
+  margin-top: 40px;
+  margin-bottom: 250px;    /* agrega espacio antes del predicador */
+}
+
+.gso-portada-linea {
+  width: 100px;
+  height: 3px;
+  background: var(--gso-gold);
+  margin: 0.6em auto;
+  border-radius: 2px;
+}
+
+/* ─── VERSÍCULO ──────────────────────────────────────────────────────────────── */
+.gso-versiculo-texto p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 98px;
+  color: #1a2540;
+  line-height: 1.65;
+  text-align: center;
+  padding: 0 6%;
+}
+
+.gso-versiculo-referencia p {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 800;
+  font-size: 48px;
+  color: var(--gso-gold-dark);
+  text-align: center;
+  margin-top: 24px;
+  padding-right: 0%;
+  letter-spacing: 0.06em;
+}
+
+.gso-versiculo-linea {
+  width: 240px;
+  height: 2px;
+  background: var(--gso-gold);
+  margin: 0.5em auto;
+  opacity: 0.7;
+}
+
+/* ─── PUNTO PRINCIPAL (H2) ───────────────────────────────────────────────────── */
+.gso-punto-numero {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 180px;
+  color: var(--gso-gold);
+  opacity: 0.25;
+  line-height: 1;
+  margin-bottom: -70px;
+}
+
+.gso-punto-titulo {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  font-size: 140px;
+  color: #1a1f3c;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.gso-punto-decorador {
+  width: 80px;
+  height: 3px;
+  background: var(--gso-gold);
+  margin: 0.5em auto 0;
+  border-radius: 2px;
+}
+
+.gso-punto-referencia p {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 22px;
+  color: #5a6a85;
+  margin-top: 40px;
+  margin-bottom: 120px;    /* agrega espacio antes del predicador */
+}
+
+/* ─── CITA / FRASE ───────────────────────────────────────────────────────────── */
+.gso-cita-comilla {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 220px;
+  color: var(--gso-gold);
+  opacity: 0.35;
+  line-height: 0.8;
+  margin-bottom: -120px;
+  text-align: left;
+}
+
+.gso-cita-texto,
+.gso-cita-texto p {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 82px;
+  color: #1a2540;
+  line-height: 1.65;
+  text-align: center;
+  padding: 0 8%;
+}
+
+.gso-cita-autor p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 22px;
+  color: var(--gso-gold-dark);
+  text-align: center;
+  margin-top: 24px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ─── BULLETS ────────────────────────────────────────────────────────────────── */
+
+.gso-bullets-titulo p {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--gso-gold-dark);
+  text-align: left;
+  padding-left: 6%;
+  margin-bottom: 16px;
+  border-bottom: 1px solid rgba(69,119,187,0.35);
+  padding-bottom: 12px;
+  width: 1600px;
+}
+
+.gso-bullets-titulo {
+  margin-bottom: -50px;
+}
+
+.gso-bullets-lista {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 90px;
+  color: #1a1f3c;
+  text-align: left;
+  padding-left: 8%;
+  line-height: 1.35;
+  margin-top: -50px;
+}
+
+.gso-bullets-lista li {
+  margin-bottom: 10px;
+  padding-left: 10px;
+  line-height: 1.25;
+}
+
+.gso-bullets-lista li::marker {
+  color: var(--gso-gold);
+  content: "▸ ";
+}
+
+/* ─── CSS ADICIONAL ────────────────────────────────────────────────────────────────── */
+
+.small {
+  font-size: 0.55em;
+  font-weight: 500;
+  line-height: 1.2;
+}

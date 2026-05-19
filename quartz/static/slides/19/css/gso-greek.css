@@ -1,0 +1,793 @@
+/* ============================================================================
+   MYGREEK — Tema para Advanced Slides (clases de griego bíblico)
+   Refactor: estructura coherente, mismo look visual.
+
+   Estructura:
+   1. Imports de fuentes
+   2. Tokens (variables CSS)
+   3. Base reveal.js (body, .reveal, selección)
+   4. Tipografía (h1–h6, párrafos, énfasis, listas, blockquote)
+   5. Tablas (genéricas + paradigmas griegos)
+   6. Subtítulos y autores (componentes de portada/cita)
+   7. Componentes de griego (.greek, .gkbig, .gkbigger, .gksmall)
+   8. Listas especiales (.morph, .flexion, .nonelist, .coltitle)
+   9. Utilidades (colores semánticos, tamaños, helpers)
+   10. Callouts
+   11. Print
+   ============================================================================ */
+
+
+/* ============================================================================
+   1. IMPORTS
+   ============================================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+
+
+/* ============================================================================
+   2. TOKENS
+   ============================================================================ */
+:root {
+  /* ---- Tipografías ---- */
+  --font-sans: "Montserrat", sans-serif;
+  --font-serif: "Noto Serif", serif;
+  --font-mono: "Noto Sans Mono", monospace;
+  --font-greek: "Noto Serif", serif;
+
+  /* ---- Paleta general ---- */
+  --color-text: #3b3e53;
+  --color-text-muted: #666666;
+  --color-text-soft: #555555;
+  --color-text-strong: #333333;
+  --color-heading: #305c78;
+  --color-accent: #105e8b;
+  --color-rule: #bbbbbb;
+  --color-border-soft: #cccccc;
+  --color-bg: #ffffff;
+  --color-highlight: #f8e897;
+
+  /* ---- Paleta semántica para griego ---- */
+  /* Estos colores corresponden al sistema didáctico de tus paradigmas: */
+  --gk-color-tense-marker: #105d31;   /* verde — marca temporal (σ, θ) */
+  --gk-color-thematic-vowel: #d35400; /* naranja — vocal temática */
+  --gk-color-ending: #b7950b;         /* amarillo — flexión personal */
+  --gk-color-root: #3b3e53;           /* base — raíz verbal */
+
+  /* ---- Enlaces ---- */
+  --color-link: #2a76dd;
+  --color-link-dark: #1a53a1;
+  --color-link-hover: #6ca0e8;
+  --color-selection-bg: #98bdef;
+  --color-selection-fg: #ffffff;
+
+  /* ---- Escala tipográfica (base = 84px) ---- */
+  --fs-base: 84px;
+  --fs-h1: 1.6em;
+  --fs-h2: 1.2em;
+  --fs-h3: 1em;
+  --fs-h4: 1em;
+  --fs-h5: 0.8em;
+  --fs-h6: 0.6em;
+
+  --fs-xs: 0.5em;
+  --fs-sm: 0.6em;
+  --fs-md: 0.75em;
+  --fs-lg: 0.9em;
+  --fs-xl: 1.2em;
+  --fs-2xl: 1.6em;
+  --fs-greek-sm: 0.6em;
+  --fs-greek-md: 1.8em;
+  --fs-greek-lg: 2.5em;
+
+  /* ---- Letter-spacing (tracking) ---- */
+  --tracking-tight: 0.05em;
+  --tracking-base: 0.25em;
+  --tracking-wide: 0.3em;
+  --tracking-wider: 0.35em;
+  --tracking-widest: 0.5em;
+
+  /* ---- Line-height ---- */
+  --lh-tight: 1.2;
+  --lh-base: 1.5;
+  --lh-loose: 1.8;
+  --lh-heading: 2;
+
+  /* ---- Espaciado ---- */
+  --space-block: 0px;
+  --space-heading: 0 0 20px 0;
+  --space-callout-x: 150px;
+  --space-list-x: 120px;
+
+  /* ---- Fondos ---- */
+  --bg-image: url("newbackground.png");
+
+  /* ============== Compatibilidad con reveal.js ============== */
+  /* Reveal espera estos nombres; los mapeamos a nuestros tokens. */
+  --r-background-color: var(--color-bg);
+  --r-main-font: var(--font-sans);
+  --r-main-font-size: var(--fs-base);
+  --r-main-color: var(--color-text);
+  --r-block-margin: var(--space-block);
+  --r-heading-margin: var(--space-heading);
+  --r-heading-font: var(--font-sans);
+  --r-heading-color: var(--color-heading);
+  --r-heading-line-height: var(--lh-heading);
+  --r-heading-letter-spacing: 12px;
+  --r-heading-text-transform: uppercase;
+  --r-heading-text-shadow: none;
+  --r-heading1-font-weight: 800;
+  --r-heading2-font-weight: 800;
+  --r-heading3-font-weight: 800;
+  --r-heading4-font-weight: 800;
+  --r-heading5-font-weight: 800;
+  --r-heading6-font-weight: 800;
+  --r-heading1-text-shadow: none;
+  --r-heading1-size: var(--fs-h1);
+  --r-heading2-size: var(--fs-h2);
+  --r-heading3-size: var(--fs-h3);
+  --r-heading4-size: var(--fs-h4);
+  --r-heading5-size: var(--fs-h5);
+  --r-heading6-size: var(--fs-h6);
+  --r-code-font: var(--font-mono);
+  --r-link-color: var(--color-link);
+  --r-link-color-dark: var(--color-link-dark);
+  --r-link-color-hover: var(--color-link-hover);
+  --r-selection-background-color: var(--color-selection-bg);
+  --r-selection-color: var(--color-selection-fg);
+}
+
+
+/* ============================================================================
+   3. BASE REVEAL.JS
+   ============================================================================ */
+body {
+  background: var(--color-bg);
+  background-image: var(--bg-image);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left !important;
+  border-radius: 0 !important;
+}
+
+.reveal {
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  font-weight: normal;
+  color: var(--color-text);
+  background: var(--color-bg) !important;
+  background-image: var(--bg-image) !important;
+}
+
+.reveal ::selection,
+.reveal ::-moz-selection {
+  color: var(--color-selection-fg);
+  background: var(--color-selection-bg);
+  text-shadow: none;
+}
+
+.reveal .slides section,
+.reveal .slides section > section {
+  line-height: 1.3;
+  font-weight: inherit;
+}
+
+.reveal .slides > section.drop {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 100%;
+}
+
+.reveal .slides p {
+  text-align: left;
+}
+
+
+/* ============================================================================
+   4. TIPOGRAFÍA
+   ============================================================================ */
+
+/* ---- Headings genéricos (base compartida) ---- */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: var(--space-heading);
+  line-height: var(--lh-heading);
+  text-shadow: none;
+  word-wrap: break-word;
+}
+
+.reveal h1:last-child,
+.reveal h2:last-child,
+.reveal h3:last-child,
+.reveal h4:last-child,
+.reveal h5:last-child,
+.reveal h6:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- H1 ---- */
+.reveal h1 {
+  font-family: var(--font-serif);
+  font-size: var(--fs-h1);
+  font-weight: 800;
+  color: var(--color-text-strong);
+  letter-spacing: var(--tracking-base);
+  text-transform: uppercase;
+  text-align: left;
+}
+
+/* ---- H2 ---- */
+.reveal h2 {
+  font-family: var(--font-serif);
+  font-size: var(--fs-h2);
+  font-weight: 800;
+  color: var(--color-text-strong);
+  letter-spacing: 14px;
+  text-transform: uppercase;
+}
+
+/* ---- H3 / H6 (estilo "etiqueta" centrada) ---- */
+.reveal h3,
+.reveal h6 {
+  font-family: var(--font-sans);
+  color: var(--color-heading);
+  letter-spacing: 12px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 800;
+}
+
+.reveal h3 { font-size: var(--fs-h3); }
+.reveal h6 { font-size: var(--fs-h6); }
+
+/* ---- H4 / H5 (estilo "subtítulo en cursiva") ---- */
+.reveal h4,
+.reveal h5 {
+  font-family: var(--font-serif);
+  font-size: 1em;
+  font-weight: 700;
+  font-style: italic;
+  color: var(--color-text-soft);
+  text-transform: none;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.reveal h5 { font-size: var(--fs-h5); }
+
+/* ---- Párrafos ---- */
+.reveal p {
+  margin: var(--space-block) 0 40px;
+  line-height: var(--lh-base);
+}
+
+/* ---- Énfasis ---- */
+.reveal strong,
+.reveal b { font-weight: bold; }
+
+.reveal em { font-style: italic; }
+
+.reveal q { font-style: italic; }
+
+.reveal sup { vertical-align: super; font-size: smaller; }
+.reveal sub { vertical-align: sub; font-size: smaller; }
+
+/* ---- Small (etiquetas tipo "1S", "2P" en tablas) ---- */
+.reveal small {
+  display: inline-block;
+  font-size: 0.6em;
+  line-height: 1.2em;
+  vertical-align: top;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.reveal small * { vertical-align: top; }
+
+/* ---- Resaltado ==texto== ---- */
+mark {
+  background-color: var(--color-highlight);
+}
+
+/* ---- Listas ---- */
+.reveal ol,
+.reveal ul,
+.reveal dl {
+  display: block;
+  text-align: left;
+  margin: 0 0 0 1em;
+  min-height: max-content;
+}
+
+.reveal ol { list-style-type: decimal; }
+.reveal ul ul { list-style-type: square; }
+.reveal ul ul ul { list-style-type: circle; }
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
+  display: block;
+  margin-left: 40px;
+}
+
+.reveal dt { font-weight: bold; }
+.reveal dd { margin-left: 40px; }
+
+ul,
+ol { max-width: 70%; }
+
+li { margin: 0 0 40px; }
+
+/* ---- Blockquote ---- */
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 85%;
+  margin: var(--space-block) auto;
+  padding: 5px;
+  font-weight: 400;
+  background: rgba(255, 255, 255, 0.05);
+  text-align: left;
+  border-left: 15px solid var(--color-text-soft);
+}
+
+.reveal blockquote p {
+  margin: 20px 60px 5px 40px;
+  line-height: var(--lh-base);
+}
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child {
+  display: inline-block;
+}
+
+/* ---- Enlaces ---- */
+.reveal a {
+  color: var(--color-link);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.reveal a:hover {
+  color: var(--color-link-hover);
+  text-shadow: none;
+  border: none;
+}
+
+.reveal .roll span:after {
+  color: #fff;
+  background: var(--color-link-dark);
+}
+
+/* ---- Imágenes y media ---- */
+img { text-align: left; }
+
+.reveal img { margin: var(--space-block) 0; }
+
+.reveal video,
+.reveal iframe {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.reveal .r-frame {
+  border: 4px solid var(--color-text);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.reveal a .r-frame { transition: all 0.15s linear; }
+
+.reveal a:hover .r-frame {
+  border-color: var(--color-link);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+}
+
+/* ---- Código ---- */
+.reveal pre {
+  display: block;
+  position: relative;
+  width: 90%;
+  margin: var(--space-block) auto;
+  text-align: left;
+  font-size: 0.55em;
+  font-family: var(--font-mono);
+  line-height: 1.2em;
+  word-wrap: break-word;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.reveal code {
+  font-family: var(--font-mono);
+  text-transform: none;
+  tab-size: 2;
+}
+
+.reveal pre code {
+  display: block;
+  padding: 5px;
+  overflow: auto;
+  max-height: 400px;
+  word-wrap: normal;
+}
+
+.reveal .code-wrapper { white-space: normal; }
+.reveal .code-wrapper code { white-space: pre; }
+
+.reveal .hljs { min-height: 50%; }
+
+/* ---- Reveal controls / progress ---- */
+.reveal .controls { color: var(--color-link) !important; }
+
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: var(--color-link);
+}
+
+/* ---- HR ---- */
+hr.solid { border-top: 3px solid var(--color-rule); }
+
+/* ---- Reset de divs anidados ---- */
+section div {
+  border: none;
+  padding: 0;
+}
+
+/* ---- Tarjetas claras ---- */
+div.has-light-background {
+  border-radius: 25px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+
+/* ============================================================================
+   5. TABLAS
+   ============================================================================ */
+.reveal table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.reveal table th { font-weight: bold; }
+
+.reveal table th,
+.reveal table td {
+  text-align: left;
+  padding: 0.2em 0.5em;
+  border-bottom: 1px solid;
+}
+
+.reveal table th[align="center"],
+.reveal table td[align="center"] { text-align: center; }
+
+.reveal table th[align="right"],
+.reveal table td[align="right"] { text-align: right; }
+
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td { border-bottom: none; }
+
+thead { font-size: 0.5em; }
+
+tbody tr td .small  { font-size: 0.5em; }
+tbody tr td .medium { font-size: 0.75em; font-weight: 500; }
+
+/* ---- Interlinear (sin bordes en thead) ---- */
+.interlinear table thead {
+  border: none;
+  border-image-width: 0;
+}
+
+
+/* ============================================================================
+   6. SUBTÍTULOS Y AUTORES (componentes de portada / cita)
+   ============================================================================ */
+
+/* ---- Autor (cita bíblica) ---- */
+.author,
+.authornb {
+  color: var(--color-accent);
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: var(--lh-heading);
+  padding-top: 0.5em;
+  font-size: 0.65em;
+  letter-spacing: var(--tracking-wide);
+}
+
+.authornb {
+  font-size: 0.75em;
+  letter-spacing: var(--tracking-wider);
+}
+
+/* ---- Libro ---- */
+.book {
+  font-size: var(--fs-sm);
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 4px;
+  display: block;
+}
+
+/* ---- Subtítulos (escala: subtitle → subtitlebig → subtitlebigger → hugesubtitle) ---- */
+.subtitle,
+.subtitlebig,
+.subtitlebigger,
+.hugesubtitle {
+  font-family: var(--font-sans);
+  display: block;
+  text-transform: uppercase;
+  color: var(--color-heading);
+  margin: 0 !important;
+}
+
+.subtitle {
+  font-size: 0.25em;
+  font-weight: 800;
+  letter-spacing: var(--tracking-widest);
+}
+
+.subtitlebig {
+  font-size: 0.5em;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+}
+
+.subtitlebigger {
+  font-size: 1em;
+  font-weight: 800;
+  letter-spacing: var(--tracking-widest);
+}
+
+.hugesubtitle {
+  font-size: 1.1em;
+  font-weight: 700;
+  letter-spacing: 16px;
+}
+
+/* ---- Subtítulo alterno (cursiva, color suave) ---- */
+.subtitlealt {
+  font-size: 0.7em;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-style: italic;
+  color: var(--color-text-muted);
+  display: block;
+}
+
+/* ---- Mini-subtítulo (decorativo) ---- */
+.minisubtitle {
+  font-size: 1.5em;
+  /* Nota: 'Autography' debe estar instalada o importada por separado;
+     si no está disponible, hace fallback al serif. */
+  font-family: "Autography", var(--font-serif);
+  font-style: normal;
+  display: block;
+}
+
+/* ---- Título grande (portada de unidad) ---- */
+.title {
+  font-size: 2.2em;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  margin: var(--space-heading);
+  color: var(--color-text-strong);
+  line-height: var(--lh-heading);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  text-shadow: none;
+  word-wrap: break-word;
+}
+
+/* ---- Decoración (cursiva con line-height amplio) ---- */
+.decoration {
+  font-style: italic;
+  line-height: 2.2;
+}
+
+
+/* ============================================================================
+   7. COMPONENTES DE GRIEGO
+   ============================================================================ */
+
+/* ---- Texto griego en línea (escala) ---- */
+.greek    { font-size: 200%; }
+
+.gkbigger {
+  font-family: var(--font-greek);
+  font-size: var(--fs-greek-lg);
+  font-weight: 600;
+}
+
+.gkbig {
+  font-family: var(--font-greek);
+  font-size: var(--fs-greek-md);
+  font-weight: 600;
+}
+
+.gksmall {
+  /* Si quieres una fuente didáctica específica para griego pequeño,
+     impórtala arriba. Por defecto usa serif. */
+  font-family: var(--font-greek);
+  font-size: var(--fs-greek-sm);
+  line-height: 1.2em;
+}
+
+/* ---- Sans pequeño (glosas, notas técnicas) ---- */
+.mysans {
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--color-text-muted);
+  font-size: 80%;
+}
+
+
+/* ============================================================================
+   8. LISTAS ESPECIALES
+   ============================================================================ */
+
+/* ---- Análisis morfológico (.morph)
+   Cada <li> recibe automáticamente una etiqueta antes del contenido:
+   1. T.Pal (tipo de palabra)
+   2. F.Lex (forma léxica)
+   3. Tiemp, 4. Voz, 5. Modo, 6. Perso, 7. Géne, 8. Caso, 9. Númer
+   ---- */
+.morph {
+  list-style: none;
+  padding: 0;
+  margin: 0 var(--space-list-x);
+  font-family: var(--font-mono);
+}
+
+.morph li {
+  border-bottom: 1px solid var(--color-border-soft);
+  padding: 10px;
+  font-family: var(--font-mono);
+  font-size: 0.4em;
+  line-height: 0.3;
+}
+
+.morph li:last-child { border-bottom: none; }
+
+.morph li:nth-child(1)::before { content: "T.Pal:  "; font-weight: bold; }
+.morph li:nth-child(2)::before { content: "F.Lex:  "; font-weight: bold; }
+.morph li:nth-child(3)::before { content: "Tiemp:  "; font-weight: bold; }
+.morph li:nth-child(4)::before { content: "Voz- :    "; font-weight: bold; }
+.morph li:nth-child(5)::before { content: "Modo  :     "; font-weight: bold; }
+.morph li:nth-child(6)::before { content: "Perso: "; font-weight: bold; }
+.morph li:nth-child(7)::before { content: "Géne :  "; font-weight: bold; }
+.morph li:nth-child(8)::before { content: "Caso  :  "; font-weight: bold; }
+.morph li:nth-child(9)::before { content: "Númer:  "; font-weight: bold; }
+
+/* ---- Flexión verbal (.flexion)
+   Cada <li> recibe etiqueta 1S, 2S, 3S, 1P, 2P, 3P. ---- */
+.flexion {
+  list-style: none;
+  padding: 0;
+  margin: 0 var(--space-list-x);
+}
+
+.flexion li {
+  border-bottom: 1px solid var(--color-border-soft);
+  padding: 10px;
+  font-size: 1.1em;
+  line-height: 1;
+}
+
+.flexion li:last-child { border-bottom: none; }
+
+.flexion li::before {
+  font-weight: bold;
+  font-size: 0.75em;
+}
+
+.flexion li:nth-child(1)::before { content: "1S: "; }
+.flexion li:nth-child(2)::before { content: "2S: "; }
+.flexion li:nth-child(3)::before { content: "3S: "; }
+.flexion li:nth-child(4)::before { content: "1P: "; }
+.flexion li:nth-child(5)::before { content: "2P: "; }
+.flexion li:nth-child(6)::before { content: "3P: "; }
+
+/* ---- Lista sin viñetas ---- */
+.nonelist li {
+  list-style: none;
+  padding: 0;
+}
+
+.nonelist ul {
+  margin: 0;
+  padding: 0 !important;
+  padding-inline-start: 0 !important;
+}
+
+/* ---- Título de columna (lista) ---- */
+.coltitle li {
+  list-style: none;
+  padding: 0;
+  font-size: 0.6em;
+  line-height: 2.25em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+/* ============================================================================
+   9. UTILIDADES
+   ============================================================================ */
+
+/* ---- Tamaños ---- */
+.smallb {
+  font-size: 0.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* ---- Color invisible (placeholder) ---- */
+.invisible { color: #aaa; }
+
+/* ---- Colores semánticos para análisis morfológico ----
+   Úsalas como alternativa a <font color="..."> en las tablas de paradigmas.
+   Ejemplo:
+     λύ<span class="vt">ω</span><span class="end">μεν</span>
+*/
+.gk-root      { color: var(--gk-color-root); }
+.gk-mt,
+.tense-marker { color: var(--gk-color-tense-marker); }   /* marca temporal (σ, θ) */
+.gk-vt,
+.thematic     { color: var(--gk-color-thematic-vowel); } /* vocal temática */
+.gk-end,
+.ending       { color: var(--gk-color-ending); }         /* flexión personal */
+
+
+/* ============================================================================
+   10. CALLOUTS
+   ============================================================================ */
+.callout {
+  margin: 0 var(--space-callout-x) !important;
+}
+
+.callout[data-callout="idea"] {
+  --callout-color: 206, 152, 3; /* dorado cálido */
+  --callout-icon: alert;
+  font-family: 'Inter', var(--font-sans);
+  font-size: 90%;
+  border-radius: 6px;
+  padding: 0.75em;
+}
+
+.reveal .callout-title p,
+.reveal .callout-content p {
+  margin: var(--space-block) 10px;
+  line-height: var(--lh-base);
+  font-family: var(--font-sans);
+  text-align: left;
+}
+
+
+/* ============================================================================
+   11. PRINT & CHARTS
+   ============================================================================ */
+@media print {
+  .backgrounds {
+    background-color: var(--color-bg);
+  }
+}
+
+.has-dark-background canvas[data-chart] {
+  background-color: white;
+}
+
+.has-light-background canvas[data-chart] {
+  background-color: unset;
+}
+
+canvas[data-chart] {
+  padding: 0.5em;
+}

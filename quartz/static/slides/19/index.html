@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title></title>
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/mygreek.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+	<link rel="stylesheet" href="css/layout.css" />
+	<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+	<script type="text/javascript">
+		function fitElements(){
+			const itemsToFit = document.getElementsByClassName('fitText');
+			for (const item in itemsToFit) {
+				if (Object.hasOwnProperty.call(itemsToFit, item)) {
+					var element = itemsToFit[item];
+					fitElement(element,1, 1000);
+					element.classList.remove('fitText');
+				}
+			}
+		}
+
+		function fitElement(element, start, end){
+
+			let size = (end + start) / 2;
+			element.style.fontSize = `${size}px`;
+
+			if(Math.abs(start - end) < 1){
+				while(element.scrollHeight > element.offsetHeight){
+					size--;
+					element.style.fontSize = `${size}px`;
+				}
+				return;
+			}
+
+			if(element.scrollHeight > element.offsetHeight){
+				fitElement(element, start, size);
+			} else {
+				fitElement(element, size, end);
+			}		
+		}
+
+
+		document.onreadystatechange = () => {
+			fitElements();
+			if (document.readyState === 'complete') {
+				if (window.location.href.indexOf("print-pdf") != -1){
+					let stateCheck = setInterval(() => {
+						clearInterval(stateCheck);
+						window.print();
+					}, 250);
+				}
+			}
+	};
+
+
+        </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="subtitle">I. El modo</span>
+# subjuntivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## I. Una introducción a los modos griegos
+</div>
+
+<aside class="notes"><ul>
+<li><strong>Tiempos y voces del modo indicativo</strong>:    <ul>
+<li>El tiempo gramatical indica el tiempo cronológico y el aspecto verbal.</li>
+<li>La voz expresa la relación del sujeto con la acción.</li>
+<li>El modo indica la relación del verbo con la realidad según la percepción del autor.</li>
+</ul>
+</li>
+<li><strong>Modos en griego bíblico</strong>:<ul>
+<li>Cuatro modos principales: indicativo, subjuntivo, optativo e imperativo.</li>
+<li>Formas verbales no personales: infinitivo y participio (a veces consideradas modos).</li>
+</ul>
+</li>
+<li><strong>Introducción al modo subjuntivo</strong>:<ul>
+<li>Expresa acciones inciertas o deseos/anhelos.</li>
+<li>Traducción depende del contexto pero conserva el sentido de deseo.</li>
+<li>Provisionalmente traducido al <em>subjuntivo presente</em> en español: haga, desate, coma.</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Un vistazo al modo subjuntivo
+</div>
+
+<aside class="notes"><ul>
+<li><strong>Características del modo subjuntivo</strong>:<ul>
+<li>Muestra acciones que no son seguras, pero tienen posibilidad de ocurrir.</li>
+<li>Expresa deseos o anhelos.</li>
+</ul>
+</li>
+<li><strong>Riqueza en subjuntivos</strong>:<ul>
+<li>El español y el griego bíblico poseen una gran riqueza de formas subjuntivas.</li>
+<li>La traducción depende del contexto, siempre manteniendo el sentido de deseo.</li>
+</ul>
+</li>
+<li><strong>Traducción inicial</strong>:<ul>
+<li>Se utilizará provisionalmente el <em>subjuntivo presente</em> en español: haga, desate, coma.</li>
+<li>Al final de la clase, en el apartado #IV. sintaxis, se estudiará cómo traducirlo con mayor precisión.</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Características básicas del subjuntivo griego
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->El modo subjuntivo solo tiene presente y aoristo.
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->La característica básica del subjuntivo es que la vocal temática se alarga.
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Todos los tiempos utilizan las flexiones personales primarias
+
+<!-- .element: style="font-size: 0.9em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+# II. Morfología 
+
+<span class="subtitle">del Presente subjuntivo</span>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Características 
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->La vocal temática se alarga.
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Las desinencias son  casi idénticas a las del presente.
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/Subjuntivo-presente.png" alt="" style="width: 1900px; object-fit: fill">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Paradigma del presente activo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| Persona                       | R. Temp | <font color="#d35400">Voc. Tem</font> | <font color="#b7950b">Flex</font> | Forma verbal                                                     |
+| ----------------------------- | ------- | ------------------------------------- | --------------------------------- | ---------------------------------------------------------------- |
+| <span class="small">1S</span> | λύ      | <font color="#d35400">ω</font>        | <font color="#b7950b">–</font>    | λύ<font color="#d35400">ω</font>                                 |
+| <span class="small">2S</span> | λύ      | <font color="#d35400">η</font>        | <font color="#b7950b">ς</font>    | λύ<font color="#d35400">ῃ</font><font color="#b7950b">ς</font>  |
+| <span class="small">3S</span> | λύ      | <font color="#d35400">η</font>        | <font color="#b7950b">ι</font>    | λύ<font color="#d35400">ῃ</font>                                |
+| <span class="small">1P</span> | λύ      | <font color="#d35400">ω</font>        | <font color="#b7950b">μεν</font>  | λύ<font color="#d35400">ω</font><font color="#b7950b">μεν</font> |
+| <span class="small">2P</span> | λύ      | <font color="#d35400">η</font>        | <font color="#b7950b">τε</font>   | λύ<font color="#d35400">η</font><font color="#b7950b">τε</font>  |
+| <span class="small">3P</span> | λύ      | <font color="#d35400">ω</font>        | <font color="#b7950b">νσι</font>  | λύ<font color="#d35400">ω</font><font color="#b7950b">σι</font>  |
+</div>
+
+<aside class="notes"><h4 id="ii21-observaciones">II.2.1. Observaciones</h4>
+<ul>
+<li>Ten cuidado con 1S, pues es idéntico al indicativo.</li>
+<li>Al igual que en indicativo, 2S se le agrega una <strong>ι</strong> que posteriormente se suscribe.</li>
+<li>En 3S la  <strong>ι</strong> se suscribe.</li>
+<li>En 3P la <strong>ν</strong> se cae ante la <strong>σ</strong>.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Paradigma del presente medio/pasivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| Persona                       | Raíz | <font color="#d35400">V. Tema</font> | <font color="#b7950b">Flex</font> | Forma verbal                                                       |
+| ----------------------------- | ---- | ------------------------------------ | --------------------------------- | ------------------------------------------------------------------ |
+| <span class="small">1S</span> | λύ   | <font color="#d35400">ω</font>       | <font color="#b7950b">μαι</font>  | λύ<font color="#d35400">ω</font><font color="#b7950b">μαι</font>   |
+| <span class="small">2S</span> | λύ   | <font color="#d35400">η</font>       | <font color="#b7950b">σαι</font>  | λύ<font color="#d35400">ῃ</font>                                  |
+| <span class="small">3S</span> | λύ   | <font color="#d35400">η</font>       | <font color="#b7950b">ται</font>  | λύ<font color="#d35400">η</font><font color="#b7950b">ται</font>   |
+| <span class="small">1P</span> | λύ   | <font color="#d35400">ω</font>       | <font color="#b7950b">μεθα</font> | λυ<font color="#d35400">ώ</font><font color="#b7950b">μεθα</font> |
+| <span class="small">2P</span> | λύ   | <font color="#d35400">η</font>       | <font color="#b7950b">σθε</font>  | λύ<font color="#d35400">η</font><font color="#b7950b">σθε</font>   |
+| <span class="small">3P</span> | λύ   | <font color="#d35400">ω</font>       | <font color="#b7950b">νται</font> | λύ<font color="#d35400">ω</font><font color="#b7950b">νται</font>  |
+</div>
+
+<aside class="notes"><h4 id="ii31-observaciones">II.3.1. Observaciones</h4>
+<ul>
+<li>Cuando se agrega la vocal tematica de 2S, la sigma de la flexion personal cae, y las vocales se reducen (λύ<font color="#d35400">η</font><font color="#b7950b">σαι</font> → λύ<font color="#d35400">η</font><font color="#b7950b">αι</font> → λύ<font color="#d35400">η</font><font color="#b7950b">ι</font> → λύ<font color="#d35400">ῃ</font>). Es idéntica a su forma indicativa y al PAS 3S, por lo que el contexto será determinante.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Algunos ejemplos
+</div></div></div></div></div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+οὐχ οὕτως δέ ἐστιν ἐν ὑμῖν, ἀλλʼ ὃς ἂν <mark>θέλῃ</mark> μέγας γενέσθαι ἐν ὑμῖν ἔσται ὑμῶν διάκονος, καὶ ὃς ἂν <mark>θέλῃ</mark> ἐν ὑμῖν εἶναι πρῶτος ἔσται πάντων δοῦλος·<br ><span class="author">Marcos 10:43–44</span>
+<!-- .element: style="font-size: 1.2em; line-height: 1.8" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἵνα πᾶς ὁ πιστεύων ἐν αὐτῷ <mark>ἔχῃ</mark> ζωὴν αἰώνιον.<br ><span class="author">Juan 3:15</span>
+<!-- .element: style="font-size: 1.6em; line-height: 1.8" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## III. Raíces con Aoristo primero en subjuntivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Aoristo activo y medio/pasivo subjuntivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Características básicas 
+- &shy;<!-- .element: style="font-size: 0.8em" class="fragment" data-fragment-index="1" -->El aoristo subjuntivo no prefija aumento.
+- &shy;<!-- .element: style="font-size: 0.8em" class="fragment" data-fragment-index="2" -->La vocal temática se alarga
+- &shy;<!-- .element: style="font-size: 0.8em" class="fragment" data-fragment-index="3" -->La marca temporal <font color="#105d31">σ</font> es determinante.
+- &shy;<!-- .element: style="font-size: 0.8em" class="fragment" data-fragment-index="4" -->Usa las **Flexiones primarias**.
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Aoristo primero voz media
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/subjuntivo aoristo activo.png" alt="" style="width: 1920px; object-fit: fill">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Paradigma voz activa
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| P/N                           | Raíz | <font color="#105d31">M. Temp</font> | <font color="#d35400">V. Tema</font> | <font color="#b7950b">Flex</font> | Forma verbal                                                                                      |
+| ----------------------------- | ---- | ------------------------------------ | ------------------------------------ | --------------------------------- | ------------------------------------------------------------------------------------------------- |
+| <span class="small">1S</span> | λυ   | <font color="#105d31">σ</font>       | <font color="#d35400">ω</font>       | <font color="#b7950b">–</font>    | λυ<font color="#105d31">σ</font><font color="#d35400">ω</font>                                    |
+| <span class="small">2S</span> | λυ   | <font color="#105d31">σ</font>       | <font color="#d35400">η</font>       | <font color="#b7950b">ς</font>    | λυ<font color="#105d31">σ</font><font color="#d35400">ῃ</font><font color="#b7950b">ς</font>     |
+| <span class="small">3S</span> | λυ   | <font color="#105d31">σ</font>       | <font color="#d35400">η</font>       | <font color="#b7950b">ι</font>    | λυ<font color="#105d31">σ</font><font color="#d35400">ῃ</font>                                   |
+| <span class="small">1P</span> | λυ   | <font color="#105d31">σ</font>       | <font color="#d35400">ω</font>       | <font color="#b7950b">μεν</font>  | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">μεν</font>    |
+| <span class="small">2P</span> | λυ   | <font color="#105d31">σ</font>       | <font color="#d35400">η</font>       | <font color="#b7950b">τε</font>   | λύ<font color="#105d31">σ</font><font color="#d35400">η</font><font color="#b7950b">τε</font>     |
+| <span class="small">3P</span> | λυ   | <font color="#105d31">σ</font>       | <font color="#d35400">ω</font>       | <font color="#b7950b">νσι</font>  | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">σι(ν)</font> |
+</div>
+
+<aside class="notes"><h4 id="observaciones">Observaciones</h4>
+<ul>
+<li>En 1S ten mucho cuidado, ya que la forma es idéntica al FAI.</li>
+<li>El aoristo primero activo subjuntivo de los verbos regulares es idéntico al presente, salvo por la marca temporal.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">#### Algunos ejemplos
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+οὗτος ἦλθεν εἰς μαρτυρίαν ἵνα <mark>μαρτυρήσῃ</mark> περὶ τοῦ φωτός, ἵνα πάντες <mark>πιστεύσωσιν</mark> διʼ αὐτοῦ.<br ><span class="author">Juan 1:7</span>
+<!-- .element: style="font-size: 1.6em; line-height: 1.8" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Paradigma aoristo subjuntivo voz media
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| P/N                           | Raíz | <font color="#105d31">M. Temp</font> | <font color="#d35400">V. Tem</font> | <font color="#b7950b">Flex</font> | Forma verbal                                                                                     |
+| ----------------------------- | ---- | ------------------------------------ | ----------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <span class="small">1S</span> | λύ   | <font color="#105d31">σ</font>       | <font color="#d35400">ω</font>      | <font color="#b7950b">μαι</font>  | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">μαι</font>   |
+| <span class="small">2S</span> | λύ   | <font color="#105d31">σ</font>       | <font color="#d35400">η</font>      | <font color="#b7950b">σαι</font>  | λύ<font color="#105d31">σ</font><font color="#d35400">ῃ</font>                                  |
+| <span class="small">3S</span> | λύ   | <font color="#105d31">σ</font>       | <font color="#d35400">η</font>      | <font color="#b7950b">ται</font>  | λύ<font color="#105d31">σ</font><font color="#d35400">η</font><font color="#b7950b">ται</font>   |
+| <span class="small">1P</span> | λύ   | <font color="#105d31">σ</font>       | <font color="#d35400">ω</font>      | <font color="#b7950b">μεθα</font> | λυ<font color="#105d31">σ</font><font color="#d35400">ώ</font><font color="#b7950b">μεθα</font> |
+| <span class="small">2P</span> | λύ   | <font color="#105d31">σ</font>       | <font color="#d35400">η</font>      | <font color="#b7950b">σθε</font>  | λύ<font color="#105d31">σ</font><font color="#d35400">η</font><font color="#b7950b">σθε</font>   |
+| <span class="small">3P</span> | λύ   | <font color="#105d31">σ</font>       | <font color="#d35400">ω</font>      | <font color="#b7950b">νται</font> | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">νται</font>  |
+<!-- .element: style="font-size: 0.8em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+####  Algunos ejemplos
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+\[ἀλλὰ\] καὶ νῦν οἶδα ὅτι ὅσα ἂν <mark>αἰτήσῃ</mark> τὸν θεὸν δώσει σοι ὁ θεός.<br ><span class="author">Juan 11:22</span>
+<!-- .element: style="font-size: 1.6em; line-height: 1.8" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἐν τούτῳ ἐδοξάσθη ὁ πατήρ μου, ἵνα καρπὸν πολὺν φέρητε καὶ <mark>γένησθε</mark> ἐμοὶ μαθηταί.<br ><span class="author">Juan 15:8</span>
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Aoristo pasivo subjuntivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Características
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Omite el aumento
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Flexiones personales primarias activas. 
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Marca temporal “<font color="#105d31">θ</font>” en vez de la“<font color="#105d31">σ</font>”.
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Paradigma del Aoristo pasivo Subjuntivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| P/N                           | Raíz | <font color="#105d31">M. Temp</font> | <font color="#d35400">V. Tema</font> | <font color="#b7950b">Flex</font> | Forma verbal                                                                                       |
+| ----------------------------- | ---- | ------------------------------------ | ------------------------------------ | --------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <span class="small">1S</span> | λυ   | <font color="#105d31">θ</font>       | <font color="#d35400">ω</font>       | <font color="#b7950b">–</font>    | λυ<font color="#105d31">θ</font><font color="#d35400">ῶ</font>                                    |
+| <span class="small">2S</span> | λυ   | <font color="#105d31">θ</font>       | <font color="#d35400">η</font>       | <font color="#b7950b">ς</font>    | λυ<font color="#105d31">θ</font><font color="#d35400">ῇ</font><font color="#b7950b">ς</font>     |
+| <span class="small">3S</span> | λυ   | <font color="#105d31">θ</font>       | <font color="#d35400">η</font>       | <font color="#b7950b">ι</font>    | λυ<font color="#105d31">θ</font><font color="#d35400">ῇ</font>                                   |
+| <span class="small">1P</span> | λυ   | <font color="#105d31">θ</font>       | <font color="#d35400">ω</font>       | <font color="#b7950b">μεν</font>  | λύ<font color="#105d31">θ</font><font color="#d35400">ῶ</font><font color="#b7950b">μεν</font>    |
+| <span class="small">2P</span> | λυ   | <font color="#105d31">θ</font>       | <font color="#d35400">η</font>       | <font color="#b7950b">τε</font>   | λύ<font color="#105d31">θ</font><font color="#d35400">ῆ</font><font color="#b7950b">τε</font>     |
+| <span class="small">3P</span> | λυ   | <font color="#105d31">θ</font>       | <font color="#d35400">ω</font>       | <font color="#b7950b">νσι</font>  | λύ<font color="#105d31">θ</font><font color="#d35400">ῶ</font><font color="#b7950b">σι(ν)</font> |
+<!-- .element: style="font-size: 0.9em" -->
+</div></script></section><section  data-markdown><script type="text/template">#### Algunos ejemplos
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+καὶ ὅ τι ἂν αἰτήσητε ἐν τῷ ὀνόματί μου τοῦτο ποιήσω, ἵνα <mark>δοξασθῇ</mark> ὁ πατὴρ ἐν τῷ υἱῷ.<br ><span class="author">Juan 14:13</span>
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+Ταῦτα λελάληκα ὑμῖν ἵνα ἡ χαρὰ ἡ ἐμὴ ἐν ὑμῖν ᾖ καὶ ἡ χαρὰ ὑμῶν <mark>πληρωθῇ</mark>.<br ><span class="author">Juan 15:11</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Sumario de paradigmas del aoristo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| Persona                       | VOZ ACTIVA                                                                                        | VOZ MEDIA                                                                                        | VOZ PASIVA                                                                                         |
+| ----------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| <span class="small">1S</span> | λυ<font color="#105d31">σ</font><font color="#d35400">ω</font>                                    | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">μαι</font>   | λυ<font color="#105d31">θ</font><font color="#d35400">ῶ</font>                                    |
+| <span class="small">2S</span> | λυ<font color="#105d31">σ</font><font color="#d35400">ῃ</font><font color="#b7950b">ς</font>     | λύ<font color="#105d31">σ</font><font color="#d35400">ῃ</font>                                  | λυ<font color="#105d31">θ</font><font color="#d35400">ῇ</font><font color="#b7950b">ς</font>     |
+| <span class="small">3S</span> | λυ<font color="#105d31">σ</font><font color="#d35400">ῃ</font>                                   | λύ<font color="#105d31">σ</font><font color="#d35400">η</font><font color="#b7950b">ται</font>   | λυ<font color="#105d31">θ</font><font color="#d35400">ῇ</font>                                   |
+| <span class="small">1P</span> | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">μεν</font>    | λυ<font color="#105d31">σ</font><font color="#d35400">ώ</font><font color="#b7950b">μεθα</font> | λύ<font color="#105d31">θ</font><font color="#d35400">ῶ</font><font color="#b7950b">μεν</font>    |
+| <span class="small">2P</span> | λύ<font color="#105d31">σ</font><font color="#d35400">η</font><font color="#b7950b">τε</font>     | λύ<font color="#105d31">σ</font><font color="#d35400">η</font><font color="#b7950b">σθε</font>   | λύ<font color="#105d31">θ</font><font color="#d35400">ῆ</font><font color="#b7950b">τε</font>     |
+| <span class="small">3P</span> | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">σι(ν)</font> | λύ<font color="#105d31">σ</font><font color="#d35400">ω</font><font color="#b7950b">νται</font>  | λύ<font color="#105d31">θ</font><font color="#d35400">ῶ</font><font color="#b7950b">σι(ν)</font> |
+
+<!-- .element: style="font-size: 0.9em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="subtitle">IV. Otros verbos</span>
+# frecuentes
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Perfecto subjuntivo de οἶδα
+</div>
+
+<aside class="notes"><p>Como se mencionó anteriormente, el modo subjetivo aparece exclusivamente en presente y aoristo. La única excepción es el verbo οἶδα, que por el contrario, en modo subjetivo aparece exclusivamente en el tiempo perfecto:</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| Persona                       | Raiz temporal | Traducción |
+| ----------------------------- | ------------- | ---------- |
+| <span class="small">1S</span> | εἰδῶ          | sepa       |
+| <span class="small">2S</span> | εἰδῇς         | sepas      |
+| <span class="small">3S</span> | εἰδῇ          | sepa       |
+| <span class="small">1P</span> | εἰδῶμεν       | sepamos    |
+| <span class="small">2P</span> | εἰδῆτε        | sepais     |
+</div></script></section><section  data-markdown><script type="text/template">#### Algunos ejemplos
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἐὰν εἰδῆτε ὅτι δίκαιός ἐστιν, γινώσκετε ὅτι καὶ πᾶς ὁ ποιῶν τὴν δικαιοσύνην ἐξ αὐτοῦ γεγέννηται.<br ><span class="author">1 Juan 2:29</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἡμεῖς δὲ οὐ τὸ πνεῦμα τοῦ κόσμου ἐλάβομεν ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ, ἵνα εἰδῶμεν τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν·<br ><span class="author">1 Corintios 2:12</span>
+
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Presente de subjuntivo de εἰμί
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Características
+- Solo aparece en presente. 
+- Es idéntico a las desinencias del PAS.
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Paradigma
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+| Persona                       | Raiz temporal | Traducción |
+| ----------------------------- | ------------- | ---------- |
+| <span class="small">1S</span> | ὦ             | sea        |
+| <span class="small">2S</span> | ᾖς            | seas       |
+| <span class="small">3S</span> | ᾖ             | sea        |
+| <span class="small">1P</span> | ὦμεν          | seamos     |
+| <span class="small">2P</span> | ἦτε           | seais      |
+| <span class="small">3P</span> | ὦσι(ν)        | sean       |
+
+<!-- .element: style="font-size: 0.9em" -->
+</div></script></section><section  data-markdown><script type="text/template">#### Algunos ejemplos
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ὅταν ἐν τῷ κόσμῳ <mark>ὦ</mark>, φῶς εἰμι τοῦ κόσμου.<br ><span class="author">Juan 9:5</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+καὶ ἐὰν πορευθῶ καὶ ἑτοιμάσω τόπον ὑμῖν, πάλιν ἔρχομαι καὶ παραλήμψομαι ὑμᾶς πρὸς ἐμαυτόν, ἵνα ὅπου εἰμὶ ἐγὼ καὶ ὑμεῖς <mark>ἦτε</mark>.<br ><span class="author">Juan 14:3</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+# sintaxis
+</div>
+
+<aside class="notes"><p>El modo subjuntivo, junto con el optativo y el imperativo, forma parte de los <em>modos potenciales</em>. Es decir, mientras que el modo indicativo se usa para expresar una acción que es real, al menos en la mente del hablante, los modos potenciales expresan acciones que son más o menos reales.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**El modo subjuntivo** expresa un deseo que es probable.
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**El modo optativo** expresa una una acción que es posible. 
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**El modo imperativo** expresa una orden o un ruego.
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Las oraciones condicionales
+</div>
+
+<aside class="notes"><p>Como su nombre lo indica, una oración condicional es una estructura que expresa una condición y su resultado. Está formada por dos partes principales. La <strong>prótasis</strong> es la cláusula que contiene la condición. En español la introducimos por “si”. La <strong>apódosis</strong> es la cláusula que contiene el resultado.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/condicionales.png" alt="" style="width: 1920px; object-fit: fill">
+</div>
+
+<aside class="notes"><ul>
+<li><strong>Ejemplo de oración condicional</strong>:<ul>
+<li>Frase: &quot;Si estudias duro, dominarás el griego bíblico.&quot;</li>
+<li>Identificación de partes:<ul>
+<li><em>Prótasis</em>: &quot;Si estudias duro.&quot;</li>
+<li><em>Apódosis</em>: &quot;Dominarás el griego bíblico.&quot;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Limitaciones en español</strong>:<ul>
+<li>No existe una forma gramatical específica para:<ul>
+<li>Indicar si la prótasis es real, deseada, poco probable o irreal.</li>
+</ul>
+</li>
+<li>La interpretación depende del contexto y del interlocutor.</li>
+</ul>
+</li>
+<li><strong>Ambigüedad en español</strong>:<ul>
+<li>La frase podría interpretarse como una acusación de que el oyente no está estudiando lo suficiente.</li>
+</ul>
+</li>
+<li><strong>Claridad en griego koiné</strong>:<ul>
+<li>El griego bíblico elimina esta ambigüedad.</li>
+<li>Presenta cuatro clases de oraciones condicionales definidas:<ul>
+<li>Cada una con características morfológicas y sintácticas específicas.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Oración condicional de primera clase
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/1a clase.png" alt="" style="width: 1920px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>Aquí tienes el texto convertido a bullets para tus diapositivas:</p>
+<ul>
+<li><strong>Primera clase de oración condicional</strong>:
+- La prótasis se presume como verdadera según un argumento lógico.
+- La apódosis sigue como una consecuencia natural de la prótasis.</li>
+<li><strong>Interpretación por Daniel Wallace</strong>:
+- Este tipo de oración parte de la premisa de que la condición ya se cumplió.
+- Frecuentemente se traduce como: <em>“ya que... entonces”</em>.</li>
+<li><strong>Uso adicional</strong>:
+- También se emplea para mostrar la ilogicidad de un argumento.
+- Ejemplo: “Supongamos por un momento que <strong>x</strong> es cierto… entonces observa la consecuencia ilógica.”</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Algunos ejemplos de uso
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+καὶ εἰ ἡ δεξιά σου χεὶρ σκανδαλίζει σε, ἔκκοψον αὐτὴν καὶ βάλε ἀπὸ σοῦ·<br ><span class="author">Mateo 5:30</span> 
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+αὐτὸ τὸ πνεῦμα συμμαρτυρεῖ τῷ πνεύματι ἡμῶν ὅτι ἐσμὲν τέκνα θεοῦ. εἰ δὲ τέκνα, καὶ κληρονόμοι…<br ><span class="author">Romanos 8:16–17 </span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+καὶ εἰ ἐγὼ ἐν Βεελζεβοὺλ ἐκβάλλω τὰ δαιμόνια, οἱ υἱοὶ ὑμῶν ἐν τίνι ἐκβάλλουσιν; διὰ τοῦτο αὐτοὶ κριταὶ ἔσονται ὑμῶν.<br ><span class="author">Mateo 12:27–28</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+εἰ δὲ ἐν πνεύματι θεοῦ ἐγὼ ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφʼ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ.<br ><span class="author">Mateo 12:27–28</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Oración condicional de segunda clase
+</div>
+
+<aside class="notes"><h5 id="estructura">Estructura</h5>
+<p>La condicional de segunda clase se caracteriza porque su prótasis es introducida por la conjunción <strong>εἰ</strong> más un verbo indicativo en tiempo pasado; mientras que la apódosis es introducida por la partícula <strong>ἄν</strong> y su verbo también en indicativo.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/2da clase.png" alt="" style="width: 1920px; object-fit: fill">
+</div>
+
+<aside class="notes"><h5 id="significado">Significado</h5>
+<p>Esta estructura condicional es la opuesta a la primera. El que habla asume que la prótasis es falsa, por lo que apódosis también lo es.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Ejemplos de uso
+</div></div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί· περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.<br ><span class="author">Juan 5:46</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+###  Oración condicional de tercera clase
+</div>
+
+<aside class="notes"><h5 id="estructura">Estructura</h5>
+<p>En este tipo de oraciones condicionales, la prótasis es introducida por εἀν y el verbo se encuentra en modo subjuntivo. La Apódosis utiliza cualquier tiempo en cualquier modo.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/3a clase.png" alt="" style="width: 1920px; object-fit: fill">
+</div>
+
+<aside class="notes"><h5 id="significado">Significado</h5>
+<p> Este clase no presume nada, y es, por lo tanto, la más parecida a nuestra condicional en español. Simplemente se establece una conexión lógica: Si A es verdad, entonces B también.</p>
+</aside></script></section><section  data-markdown><script type="text/template">#### Ejemplos de uso
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ θεοῦ.<br ><span class="author">Juan 3:3</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἀπεκρίθη Ἰησοῦς· ἐὰν ἐγὼ δοξάσω ἐμαυτόν, ἡ δόξα μου οὐδέν ἐστιν· ἔστιν ὁ πατήρ μου ὁ δοξάζων με, ὃν ὑμεῖς λέγετε ὅτι θεὸς ἡμῶν ἐστιν,<br ><span class="author">Juan 8:54</span>
+
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Oración condicional de cuarta clase
+</div>
+
+<aside class="notes"><h5 id="estructura">Estructura</h5>
+<p>En esta clase de condicional la prótasis se introduce por <strong>εἰ</strong> acompañado de un verbo en modo optativo, la apódosis se introduce por <strong>ἄν</strong> más un verbo en optativo.</p>
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" --></aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Griego/Morfología/imagenes/4A CLASE.png" alt="" style="width: 1920px; object-fit: fill">
+</div>
+
+<aside class="notes"><h5 id="significado">Significado</h5>
+<p>Esta clausula se utiliza para expresar algo que es una posibilidad remota, podría traducirse como “si quizás esto pudiera ocurrir”.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Ejemplos de uso
+</div>
+
+<aside class="notes"><p>Debido a que en la época del Nuevo Testamento el modo optativo estaba cayendo en desuso, esta clase es muy rara en el Nuevo Testamento, de hecho no tenemos ninguna oración de cuarta clase completa. La mayoría de las veces, aparece bajo la pluma de Lucas.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἀλλʼ εἰ καὶ <mark>πάσχοιτε</mark> διὰ δικαιοσύνην, μακάριοι.<br ><span class="author">1 Pedro 3:14</span>
+
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div>
+
+<aside class="notes"><p>Observa que en el ejemplo anterior solo la prótasis cumple la estructura, pero no la apódosis.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## V.3. ἵνα + subjuntivo
+</div>
+
+<aside class="notes"><p>Las cláusulas dependientes son aquellas que están subordinadas a una oración principal, tal es el caso de las oraciones condicionales que se subordinan por medio de la conjunción <strong>ἐάν</strong>. En el NT es muy común encontrar al modo subjuntivo después del caso del subjuntivo, lo más común es encontrarlo después de la conjunción <strong>ἵνα</strong>, que normalmente se traduce “para que”. En su gramática griega, Wallace menciona que hay siete usos de <strong>ἵνα</strong>  + subjuntivo, que veremos a continuación.^[Daniel Wallace y Daniel S. Steffen, Gramática Griega: Sintaxis del Nuevo Testamento, ed. Daniel S. Steffen, Segunda edición., vol. 13 of Biblioteca Teológica Vida (Miami, FL: Editorial Vida, 2015), 345.]</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Propósito o resultado
+</div>
+
+<aside class="notes"><p>Es el uso más común y revela la intención del verbo principal. La traducción más literal habitual será “para que” + subjuntivo, aunque dependiendo del contexto  es válido utilizar “para” + infinitivo.</p>
+<p>οὗτος ἦλθεν εἰς μαρτυρίαν ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν διʼ αὐτοῦ.<br ><span class="author">Juan 1:7</span></p>
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" --></aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον, ὥστε τὸν υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλʼ ἔχῃ ζωὴν αἰώνιον.<br ><span class="author">Juan 3:16</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Como sustantivo
+</div>
+
+<aside class="notes"><p>En algunas ocasiones las estructura <strong>ἵνα</strong> + subjuntivo se utiliza como sustantivo, en estos casis <strong>ἵνα</strong> se traduce como “que”.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+λέγει αὐτοῖς ὁ Ἰησοῦς· ἐμὸν βρῶμά ἐστιν ἵνα ποιήσω τὸ θέλημα τοῦ πέμψαντός με.<br ><span class="author">Juan 4:34</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ἐν τούτῳ ἐδοξάσθη ὁ πατήρ μου, ἵνα καρπὸν πολὺν φέρητε καὶ γένησθε ἐμοὶ μαθηταί.<br ><span class="author">Juan 15:8</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Explicación (epexegético)
+</div>
+
+<aside class="notes"><p>En ocasiones <strong>ἵνα</strong> + subjuntivo se utiliza para introducir una explicación, en esos casos se debe traducir <strong>ἵνα</strong> como “de que”.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου· αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ.<br ><span class="author">Juan 2:25</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Complementario
+</div>
+
+<aside class="notes"><p>También es muy frecuente que <strong>ἵνα</strong> + subjuntivo introduzca un verbo complementario para verbos como θέλω y δύναμαι, aquí se debe traducir “que”</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+Πάτερ, ὃ δέδωκάς μοι, θέλω ἵνα ὅπου εἰμὶ ἐγὼ κἀκεῖνοι ὦσιν μετʼ ἐμοῦ<br ><span class="author">Juan 17:24</span>
+
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## El modo subjuntivo con verbos de advertencia
+</div>
+
+<aside class="notes"><p><strong>μή + subjuntivo</strong> puede ser usado después de verbos de temor, advertencia, vigilancia, etc. Sirve como una advertencia o sugiere cuidado o ansiedad.  En español, la traducción necesita la conjunción <strong>que</strong>, para introducir el contenido de la advertencia con un verbo subjuntivo.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+ὁ δὲ εἶπεν· βλέπετε μὴ πλανηθῆτε· πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου…<br ><span class="author">Lucas 21:8</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## El modo subjuntivo en clausulas independientes
+</div>
+
+<aside class="notes"><p>En el NT el subjuntivo suele aparecer en cláusulas subordinadas. Sin en cambio, en algunas ocasiones se utiliza el subjuntivo en cláusulas independientes.</p>
+<p>Los cuatro usos del modo subjuntivo en cláusulas independientes pueden distinguirse por la presencia o ausencia de adverbios negativos. Cuando un subjuntivo en cláusula independiente no tiene negativo puede ser usado como exhortatorio o deliberativo. En cambio, si la cláusula independiente tiene un negativo, el subjuntivo se usará como negación enfática o prohibición.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### El subjuntivo exhortativo
+</div>
+
+<aside class="notes"><p>En América Latina, los políticos utilizan esta forma cuando están en proselitismo. Es común escuchar a los candidatos decir: Hagamos de este país una gran nación; Votemos por el cambio del país, etc. </p>
+<p>El modo subjuntivo exhortativo es utilizado cuando el hablante o escritor exhorta a otros para que hagan algo juntamente con él.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+εἶπεν οὖν Θωμᾶς ὁ λεγόμενος Δίδυμος τοῖς συμμαθηταῖς· ἄγωμεν καὶ ἡμεῖς ἵνα ἀποθάνωμεν μετʼ αὐτοῦ.<br ><span class="author">Juan 11:16</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div>
+
+<aside class="notes"><p>La clave para distinguir el subjuntivo exhortativo son:</p>
+<ul>
+<li>El verbo está en primera persona plural (y, en raras ocasiones, en singular).</li>
+<li>El verbo subjuntivo exhortatorio no está precedido por ninguna conjunción subordinante. </li>
+<li>No se encuentra dentro de una pregunta.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### El subjuntivo deliberativo
+</div>
+
+<aside class="notes"><p>El subjuntivo deliberativo hace una pregunta. En ocasiones esa pregunta es real que espera una respuesta. En otras ocasiones, es una pregunta que solamente tiene fines retóricos.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+Μὴ οὖν μεριμνήσητε λέγοντες· τί φάγωμεν; ἤ· τί πίωμεν; ἤ· τί περιβαλώμεθα;<br ><span class="author">Mateo 6:31</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div>
+
+<aside class="notes"><p>La clave para identificar este tipo de subjuntivo es que el verbo se encuentra dentro de una pregunta. Para</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Subjuntivo de negación enfática
+</div>
+
+<aside class="notes"><p>Este uso del subjuntivo se construye con <strong>οὐ μή</strong> + aoristo subjuntivo. Esta construcción niega algo que puede ser posible. Usualmente traduciremos la soble negación como <em>jamás</em> y el verbo en <em>futuro indicativo</em>.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+καὶ πᾶς ὁ ζῶν καὶ πιστεύων εἰς ἐμὲ οὐ μὴ ἀποθάνῃ εἰς τὸν αἰῶνα. πιστεύεις τοῦτο;<br ><span class="author">Juan 11:26</span>
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Subjuntivo prohibitivo
+</div>
+
+<aside class="notes"><ul>
+<li>Este uso del subjuntivo se da cuando el verbo aparece en un mandamiento negativo. </li>
+<li>La estructura de este uso del subjuntivo es <strong>μή</strong> + <strong>aoristo subjuntivo en la segunda persona</strong>. </li>
+<li>Con este uso, el subjuntivo prohíbe una cosa antes de que haya empezado.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+μὴ θαυμάσῃς ὅτι εἶπόν σοι· δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν.<br ><span class="author">Juan 3:7</span>
+
+
+<!-- .element: style="line-height: 1.8; font-size: 1.2em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Vocabulario
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">μή</span>
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->no
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">μηδείς</span>
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->nadie; nada
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">χρόνος</span>
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->tiempo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">μηδέ</span> 
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->ni; no
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ἐάν</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->si; si en verdad
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ἄν</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->(no se traduce pero comunica posibilidad)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">εἴτε</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->ser; si; ya sea; o
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ἤδη</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->ya; ahora
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ὧδε</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->aquí
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ὕδωρ</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->agua
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ῥῆμα</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->palabra
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">γραμματεύς</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->escriba
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">δαιμόνιον</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->demonio
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ἐρωτάω</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->preguntar; rogar, pedir
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">θέλημα</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->voluntad, deseo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">Ἱεροσόλυμα</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Jerusalén
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">Γαλιλαία</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Galilea
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">προσκυνέω</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->adorar; postrarse
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">Δαυίδ</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->David
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">συναγωγή</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->sinagoga, congregación
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">τρίτος</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->tercero
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">ἐπερωτάω</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->preguntar; pedir
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">λοιπός</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->demás; resto
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">Πιλᾶτος</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Pilato
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">δεξιός</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->derecha; diestra
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1080px; width: 1920px; min-height: 1080px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<span class="gkbigger">εὐαγγελίζω</span>
+
+ - &shy;<!-- .element: class="fragment" data-fragment-index="1" -->anunciar el evangelio, predicar
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/math/math.js"></script>
+	<script src="plugin/mermaid/mermaid.js"></script>
+	<script src="plugin/chart/chart.min.js"></script>
+	<script src="plugin/chart/plugin.js"></script>
+	<script src="plugin/customcontrols/plugin.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+	  function isLight(color) {
+		let hex = color.replace('#', '');
+
+		// convert #fff => #ffffff
+		if(hex.length == 3){
+			hex = `${hex[0]}${hex[0]}${hex[1]}${hex[1]}${hex[2]}${hex[2]}`;
+		}
+
+		const c_r = parseInt(hex.substr(0, 2), 16);
+		const c_g = parseInt(hex.substr(2, 2), 16);
+		const c_b = parseInt(hex.substr(4, 2), 16);
+		const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+		return brightness > 155;
+	}
+
+	var bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+	var isLight = isLight(bgColor);
+
+	if(isLight){
+		document.body.classList.add('has-light-background');
+	} else {
+		document.body.classList.add('has-dark-background');
+	}
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath.MathJax3,
+		  RevealMermaid,
+		  RevealChart,
+		  RevealCustomControls,
+        ],
+
+
+    	allottedTime: 120 * 1000,
+
+		mathjax3: {
+			mathjax: 'plugin/math/mathjax/tex-mml-chtml.js',
+		},
+		markdown: {
+		  gfm: true,
+		  mangle: true,
+		  pedantic: false,
+		  smartLists: false,
+		  smartypants: false,
+		},
+
+		mermaid: {
+			theme: isLight ? 'default' : 'dark',
+		},
+
+		customcontrols: {
+			controls: [
+			]
+		},
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"width":1920,"height":1080,"margin":0.04,"controls":true,"progress":true,"slideNumber":false,"center":true,"transition":"slide","transitionSpeed":"default"}, queryOptions);
+    </script>
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+
+  <!-- created with Advanced Slides -->
+</html>
